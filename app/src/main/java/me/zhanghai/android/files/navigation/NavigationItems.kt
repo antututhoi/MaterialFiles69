@@ -58,6 +58,20 @@ val navigationItems: List<NavigationItem?>
                 add(null)
                 addAll(bookmarkDirectoryItems)
             }
+            // 69 mod: file-type shortcuts (search the whole storage)
+            add(null)
+            addAll(
+                listOf(
+                    Triple("Images", "type:image", R.drawable.image_icon_white_24dp),
+                    Triple("Videos", "type:video", R.drawable.video_icon_white_24dp),
+                    Triple("Audio", "type:audio", R.drawable.audio_icon_white_24dp),
+                    Triple("Documents", "type:doc", R.drawable.document_icon_white_24dp),
+                    Triple("Archives", "type:archive", R.drawable.file_icon_white_24dp),
+                    Triple("APKs", "type:apk", R.drawable.device_icon_white_24dp),
+                    Triple("Big files (>100 MB)", ">100mb", R.drawable.file_icon_white_24dp),
+                    Triple("Changed in 7 days", "days:7 file:", R.drawable.alarm_icon_white_24dp),
+                ).map { (title, q, icon) -> TypeShortcutItem(title, q, icon) }
+            )
             // 69 mod: recent folders
             val recent = me.zhanghai.android.files.mod69.Mod69Recent.liveData.value.orEmpty()
                 .filter { java.io.File(it).isDirectory }
@@ -361,6 +375,22 @@ private class BookmarkDirectoryItem(
 }
 
 // 69 mod
+private class TypeShortcutItem(
+    private val title: String,
+    private val query: String,
+    @DrawableRes override val iconRes: Int,
+) : NavigationItem() {
+    override val id: Long
+        get() = ("type:" + query).hashCode().toLong()
+
+    override fun getTitle(context: Context): String = title
+
+    override fun onClick(listener: Listener) {
+        me.zhanghai.android.files.mod69.Mod69PendingSearch.query = query
+        listener.navigateToRoot(Paths.get(Environment.getExternalStorageDirectory().absolutePath))
+    }
+}
+
 private class RecentDirectoryItem(path: Path) : PathItem(path) {
     override val id: Long
         get() = ("recent:" + path.toString()).hashCode().toLong()

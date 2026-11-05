@@ -588,6 +588,11 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
         if (path.isLinuxPath && viewModel.pickOptions == null) {
             me.zhanghai.android.files.mod69.Mod69Recent.add(path.toString())
         }
+        me.zhanghai.android.files.mod69.Mod69PendingSearch.take()?.let { q ->
+            viewModel.searchViewExpanded = true
+            viewModel.searchViewQuery = q
+            viewModel.search(q)
+        }
         updateOverlayToolbar()
         updateBottomToolbar()
     }
