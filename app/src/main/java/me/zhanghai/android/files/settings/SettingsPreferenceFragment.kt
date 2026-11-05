@@ -17,8 +17,43 @@ import me.zhanghai.android.files.ui.PreferenceFragmentCompat
 class SettingsPreferenceFragment : PreferenceFragmentCompat() {
     private lateinit var localePreference: LocalePreference
 
+    // 69 mod
+    private val mod69Export = registerForActivityResult(
+        androidx.activity.result.contract.ActivityResultContracts.CreateDocument("application/json")
+    ) { uri ->
+        if (uri != null) mod69Toast(runCatching { me.zhanghai.android.files.mod69.Mod69SettingsBackup.export(requireContext(), uri); "Settings saved" })
+    }
+    private val mod69Import = registerForActivityResult(
+        androidx.activity.result.contract.ActivityResultContracts.OpenDocument()
+    ) { uri ->
+        if (uri != null) mod69Toast(runCatching { me.zhanghai.android.files.mod69.Mod69SettingsBackup.import(requireContext(), uri); "Settings loaded – restart the app" })
+    }
+
+    private fun mod69Toast(r: Result<String>) {
+        android.widget.Toast.makeText(
+            requireContext(), r.getOrElse { it.message ?: it.toString() }, android.widget.Toast.LENGTH_LONG
+        ).show()
+    }
+
     override fun onCreatePreferencesFix(savedInstanceState: Bundle?, rootKey: String?) {
         addPreferencesFromResource(R.xml.settings)
+        // 69 mod
+        preferenceScreen.findPreference<androidx.preference.Preference>("mod69_export_settings")?.setOnPreferenceClickListener {
+            mod69Export.launch("69-material-files-settings.json"); true
+        }
+        preferenceScreen.findPreference<androidx.preference.Preference>("mod69_import_settings")?.setOnPreferenceClickListener {
+            mod69Import.launch(arrayOf("application/json", "text/plain", "application/octet-stream")); true
+        }
+        preferenceScreen.findPreference<androidx.preference.Preference>("mod69_empty_bin")?.setOnPreferenceClickListener {
+            me.zhanghai.android.files.mod69.Mod69Bin.emptyBin(requireContext()); true
+        }
+        preferenceScreen.findPreference<androidx.preference.Preference>("mod69_open_bin")?.setOnPreferenceClickListener {
+            val dir = me.zhanghai.android.files.mod69.Mod69Bin.root.apply { mkdirs() }
+            startActivity(
+                me.zhanghai.android.files.filelist.FileListActivity.createViewIntent(java8.nio.file.Paths.get(dir.absolutePath))
+            )
+            true
+        }
 
         localePreference = preferenceScreen.findPreference(getString(R.string.pref_key_locale))!!
         if (Build.VERSION.SDK_INT < Build.VERSION_CODES.TIRAMISU) {

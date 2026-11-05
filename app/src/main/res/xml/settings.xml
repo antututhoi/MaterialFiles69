@@ -108,4 +108,25 @@
             android:title="@string/settings_read_remote_files_for_thumbnail_title"
             android:defaultValue="@bool/pref_default_value_read_remote_files_for_thumbnail" />
     </PreferenceCategory>
+
+    <!-- 69 mod -->
+    <PreferenceCategory android:title="69 mod">
+        <SwitchPreferenceCompat
+            android:key="mod69_recycle_bin"
+            android:title="Recycle bin"
+            android:summary="Deleted files go to Internal/.69RecycleBin first (select them there to restore)"
+            android:defaultValue="true" />
+        <Preference
+            android:key="mod69_open_bin"
+            android:title="Open recycle bin" />
+        <Preference
+            android:key="mod69_empty_bin"
+            android:title="Empty recycle bin" />
+        <Preference
+            android:key="mod69_export_settings"
+            android:title="Export settings" />
+        <Preference
+            android:key="mod69_import_settings"
+            android:title="Import settings" />
+    </PreferenceCategory>
 </PreferenceScreen>

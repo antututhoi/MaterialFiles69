@@ -34,6 +34,19 @@
         android:title="@string/delete"
         app:showAsAction="always" />
 
+    <!-- 69 mod -->
+    <item
+        android:id="@+id/action_mod69_batch_rename"
+        android:orderInCategory="100"
+        android:title="Rename with pattern"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_mod69_restore"
+        android:orderInCategory="100"
+        android:title="Restore from recycle bin"
+        app:showAsAction="never" />
+
     <item
         android:id="@+id/action_extract"
         android:orderInCategory="100"

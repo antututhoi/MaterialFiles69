@@ -964,6 +964,21 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
                 extractFiles(viewModel.selectedFiles)
                 true
             }
+            // 69 mod
+            R.id.action_mod69_batch_rename -> {
+                val files = viewModel.selectedFiles
+                me.zhanghai.android.files.mod69.Mod69BatchRename.show(requireContext(), files.map { it.path }) {
+                    viewModel.selectFiles(files, false)
+                }
+                true
+            }
+            R.id.action_mod69_restore -> {
+                val files = viewModel.selectedFiles
+                val n = me.zhanghai.android.files.mod69.Mod69Bin.restore(files.map { it.path }, requireContext())
+                android.widget.Toast.makeText(requireContext(), "Restoring $n", android.widget.Toast.LENGTH_SHORT).show()
+                viewModel.selectFiles(files, false)
+                true
+            }
             R.id.action_archive -> {
                 showCreateArchiveDialog(viewModel.selectedFiles)
                 true
@@ -1013,7 +1028,15 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
     }
 
     override fun deleteFiles(files: FileItemSet) {
-        FileJobService.delete(makePathListForJob(files), requireContext())
+        // 69 mod: recycle bin
+        val paths = makePathListForJob(files)
+        if (me.zhanghai.android.files.mod69.Mod69Bin.enabled(requireContext()) &&
+            me.zhanghai.android.files.mod69.Mod69Bin.moveToBin(paths, requireContext())
+        ) {
+            viewModel.selectFiles(files, false)
+            return
+        }
+        FileJobService.delete(paths, requireContext())
         viewModel.selectFiles(files, false)
     }
 
