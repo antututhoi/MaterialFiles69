@@ -8,20 +8,6 @@ apply plugin: 'kotlin-parcelize'
 
 apply from: '../signing.gradle'
 
-//#ifdef NONFREE
-buildscript {
-    repositories {
-        google()
-        mavenCentral()
-    }
-    dependencies {
-        classpath 'com.google.gms:google-services:4.5.0'
-        classpath 'com.google.firebase:firebase-crashlytics-gradle:3.0.8'
-    }
-}
-apply plugin: 'com.google.gms.google-services'
-apply plugin: 'com.google.firebase.crashlytics'
-//#endif
 
 android {
     namespace 'me.zhanghai.android.files'
@@ -30,13 +16,13 @@ android {
     compileSdkMinor = 2
     ndkVersion '30.0.16248370'
     defaultConfig {
-        applicationId 'me.zhanghai.android.files'
+        applicationId 'me.zhanghai.android.files.mod69'
         minSdk 23
         // Not supporting the ACCESS_LOCAL_NETWORK runtime permission yet.
         //noinspection OldTargetApi
         targetSdk 36
-        versionCode 40
-        versionName '1.7.5'
+        versionCode((System.getenv('GITHUB_RUN_NUMBER') ?: '40').toInteger() + 1000)
+        versionName '1.7.5-69'
         resValue 'string', 'app_version', versionName + ' (' + versionCode + ')'
         buildConfigField 'String', 'FILE_PROVIDIER_AUTHORITY', 'APPLICATION_ID + ".file_provider"'
         resValue 'string', 'app_provider_authority', applicationId + '.app_provider'
@@ -45,6 +31,9 @@ android {
             cmake {
                 arguments '-DANDROID_STL=none'
             }
+        }
+        ndk {
+            abiFilters 'arm64-v8a'
         }
     }
     buildFeatures {
@@ -77,11 +66,6 @@ android {
             shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
             signingConfig signingConfigs.release
-//#ifdef NONFREE
-            firebaseCrashlytics {
-                nativeSymbolUploadEnabled true
-            }
-//#endif
         }
     }
     packagingOptions {
@@ -219,9 +203,4 @@ dependencies {
     // Also a dependency of jCIFS-NG.
     implementation 'org.slf4j:slf4j-android:1.7.36'
 
-//#ifdef NONFREE
-    implementation platform('com.google.firebase:firebase-bom:34.19.0')
-    implementation 'com.google.firebase:firebase-analytics'
-    implementation 'com.google.firebase:firebase-crashlytics-ndk'
-//#endif
 }
