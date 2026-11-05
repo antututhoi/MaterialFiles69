@@ -589,7 +589,7 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
             me.zhanghai.android.files.mod69.Mod69Recent.add(path.toString())
         }
         me.zhanghai.android.files.mod69.Mod69PendingSearch.take()?.let { q ->
-            viewModel.searchViewExpanded = true
+            viewModel.isSearchViewExpanded = true
             viewModel.searchViewQuery = q
             viewModel.search(q)
         }
