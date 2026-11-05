@@ -260,6 +260,10 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
         binding.recyclerView.layoutManager = layoutManager
         adapter = FileListAdapter(this)
         binding.recyclerView.adapter = adapter
+        // 69 mod: dropping on empty space of the list = into the current folder
+        me.zhanghai.android.files.mod69.Mod69Drag.makeDropTarget(binding.recyclerView) {
+            viewModel.currentPath
+        }
         val fastScroller = ThemedFastScroller.create(binding.recyclerView)
         binding.recyclerView.setOnApplyWindowInsetsListener(
             ScrollingViewOnApplyWindowInsetsListener(binding.recyclerView, fastScroller)

@@ -246,10 +246,17 @@ class FileListAdapter(
             setOnLongClickListener {
                 if (selectedFiles.isEmpty()) {
                     selectFile(file)
+                } else if (file in selectedFiles) {
+                    // 69 mod: hold a selected file to drag the selection onto a folder / the other panel
+                    me.zhanghai.android.files.mod69.Mod69Drag.start(this, selectedFiles.map { it.path })
                 } else {
                     listener.openFile(file)
                 }
                 true
+            }
+            // 69 mod: folders accept dropped files
+            me.zhanghai.android.files.mod69.Mod69Drag.makeDropTarget(this) {
+                if (file.attributes.isDirectory) file.path else null
             }
         }
         holder.iconLayout.setOnClickListener { selectFile(file) }
