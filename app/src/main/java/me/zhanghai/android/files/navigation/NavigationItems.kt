@@ -410,8 +410,10 @@ private class RecentDirectoryItem(path: Path) : PathItem(path) {
 }
 
 private val menuItems: List<NavigationItem>
-    @Size(3)
+    @Size(4)
     get() = listOf(
+        // 69 mod
+        Mod69DualMenuItem(),
         IntentMenuItem(
             R.drawable.shared_directory_icon_white_24dp, R.string.navigation_ftp_server,
             FtpServerActivity::class.createIntent()
@@ -431,6 +433,25 @@ private abstract class MenuItem(
     @StringRes val titleRes: Int
 ) : NavigationItem() {
     override fun getTitle(context: Context): String = context.getString(titleRes)
+}
+
+// 69 mod: open two panels
+private class Mod69DualMenuItem : NavigationItem() {
+    override val id: Long = 0x69D0
+    @DrawableRes
+    override val iconRes: Int = R.drawable.computer_icon_white_24dp
+
+    override fun getTitle(context: Context): String = "Two panels"
+
+    override fun onClick(listener: Listener) {
+        listener.launchIntent(
+            Intent().setClassName(
+                me.zhanghai.android.files.app.application.packageName,
+                "me.zhanghai.android.files.mod69.Mod69DualActivity"
+            )
+        )
+        listener.closeNavigationDrawer()
+    }
 }
 
 private class IntentMenuItem(

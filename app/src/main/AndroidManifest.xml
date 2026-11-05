@@ -62,6 +62,11 @@
         tools:ignore="GoogleAppIndexingWarning,UnusedAttribute">
 
         <activity
+            android:name="me.zhanghai.android.files.mod69.Mod69DualActivity"
+            android:exported="false"
+            android:label="Two panels" />
+
+        <activity
             android:name="me.zhanghai.android.files.filelist.FileListActivity"
             android:exported="true"
             android:visibleToInstantApps="true"
