@@ -420,6 +420,8 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
         menuBinding = MenuBinding.inflate(menu, inflater)
         menuBinding.viewSortItem.subMenu!!.setGroupDividerEnabledCompat(true)
         setUpSearchView()
+        // 69 mod: chosen top bar buttons + extra actions
+        me.zhanghai.android.files.mod69.Mod69Toolbar.apply(menu)
     }
 
     private fun setUpSearchView() {
@@ -477,6 +479,22 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        // 69 mod
+        if (me.zhanghai.android.files.mod69.Mod69Toolbar.onItem(
+                requireContext(), item, { navigateTo(java8.nio.file.Paths.get(it)) },
+                {
+                    if (mod69InDual) {
+                        binding.toolbar.menu.clear()
+                        onCreateOptionsMenu(binding.toolbar.menu, requireActivity().menuInflater)
+                        onPrepareOptionsMenu(binding.toolbar.menu)
+                    } else {
+                        requireActivity().invalidateOptionsMenu()
+                    }
+                }
+            )
+        ) {
+            return true
+        }
         return when (item.itemId) {
             android.R.id.home -> {
                 binding.drawerLayout?.openDrawer(GravityCompat.START)
