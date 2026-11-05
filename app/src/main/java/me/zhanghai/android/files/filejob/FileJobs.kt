@@ -144,6 +144,17 @@ private fun FileJob.postNotification(
             addAction(
                 R.drawable.close_icon_white_24dp, getString(android.R.string.cancel), pendingIntent
             )
+            // 69 mod: pause / resume
+            val pauseIntent = PendingIntent.getBroadcast(
+                service, id + 100000, FileJobReceiver.createPauseIntent(id),
+                PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+            )
+            addAction(
+                R.drawable.stop_icon_white_24dp,
+                if (me.zhanghai.android.files.mod69.Mod69Pause.isPaused(id)) "Resume" else "Pause",
+                pauseIntent
+            )
+            if (me.zhanghai.android.files.mod69.Mod69Pause.isPaused(id)) setSubText("Paused")
         }
     }.build()
     service.notificationManager.notify(id, notification)
@@ -228,6 +239,9 @@ private fun FileJob.walkFileTreeForSettingAttributes(
 
 @Throws(InterruptedIOException::class)
 private fun FileJob.throwIfInterrupted() {
+    // 69 mod: pause support
+    me.zhanghai.android.files.mod69.Mod69Pause.register(id)
+    me.zhanghai.android.files.mod69.Mod69Pause.waitIfPaused()
     if (Thread.interrupted()) {
         throw InterruptedIOException()
     }

@@ -226,6 +226,8 @@ internal object LinuxCopyMove {
 
     @Throws(InterruptedIOException::class)
     private fun throwIfInterrupted() {
+        // 69 mod: pause support
+        me.zhanghai.android.files.mod69.Mod69Pause.waitIfPaused()
         if (Thread.interrupted()) {
             throw InterruptedIOException()
         }

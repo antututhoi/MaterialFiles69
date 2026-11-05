@@ -17,12 +17,28 @@ class FileJobReceiver : BroadcastReceiver() {
                 val jobId = intent.getIntExtra(EXTRA_JOB_ID, 0)
                 FileJobService.cancelJob(jobId)
             }
+            // 69 mod
+            ACTION_PAUSE -> {
+                val jobId = intent.getIntExtra(EXTRA_JOB_ID, 0)
+                me.zhanghai.android.files.mod69.Mod69Pause.toggle(jobId)
+                android.widget.Toast.makeText(
+                    context,
+                    if (me.zhanghai.android.files.mod69.Mod69Pause.isPaused(jobId)) "Paused" else "Resumed",
+                    android.widget.Toast.LENGTH_SHORT
+                ).show()
+            }
             else -> throw IllegalArgumentException(action)
         }
     }
 
     companion object {
         private const val ACTION_CANCEL = "cancel"
+        private const val ACTION_PAUSE = "mod69_pause"
+
+        fun createPauseIntent(jobId: Int): Intent =
+            Intent(application, FileJobReceiver::class.java)
+                .setAction(ACTION_PAUSE)
+                .putExtra(EXTRA_JOB_ID, jobId)
 
         private const val EXTRA_JOB_ID = "jobId"
 
