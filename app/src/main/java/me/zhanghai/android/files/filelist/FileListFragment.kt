@@ -195,8 +195,12 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        setHasOptionsMenu(true)
+        // 69 mod: in two-panel mode each panel keeps its menu on its own toolbar
+        setHasOptionsMenu(!mod69InDual)
     }
+
+    private val mod69InDual: Boolean
+        get() = activity is me.zhanghai.android.files.mod69.Mod69DualActivity
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -220,7 +224,19 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
         navigationFragment.listener = this
         val activity = requireActivity() as AppCompatActivity
         activity.setTitle(R.string.file_list_title)
-        activity.setSupportActionBar(binding.toolbar)
+        if (mod69InDual) {
+            // 69 mod: own toolbar menu per panel
+            binding.toolbar.setNavigationIcon(R.drawable.menu_icon_control_normal_24dp)
+            binding.toolbar.setNavigationOnClickListener {
+                binding.drawerLayout?.openDrawer(GravityCompat.START)
+            }
+            binding.toolbar.menu.clear()
+            onCreateOptionsMenu(binding.toolbar.menu, activity.menuInflater)
+            onPrepareOptionsMenu(binding.toolbar.menu)
+            binding.toolbar.setOnMenuItemClickListener { onOptionsItemSelected(it) }
+        } else {
+            activity.setSupportActionBar(binding.toolbar)
+        }
         overlayActionMode = OverlayToolbarActionMode(binding.overlayToolbar, binding.toolbar)
         bottomActionMode = PersistentBarLayoutToolbarActionMode(
             binding.persistentBarLayout, binding.bottomBarLayout, binding.bottomToolbar
