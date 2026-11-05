@@ -332,6 +332,10 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
                         }
                     }
             }
+            // 69 mod: choosers open at the folder of the last pick (or the folder the app asked for)
+            if (path == null && pickOptions != null) {
+                path = me.zhanghai.android.files.mod69.Mod69LastPick.initialPath(requireContext(), intent)
+            }
             if (path == null) {
                 path = Settings.FILE_LIST_DEFAULT_DIRECTORY.valueCompat
             }
@@ -817,7 +821,15 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
             val pickOptions = viewModel.pickOptions!!
             if (paths.size == 1) {
                 val path = paths.single()
-                data = path.fileProviderUri
+                // 69 mod: a real folder uri (DocumentFile.fromTreeUri works with it) for "choose folder"
+                data = if (pickOptions.mode == PickOptions.Mode.OPEN_DIRECTORY && path.isLinuxPath) {
+                    android.provider.DocumentsContract.buildTreeDocumentUri(
+                        me.zhanghai.android.files.mod69.Mod69DocumentsProvider.authority(requireContext().packageName),
+                        path.toString(),
+                    )
+                } else {
+                    path.fileProviderUri
+                }
                 extraPath = path
             } else {
                 val mimeTypes = pickOptions.mimeTypes.map { it.value }
@@ -835,6 +847,13 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
                 flags = flags or Intent.FLAG_GRANT_PREFIX_URI_PERMISSION
             }
             addFlags(flags)
+        }
+        // 69 mod: remember where the last pick happened, the next chooser opens there
+        paths.firstOrNull()?.let { first ->
+            val dir = if (viewModel.pickOptions?.mode == PickOptions.Mode.OPEN_DIRECTORY) first else first.parent
+            if (dir != null && dir.isLinuxPath) {
+                me.zhanghai.android.files.mod69.Mod69LastPick.save(requireContext(), dir.toString())
+            }
         }
         requireActivity().run {
             setResult(Activity.RESULT_OK, intent)
