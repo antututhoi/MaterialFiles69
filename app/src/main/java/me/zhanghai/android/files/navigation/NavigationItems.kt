@@ -58,6 +58,13 @@ val navigationItems: List<NavigationItem?>
                 add(null)
                 addAll(bookmarkDirectoryItems)
             }
+            // 69 mod: recent folders
+            val recent = me.zhanghai.android.files.mod69.Mod69Recent.liveData.value.orEmpty()
+                .filter { java.io.File(it).isDirectory }
+            if (recent.isNotEmpty()) {
+                add(null)
+                addAll(recent.map { RecentDirectoryItem(Paths.get(it)) })
+            }
             add(null)
             addAll(menuItems)
         }
@@ -349,6 +356,25 @@ private class BookmarkDirectoryItem(
             EditBookmarkDirectoryDialogActivity::class.createIntent()
                 .putArgs(EditBookmarkDirectoryDialogFragment.Args(bookmarkDirectory))
         )
+        return true
+    }
+}
+
+// 69 mod
+private class RecentDirectoryItem(path: Path) : PathItem(path) {
+    override val id: Long
+        get() = ("recent:" + path.toString()).hashCode().toLong()
+
+    @DrawableRes
+    override val iconRes: Int = R.drawable.directory_icon_white_24dp
+
+    override fun getTitle(context: Context): String =
+        "\u231A " + (path.fileName?.toString() ?: path.toString())
+
+    override fun getSubtitle(context: Context): String? = path.toString()
+
+    override fun onLongClick(listener: Listener): Boolean {
+        me.zhanghai.android.files.mod69.Mod69Recent.remove(path.toString())
         return true
     }
 }

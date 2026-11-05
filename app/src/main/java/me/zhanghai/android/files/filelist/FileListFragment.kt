@@ -277,6 +277,8 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
         addOnBackPressedCallback(SpeedDialViewOnBackPressedCallback(binding.speedDialView))
         binding.drawerLayout?.let {
             addOnBackPressedCallback(DrawerLayoutOnBackPressedCallback(it))
+            // 69 mod: easier swipe from the left edge to open the side bar
+            me.zhanghai.android.files.mod69.Mod69Edge.widen(it)
         }
 
         if (!viewModel.hasTrail) {
@@ -582,6 +584,10 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
     }
 
     private fun onCurrentPathChanged(path: Path) {
+        // 69 mod: remember recent folders (not while choosing a file for another app)
+        if (path.isLinuxPath && viewModel.pickOptions == null) {
+            me.zhanghai.android.files.mod69.Mod69Recent.add(path.toString())
+        }
         updateOverlayToolbar()
         updateBottomToolbar()
     }

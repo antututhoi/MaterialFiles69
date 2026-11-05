@@ -17,6 +17,8 @@ object NavigationItemListLiveData : MediatorLiveData<List<NavigationItem?>>() {
         addSource(StorageVolumeListLiveData) { loadValue() }
         addSource(StandardDirectoriesLiveData) { loadValue() }
         addSource(Settings.BOOKMARK_DIRECTORIES) { loadValue() }
+        // 69 mod
+        addSource(me.zhanghai.android.files.mod69.Mod69Recent.liveData) { loadValue() }
     }
 
     private fun loadValue() {
