@@ -260,6 +260,13 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
         binding.recyclerView.layoutManager = layoutManager
         adapter = FileListAdapter(this)
         binding.recyclerView.adapter = adapter
+        // 69 mod: folder tabs under the path bar
+        mod69Tabs = me.zhanghai.android.files.mod69.Mod69Tabs(
+            requireContext(), { viewModel.currentPath }, { navigateTo(it) }
+        ).also {
+            binding.appBarLayout.addView(it.view)
+            it.render()
+        }
         // 69 mod: dropping on empty space of the list = into the current folder
         me.zhanghai.android.files.mod69.Mod69Drag.makeDropTarget(binding.recyclerView) {
             viewModel.currentPath
@@ -603,7 +610,10 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
         updateSpanCount()
     }
 
+    private var mod69Tabs: me.zhanghai.android.files.mod69.Mod69Tabs? = null
+
     private fun onCurrentPathChanged(path: Path) {
+        mod69Tabs?.onPathChanged(path)
         // 69 mod: remember recent folders (not while choosing a file for another app)
         if (path.isLinuxPath && viewModel.pickOptions == null) {
             me.zhanghai.android.files.mod69.Mod69Recent.add(path.toString())
