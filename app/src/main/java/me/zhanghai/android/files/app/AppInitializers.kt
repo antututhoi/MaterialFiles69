@@ -30,6 +30,8 @@ import me.zhanghai.android.files.provider.smb.client.Client as SmbClient
 import me.zhanghai.android.files.provider.webdav.client.Client as WebDavClient
 
 val appInitializers = listOf(
+    // 69 mod: keep crash details to show on the next start
+    { me.zhanghai.android.files.mod69.Mod69CrashLog.install() },
     ::initializeFirebase,
     ::disableHiddenApiChecks,
     ::initializeWebViewDebugging,

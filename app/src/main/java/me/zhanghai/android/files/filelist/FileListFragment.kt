@@ -202,6 +202,17 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
     private val mod69InDual: Boolean
         get() = activity is me.zhanghai.android.files.mod69.Mod69DualActivity
 
+    /** 69 mod: the menu on this panel's own toolbar (two-panel mode). */
+    private fun mod69BuildDualMenu() {
+        if (view == null) return
+        runCatching {
+            val menu = binding.toolbar.menu
+            menu.clear()
+            onCreateOptionsMenu(menu, androidx.appcompat.view.SupportMenuInflater(binding.toolbar.context))
+            onPrepareOptionsMenu(menu)
+        }.onFailure { android.util.Log.e("Mod69", "dual menu", it) }
+    }
+
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
@@ -230,10 +241,9 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
             binding.toolbar.setNavigationOnClickListener {
                 binding.drawerLayout?.openDrawer(GravityCompat.START)
             }
-            binding.toolbar.menu.clear()
-            onCreateOptionsMenu(binding.toolbar.menu, activity.menuInflater)
-            onPrepareOptionsMenu(binding.toolbar.menu)
             binding.toolbar.setOnMenuItemClickListener { onOptionsItemSelected(it) }
+            // the menu reads the folder's view settings, so it is built once the folder is open
+            binding.toolbar.post { mod69BuildDualMenu() }
         } else {
             activity.setSupportActionBar(binding.toolbar)
         }
@@ -260,6 +270,8 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
         binding.recyclerView.layoutManager = layoutManager
         adapter = FileListAdapter(this)
         binding.recyclerView.adapter = adapter
+        // 69 mod: "No animations"
+        me.zhanghai.android.files.mod69.Mod69Look.apply(binding.recyclerView)
         // 69 mod: folder tabs under the path bar
         mod69Tabs = me.zhanghai.android.files.mod69.Mod69Tabs(
             requireContext(), { viewModel.currentPath }, { navigateTo(it) }
@@ -484,9 +496,7 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
                 requireContext(), item, { navigateTo(java8.nio.file.Paths.get(it)) },
                 {
                     if (mod69InDual) {
-                        binding.toolbar.menu.clear()
-                        onCreateOptionsMenu(binding.toolbar.menu, requireActivity().menuInflater)
-                        onPrepareOptionsMenu(binding.toolbar.menu)
+                        mod69BuildDualMenu()
                     } else {
                         requireActivity().invalidateOptionsMenu()
                     }

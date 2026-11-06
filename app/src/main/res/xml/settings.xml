@@ -112,6 +112,28 @@
     <!-- 69 mod -->
     <PreferenceCategory android:title="69 mod">
         <SwitchPreferenceCompat
+            android:key="mod69_no_animations"
+            android:title="69- No animations"
+            android:summary="Lists and screens change at once, without sliding / fading"
+            android:defaultValue="false" />
+        <SwitchPreferenceCompat
+            android:key="mod69_animated_thumbnails"
+            android:title="69- Animated thumbnails"
+            android:summary="GIF and animated WebP thumbnails move. Off = still pictures (restart the app)"
+            android:defaultValue="true" />
+        <ListPreference
+            android:key="mod69_dual_layout"
+            android:title="69- Two panels layout"
+            android:entries="@array/mod69_dual_layout_entries"
+            android:entryValues="@array/mod69_dual_layout_values"
+            android:defaultValue="auto"
+            app:useSimpleSummaryProvider="true" />
+        <SwitchPreferenceCompat
+            android:key="mod69_solid_nav_bar"
+            android:title="69- Solid navigation bar"
+            android:summary="The phone's navigation bar gets the app's background colour (black with the black theme) instead of being see-through"
+            android:defaultValue="true" />
+        <SwitchPreferenceCompat
             android:key="mod69_recycle_bin"
             android:title="Recycle bin"
             android:summary="Deleted files go to Internal/.69RecycleBin first (select them there to restore)"

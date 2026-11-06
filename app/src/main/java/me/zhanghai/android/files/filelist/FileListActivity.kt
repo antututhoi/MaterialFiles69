@@ -27,6 +27,8 @@ class FileListActivity : AppActivity() {
 
         // Calls ensureSubDecor().
         findViewById<View>(android.R.id.content)
+        // 69 mod: show the error of a crash last time (to send it)
+        me.zhanghai.android.files.mod69.Mod69CrashLog.showIfAny(this)
         if (savedInstanceState == null) {
             fragment = FileListFragment().putArgs(FileListFragment.Args(intent))
             supportFragmentManager.commit { add(android.R.id.content, fragment) }

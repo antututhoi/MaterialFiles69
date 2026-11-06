@@ -23,13 +23,18 @@ fun initializeCoil() {
                 add(AppIconPackageNameFetcherFactory(application))
                 add(PathAttributesKeyer())
                 add(PathAttributesFetcher.Factory(application))
-                add(
-                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.P) {
-                        ImageDecoderDecoder.Factory()
-                    } else {
-                        GifDecoder.Factory()
-                    }
-                )
+                // 69 mod: "Animated thumbnails" off = GIF / animated WebP thumbnails stay still
+                if (androidx.preference.PreferenceManager.getDefaultSharedPreferences(application)
+                        .getBoolean("mod69_animated_thumbnails", true)
+                ) {
+                    add(
+                        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.P) {
+                            ImageDecoderDecoder.Factory()
+                        } else {
+                            GifDecoder.Factory()
+                        }
+                    )
+                }
                 add(SvgDecoder.Factory(false))
             }
             .build()

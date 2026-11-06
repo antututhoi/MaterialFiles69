@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mod69_dual_layout_entries">
+        <item>Auto (side by side when the screen is wide)</item>
+        <item>Side by side</item>
+        <item>One above the other</item>
+    </string-array>
+    <string-array name="mod69_dual_layout_values">
+        <item>auto</item>
+        <item>horizontal</item>
+        <item>vertical</item>
+    </string-array>
+</resources>

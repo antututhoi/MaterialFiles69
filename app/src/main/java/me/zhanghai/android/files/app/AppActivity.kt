@@ -28,6 +28,20 @@ abstract class AppActivity : AppCompatActivity() {
         CustomThemeHelper.apply(this)
 
         super.onCreate(savedInstanceState)
+        // 69 mod
+        me.zhanghai.android.files.mod69.Mod69Look.noTransition(this, true)
+    }
+
+    override fun onPostCreate(savedInstanceState: Bundle?) {
+        super.onPostCreate(savedInstanceState)
+        // 69 mod: solid colour behind the phone's navigation bar
+        me.zhanghai.android.files.mod69.Mod69Look.solidNavBar(this)
+    }
+
+    override fun finish() {
+        super.finish()
+        // 69 mod
+        me.zhanghai.android.files.mod69.Mod69Look.noTransition(this, false)
     }
 
     override fun onSupportNavigateUp(): Boolean {

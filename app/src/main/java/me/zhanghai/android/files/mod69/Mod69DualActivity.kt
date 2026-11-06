@@ -24,7 +24,13 @@ class Mod69DualActivity : AppActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         findViewById<View>(android.R.id.content)
-        val wide = resources.configuration.orientation == Configuration.ORIENTATION_LANDSCAPE
+        // 69 mod: "Two panels layout" setting: auto / side by side / one above the other
+        val wide = when (androidx.preference.PreferenceManager.getDefaultSharedPreferences(this)
+            .getString("mod69_dual_layout", "auto")) {
+            "horizontal" -> true
+            "vertical" -> false
+            else -> resources.configuration.orientation == Configuration.ORIENTATION_LANDSCAPE
+        }
         val root = LinearLayout(this).apply {
             orientation = if (wide) LinearLayout.HORIZONTAL else LinearLayout.VERTICAL
             layoutParams = ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT)
