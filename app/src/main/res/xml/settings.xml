@@ -144,6 +144,16 @@
             android:summary="Folders you opened show their name in the accent colour"
             android:defaultValue="true" />
         <SwitchPreferenceCompat
+            android:key="mod69_storage_bars"
+            android:title="69- Storage usage bars"
+            android:summary="A bar under each storage in the side bar shows how full it is (red when almost full)"
+            android:defaultValue="true" />
+        <SwitchPreferenceCompat
+            android:key="mod69_drawer_bottom"
+            android:title="69- Side bar list from the bottom"
+            android:summary="The side bar list starts at the bottom, easy to reach with the thumb (MiXplorer \'pin the list from bottom\')"
+            android:defaultValue="false" />
+        <SwitchPreferenceCompat
             android:key="mod69_pinch_zoom"
             android:title="69- Pinch to zoom"
             android:summary="In grid view, pinch to show bigger or smaller thumbnails"

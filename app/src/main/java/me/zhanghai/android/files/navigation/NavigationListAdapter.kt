@@ -235,6 +235,34 @@ class NavigationListAdapter(
                 binding.iconImage.setImageDrawable(item.getIcon(binding.iconImage.context))
                 binding.titleText.text = item.getTitle(binding.titleText.context)
                 binding.subtitleText.text = item.getSubtitle(binding.subtitleText.context)
+                // 69 mod: usage bar under storages (MiXplorer style)
+                val usage = if (me.zhanghai.android.files.mod69.Mod69Look.storageBars) item.getUsage() else null
+                val textLayout = binding.textLayout as? android.widget.LinearLayout
+                var bar = textLayout?.findViewWithTag<com.google.android.material.progressindicator.LinearProgressIndicator>("mod69_usage")
+                if (usage != null && textLayout != null) {
+                    if (bar == null) {
+                        bar = com.google.android.material.progressindicator.LinearProgressIndicator(textLayout.context).apply {
+                            tag = "mod69_usage"
+                            max = 1000
+                            trackThickness = (3 * resources.displayMetrics.density).toInt()
+                            trackCornerRadius = trackThickness
+                        }
+                        textLayout.addView(
+                            bar,
+                            android.widget.LinearLayout.LayoutParams(android.view.ViewGroup.LayoutParams.MATCH_PARENT, android.view.ViewGroup.LayoutParams.WRAP_CONTENT)
+                                .apply { topMargin = (4 * textLayout.resources.displayMetrics.density).toInt() },
+                        )
+                    }
+                    bar.visibility = android.view.View.VISIBLE
+                    bar.setProgressCompat((usage * 1000).toInt(), false)
+                    // nearly full = red
+                    val red = usage > 0.9f
+                    bar.setIndicatorColor(
+                        if (red) 0xFFFF5252.toInt() else com.google.android.material.color.MaterialColors.getColor(bar, androidx.appcompat.R.attr.colorPrimary)
+                    )
+                } else {
+                    bar?.visibility = android.view.View.GONE
+                }
             }
             ViewType.DIVIDER -> {}
         }

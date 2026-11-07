@@ -122,6 +122,8 @@ private class PathStorageItem(
     override fun getSubtitle(context: Context): String? =
         storage.linuxPath?.let { getStorageSubtitle(it, context) }
 
+    override fun getUsage(): Float? = storage.linuxPath?.let { mod69Usage(it) }
+
     override fun onLongClick(listener: Listener): Boolean {
         listener.launchIntent(storage.createEditIntent())
         return true
@@ -178,7 +180,21 @@ private class StorageVolumeItem(
     override fun getSubtitle(context: Context): String? =
         getStorageSubtitle(storageVolume.pathCompat, context)
 
+    override fun getUsage(): Float? = mod69Usage(storageVolume.pathCompat)
+
     override fun getName(context: Context): String = getTitle(context)
+}
+
+// 69 mod: used part of a storage (MiXplorer-style usage bar)
+private fun mod69Usage(linuxPath: String): Float? {
+    var path = linuxPath
+    var total = JavaFile.getTotalSpace(path)
+    if (total == 0L && linuxPath == FileSystemRoot.LINUX_PATH) {
+        path = Environment.getRootDirectory().path
+        total = JavaFile.getTotalSpace(path)
+    }
+    if (total <= 0L) return null
+    return (1f - JavaFile.getFreeSpace(path).toFloat() / total).coerceIn(0f, 1f)
 }
 
 private fun getStorageSubtitle(linuxPath: String, context: Context): String? {

@@ -22,6 +22,8 @@ object Mod69Look {
     val fullNames: Boolean get() = prefs.getBoolean("mod69_full_names", false)
     val highlightVisited: Boolean get() = prefs.getBoolean("mod69_highlight_visited", true)
     val cropThumbnails: Boolean get() = prefs.getBoolean("mod69_crop_thumbnails", true)
+    val storageBars: Boolean get() = prefs.getBoolean("mod69_storage_bars", true)
+    val drawerFromBottom: Boolean get() = prefs.getBoolean("mod69_drawer_bottom", false)
 
     /** Folders opened in this session (and the recent ones), for "Highlight visited folders". */
     val visited: MutableSet<String> = java.util.Collections.synchronizedSet(HashSet<String>())

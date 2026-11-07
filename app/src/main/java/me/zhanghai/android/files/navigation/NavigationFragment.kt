@@ -40,7 +40,10 @@ class NavigationFragment : Fragment(), NavigationItem.Listener {
         // TODO: Needed?
         //binding.recyclerView.setItemAnimator(new NoChangeAnimationItemAnimator())
         val context = requireContext()
-        binding.recyclerView.layoutManager = LinearLayoutManager(context)
+        // 69 mod: "Side bar list from the bottom" = the list sits at the bottom, near the thumb
+        binding.recyclerView.layoutManager = LinearLayoutManager(context).apply {
+            stackFromEnd = me.zhanghai.android.files.mod69.Mod69Look.drawerFromBottom
+        }
         adapter = NavigationListAdapter(this, context)
         binding.recyclerView.adapter = adapter
 

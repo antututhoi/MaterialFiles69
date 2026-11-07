@@ -24,6 +24,9 @@ abstract class NavigationItem {
 
     open fun getSubtitle(context: Context): String? = null
 
+    /** 69 mod: how full this storage is (0..1), for the usage bar; null = no bar. */
+    open fun getUsage(): Float? = null
+
     open fun isChecked(listener: Listener): Boolean = false
 
     abstract fun onClick(listener: Listener)
