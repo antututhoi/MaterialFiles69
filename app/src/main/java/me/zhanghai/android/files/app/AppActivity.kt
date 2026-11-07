@@ -26,6 +26,8 @@ abstract class AppActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         CustomThemeHelper.apply(this)
+        // 69 mod: accent colour / pure black / monospace font
+        me.zhanghai.android.files.mod69.Mod69Look.applyTheme(this)
 
         super.onCreate(savedInstanceState)
         // 69 mod

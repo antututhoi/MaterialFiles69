@@ -10,7 +10,7 @@ object Mod69Recent {
     private const val KEY = "dirs"
     private const val MAX = 8
 
-    val liveData = MutableLiveData(load())
+    val liveData = MutableLiveData(load().also { Mod69Look.visited += it })
 
     private fun prefs() = application.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
 
@@ -19,6 +19,7 @@ object Mod69Recent {
 
     fun add(path: String) {
         if (path.isBlank()) return
+        Mod69Look.visited += path
         val list = (listOf(path) + (liveData.value ?: emptyList()).filter { it != path }).take(MAX)
         if (list == liveData.value) return
         prefs().edit().putString(KEY, list.joinToString("\n")).apply()

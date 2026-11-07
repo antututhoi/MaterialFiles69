@@ -284,6 +284,12 @@ class FileListAdapter(
             setImageDrawable(null)
             val shouldLoadThumbnail = supportsThumbnail && !shouldLoadThumbnailIcon
             isVisible = shouldLoadThumbnail
+            // 69 mod: "Crop thumbnails" off = the whole picture fits
+            scaleType = if (me.zhanghai.android.files.mod69.Mod69Look.cropThumbnails) {
+                android.widget.ImageView.ScaleType.CENTER_CROP
+            } else {
+                android.widget.ImageView.ScaleType.FIT_CENTER
+            }
             if (shouldLoadThumbnail) {
                 load(path to attributes) {
                     listener { _, _ ->
@@ -323,7 +329,22 @@ class FileListAdapter(
                 setImageDrawable(null)
             }
         }
-        holder.nameText.text = file.name
+        // 69 mod: extensions on/off, full long names, visited folders in the accent colour
+        holder.nameText.text = me.zhanghai.android.files.mod69.Mod69Look.displayName(file.name, isDirectory)
+        if (me.zhanghai.android.files.mod69.Mod69Look.fullNames) {
+            holder.nameText.isSingleLine = false
+            holder.nameText.maxLines = 4
+            holder.nameText.ellipsize = TextUtils.TruncateAt.END
+        }
+        holder.nameText.setTextColor(
+            if (isDirectory && me.zhanghai.android.files.mod69.Mod69Look.highlightVisited &&
+                path.toString() in me.zhanghai.android.files.mod69.Mod69Look.visited
+            ) {
+                com.google.android.material.color.MaterialColors.getColor(holder.nameText, androidx.appcompat.R.attr.colorPrimary)
+            } else {
+                com.google.android.material.color.MaterialColors.getColor(holder.nameText, android.R.attr.textColorPrimary)
+            }
+        )
         holder.descriptionText?.text = if (isDirectory) {
             null
         } else {

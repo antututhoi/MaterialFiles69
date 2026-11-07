@@ -111,6 +111,43 @@
 
     <!-- 69 mod -->
     <PreferenceCategory android:title="69 mod">
+        <ListPreference
+            android:key="mod69_accent"
+            android:title="69- Accent colour (MiXplorer style)"
+            android:dialogTitle="Accent colour – reopen the app after changing"
+            android:entries="@array/mod69_accent_entries"
+            android:entryValues="@array/mod69_accent_values"
+            android:defaultValue="none"
+            app:useSimpleSummaryProvider="true" />
+        <SwitchPreferenceCompat
+            android:key="mod69_amoled"
+            android:title="69- Pure black (AMOLED)"
+            android:summary="Black background, bars and menus in dark mode"
+            android:defaultValue="false" />
+        <SwitchPreferenceCompat
+            android:key="mod69_mono_font"
+            android:title="69- Monospace font (MiXplorer style)"
+            android:defaultValue="false" />
+        <SwitchPreferenceCompat
+            android:key="mod69_show_extensions"
+            android:title="69- Show file extensions"
+            android:summary="Off = names without .jpg / .mp4 …"
+            android:defaultValue="true" />
+        <SwitchPreferenceCompat
+            android:key="mod69_full_names"
+            android:title="69- Show full long names"
+            android:summary="Long names wrap to more lines instead of being cut"
+            android:defaultValue="false" />
+        <SwitchPreferenceCompat
+            android:key="mod69_highlight_visited"
+            android:title="69- Highlight visited folders"
+            android:summary="Folders you opened show their name in the accent colour"
+            android:defaultValue="true" />
+        <SwitchPreferenceCompat
+            android:key="mod69_crop_thumbnails"
+            android:title="69- Crop thumbnails"
+            android:summary="Off = whole picture fits in the thumbnail"
+            android:defaultValue="true" />
         <SwitchPreferenceCompat
             android:key="mod69_no_animations"
             android:title="69- No animations"

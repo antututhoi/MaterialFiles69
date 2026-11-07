@@ -18,6 +18,49 @@ object Mod69Look {
     private val prefs get() = PreferenceManager.getDefaultSharedPreferences(application)
 
     val noAnimations: Boolean get() = prefs.getBoolean("mod69_no_animations", false)
+    val showExtensions: Boolean get() = prefs.getBoolean("mod69_show_extensions", true)
+    val fullNames: Boolean get() = prefs.getBoolean("mod69_full_names", false)
+    val highlightVisited: Boolean get() = prefs.getBoolean("mod69_highlight_visited", true)
+    val cropThumbnails: Boolean get() = prefs.getBoolean("mod69_crop_thumbnails", true)
+
+    /** Folders opened in this session (and the recent ones), for "Highlight visited folders". */
+    val visited: MutableSet<String> = java.util.Collections.synchronizedSet(HashSet<String>())
+
+    /** Accent colour, pure black and monospace font (MiXplorer look); call right after the theme is set. */
+    fun applyTheme(activity: Activity) {
+        val theme = activity.theme
+        val accent = prefs.getString("mod69_accent", "none") ?: "none"
+        if (accent != "none") {
+            val id = when (accent) {
+                "green" -> me.zhanghai.android.files.R.style.ThemeOverlay_Mod69_Accent_Green
+                "cyan" -> me.zhanghai.android.files.R.style.ThemeOverlay_Mod69_Accent_Cyan
+                "blue" -> me.zhanghai.android.files.R.style.ThemeOverlay_Mod69_Accent_Blue
+                "purple" -> me.zhanghai.android.files.R.style.ThemeOverlay_Mod69_Accent_Purple
+                "pink" -> me.zhanghai.android.files.R.style.ThemeOverlay_Mod69_Accent_Pink
+                "red" -> me.zhanghai.android.files.R.style.ThemeOverlay_Mod69_Accent_Red
+                "orange" -> me.zhanghai.android.files.R.style.ThemeOverlay_Mod69_Accent_Orange
+                "yellow" -> me.zhanghai.android.files.R.style.ThemeOverlay_Mod69_Accent_Yellow
+                "white" -> me.zhanghai.android.files.R.style.ThemeOverlay_Mod69_Accent_White
+                else -> 0
+            }
+            if (id != 0) theme.applyStyle(id, true)
+        }
+        val night = (activity.resources.configuration.uiMode and
+            android.content.res.Configuration.UI_MODE_NIGHT_MASK) == android.content.res.Configuration.UI_MODE_NIGHT_YES
+        if (night && prefs.getBoolean("mod69_amoled", false)) {
+            theme.applyStyle(me.zhanghai.android.files.R.style.ThemeOverlay_Mod69_Black, true)
+        }
+        if (prefs.getBoolean("mod69_mono_font", false)) {
+            theme.applyStyle(me.zhanghai.android.files.R.style.ThemeOverlay_Mod69_Mono, true)
+        }
+    }
+
+    /** Name as shown in the list. */
+    fun displayName(name: String, isDirectory: Boolean): String {
+        if (showExtensions || isDirectory) return name
+        val dot = name.lastIndexOf('.')
+        return if (dot > 0) name.substring(0, dot) else name
+    }
 
     /** Lists: no item animations. */
     fun apply(list: RecyclerView) {

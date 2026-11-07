@@ -10,4 +10,28 @@
         <item>horizontal</item>
         <item>vertical</item>
     </string-array>
+    <string-array name="mod69_accent_entries">
+        <item>App\'s own colour</item>
+        <item>Green (MiXplorer)</item>
+        <item>Cyan</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Pink</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="mod69_accent_values">
+        <item>none</item>
+        <item>green</item>
+        <item>cyan</item>
+        <item>blue</item>
+        <item>purple</item>
+        <item>pink</item>
+        <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
+        <item>white</item>
+    </string-array>
 </resources>
