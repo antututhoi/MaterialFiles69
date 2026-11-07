@@ -493,6 +493,8 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
 
     override fun onPrepareOptionsMenu(menu: Menu) {
         super.onPrepareOptionsMenu(menu)
+        // 69 mod: MiXplorer-style bottom toolbar (after the menu is up to date)
+        binding.recyclerView.post { mod69BottomTools()?.render(menu) }
 
         updateViewSortMenuItems()
         updateSelectAllMenuItem()
@@ -648,6 +650,22 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
     }
 
     private var mod69Tabs: me.zhanghai.android.files.mod69.Mod69Tabs? = null
+
+    private var mod69Bottom: me.zhanghai.android.files.mod69.Mod69BottomTools? = null
+
+    private fun mod69BottomTools(): me.zhanghai.android.files.mod69.Mod69BottomTools? {
+        if (view == null) return null
+        val host = binding.bottomBarLayout.parent as? android.view.ViewGroup ?: return null
+        mod69Bottom?.takeIf { it.isIn(host) }?.let { return it }
+        return me.zhanghai.android.files.mod69.Mod69BottomTools(host, binding.recyclerView, binding.speedDialView) { item ->
+            if (item.itemId == R.id.action_search) {
+                item.expandActionView()
+                true
+            } else {
+                onOptionsItemSelected(item)
+            }
+        }.also { mod69Bottom = it }
+    }
 
     private fun onCurrentPathChanged(path: Path) {
         mod69Tabs?.onPathChanged(path)

@@ -36,6 +36,11 @@ object Mod69Toolbar {
 
     private val prefs get() = application.getSharedPreferences("mod69_toolbar", Context.MODE_PRIVATE)
 
+    /** 69 mod: MiXplorer-style: the chosen buttons sit in a bar at the bottom. */
+    val atBottom: Boolean get() = prefs.getBoolean("bottom", false)
+
+    fun chosenIds(): List<Int> = chosen().let { set -> actions.filter { it.key in set }.map { it.id } }
+
     private fun chosen(): Set<String> = prefs.getStringSet("buttons", setOf("search", "view_sort")) ?: emptySet()
 
     /** Adds the extra actions and applies the button choice. Call after the menu is inflated. */
@@ -44,13 +49,13 @@ object Mod69Toolbar {
             menu.add(Menu.NONE, ID_DUAL, 200, "Two panels").setIcon(R.drawable.computer_icon_white_24dp)
             menu.add(Menu.NONE, ID_BIN, 201, "Recycle bin").setIcon(R.drawable.delete_icon_control_normal_24dp)
             menu.add(Menu.NONE, ID_HOME, 202, "Internal storage").setIcon(R.drawable.device_icon_white_24dp)
-            menu.add(Menu.NONE, 0x69a9, 203, "Top bar buttons…")
+            menu.add(Menu.NONE, 0x69a9, 203, "Toolbar buttons…")
         }
         val set = chosen()
         for (a in actions) {
             val item = menu.findItem(a.id) ?: continue
             item.setShowAsAction(
-                if (a.key in set) MenuItem.SHOW_AS_ACTION_ALWAYS else MenuItem.SHOW_AS_ACTION_NEVER
+                if (a.key in set && !atBottom) MenuItem.SHOW_AS_ACTION_ALWAYS else MenuItem.SHOW_AS_ACTION_NEVER
             )
         }
     }
@@ -78,12 +83,16 @@ object Mod69Toolbar {
         val names = actions.map { it.name }.toTypedArray()
         val checked = actions.map { it.key in set }.toBooleanArray()
         AlertDialog.Builder(context)
-            .setTitle("Buttons on the top bar")
+            .setTitle("Toolbar buttons")
             .setMultiChoiceItems(names, checked) { _, which, isChecked ->
                 if (isChecked) set.add(actions[which].key) else set.remove(actions[which].key)
             }
             .setPositiveButton(android.R.string.ok) { _, _ ->
                 prefs.edit().putStringSet("buttons", set).apply()
+                invalidate()
+            }
+            .setNeutralButton(if (atBottom) "Move to top" else "Move to bottom") { _, _ ->
+                prefs.edit().putStringSet("buttons", set).putBoolean("bottom", !atBottom).apply()
                 invalidate()
             }
             .setNegativeButton(android.R.string.cancel, null)
