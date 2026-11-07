@@ -268,6 +268,15 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
         binding.swipeRefreshLayout.setOnRefreshListener { this.refresh() }
         layoutManager = GridLayoutManager(activity, 1)
         binding.recyclerView.layoutManager = layoutManager
+        // 69 mod: pinch to zoom the grid (fewer / more columns)
+        me.zhanghai.android.files.mod69.Mod69Look.pinchToZoom(binding.recyclerView) {
+            if (viewModel.viewType == FileViewType.GRID) {
+                updateSpanCount()
+                true
+            } else {
+                false
+            }
+        }
         adapter = FileListAdapter(this)
         binding.recyclerView.adapter = adapter
         // 69 mod: "No animations"
@@ -736,7 +745,8 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
                     persistentDrawerLayout.isDrawerOpen(GravityCompat.START)) {
                     widthDp -= getDimensionDp(R.dimen.navigation_max_width).roundToInt()
                 }
-                (widthDp / 180).coerceAtLeast(2)
+                // 69 mod: pinch the grid to change the number of columns
+                ((widthDp / 180).coerceAtLeast(2) + me.zhanghai.android.files.mod69.Mod69Look.gridDelta).coerceIn(1, 8)
             }
         }
     }

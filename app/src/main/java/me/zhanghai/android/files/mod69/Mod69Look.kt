@@ -55,6 +55,51 @@ object Mod69Look {
         }
     }
 
+    /** Extra grid columns (pinch to zoom). */
+    var gridDelta: Int
+        get() = prefs.getInt("mod69_grid_delta", 0)
+        set(v) {
+            prefs.edit().putInt("mod69_grid_delta", v.coerceIn(-3, 6)).apply()
+        }
+
+    /** Pinch out = bigger thumbnails (fewer columns), pinch in = more columns. [apply] returns false when not a grid. */
+    fun pinchToZoom(list: RecyclerView, apply: () -> Boolean) {
+        if (!prefs.getBoolean("mod69_pinch_zoom", true)) return
+        var acc = 1f
+        val detector = android.view.ScaleGestureDetector(list.context, object : android.view.ScaleGestureDetector.SimpleOnScaleGestureListener() {
+            override fun onScaleBegin(detector: android.view.ScaleGestureDetector): Boolean {
+                acc = 1f
+                return true
+            }
+
+            override fun onScale(detector: android.view.ScaleGestureDetector): Boolean {
+                acc *= detector.scaleFactor
+                val step = when {
+                    acc > 1.35f -> -1
+                    acc < 0.75f -> 1
+                    else -> 0
+                }
+                if (step != 0) {
+                    val old = gridDelta
+                    gridDelta = old + step
+                    if (!apply()) gridDelta = old
+                    acc = 1f
+                }
+                return true
+            }
+        })
+        list.addOnItemTouchListener(object : RecyclerView.SimpleOnItemTouchListener() {
+            override fun onInterceptTouchEvent(rv: RecyclerView, e: android.view.MotionEvent): Boolean {
+                detector.onTouchEvent(e)
+                return e.pointerCount > 1 && detector.isInProgress
+            }
+
+            override fun onTouchEvent(rv: RecyclerView, e: android.view.MotionEvent) {
+                detector.onTouchEvent(e)
+            }
+        })
+    }
+
     /** Name as shown in the list. */
     fun displayName(name: String, isDirectory: Boolean): String {
         if (showExtensions || isDirectory) return name
