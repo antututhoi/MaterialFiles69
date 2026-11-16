@@ -321,6 +321,8 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
                     }
                 }
         )
+        // 69 mod: "Back goes to the previously visited folder" (MiXplorer "Back button" setting)
+        addOnBackPressedCallback(mod69BackCallback)
         addOnBackPressedCallback(overlayActionMode.onBackPressedCallback)
         addOnBackPressedCallback(SpeedDialViewOnBackPressedCallback(binding.speedDialView))
         binding.drawerLayout?.let {
@@ -667,7 +669,30 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
         }.also { mod69Bottom = it }
     }
 
+    // 69 mod: folders visited in this window, newest last
+    private val mod69History = ArrayList<Path>()
+    private var mod69GoingBack = false
+    private val mod69BackCallback = object : OnBackPressedCallback(false) {
+        override fun handleOnBackPressed() {
+            if (mod69History.size < 2) {
+                isEnabled = false
+                return
+            }
+            mod69History.removeAt(mod69History.size - 1)
+            mod69GoingBack = true
+            navigateTo(mod69History.last())
+        }
+    }
+
     private fun onCurrentPathChanged(path: Path) {
+        if (mod69GoingBack) {
+            mod69GoingBack = false
+        } else if (mod69History.lastOrNull() != path) {
+            mod69History.add(path)
+            if (mod69History.size > 60) mod69History.removeAt(0)
+        }
+        mod69BackCallback.isEnabled =
+            me.zhanghai.android.files.mod69.Mod69Look.backHistory && mod69History.size > 1
         mod69Tabs?.onPathChanged(path)
         // 69 mod: remember recent folders (not while choosing a file for another app)
         if (path.isLinuxPath && viewModel.pickOptions == null) {
@@ -1511,6 +1536,28 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
 
     override fun addBookmark(file: FileItem) {
         addBookmark(file.path)
+    }
+
+    // 69 mod: MiXplorer-style extra file actions
+    override fun mod69FileAction(file: FileItem, id: Int): Boolean {
+        when (id) {
+            R.id.mod69_file_copy_name -> {
+                val name = file.path.fileName?.toString().orEmpty()
+                clipboardManager.copyText(name, requireContext())
+            }
+            R.id.mod69_file_new_tab -> mod69Tabs?.openNew(file.path)
+            R.id.mod69_file_hide -> {
+                val name = file.path.fileName?.toString() ?: return true
+                val newName = me.zhanghai.android.files.mod69.Mod69FileActions.toggledHiddenName(name)
+                if (newName.isNotEmpty() && newName != name) renameFile(file, newName)
+            }
+            R.id.mod69_file_open_as -> startActivitySafe(
+                OpenFileAsDialogActivity::class.createIntent()
+                    .putArgs(OpenFileAsDialogFragment.Args(file.path))
+            )
+            else -> return false
+        }
+        return true
     }
 
     private fun addBookmark() {

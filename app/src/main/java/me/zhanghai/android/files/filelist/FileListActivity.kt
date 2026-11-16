@@ -27,6 +27,8 @@ class FileListActivity : AppActivity() {
 
         // Calls ensureSubDecor().
         findViewById<View>(android.R.id.content)
+        // 69 mod: "Startup lock" - ask for the phone's PIN / pattern / fingerprint before showing files
+        me.zhanghai.android.files.mod69.Mod69Lock.guard(this)
         // 69 mod: show the error of a crash last time (to send it)
         me.zhanghai.android.files.mod69.Mod69CrashLog.showIfAny(this)
         if (savedInstanceState == null) {
@@ -35,6 +37,16 @@ class FileListActivity : AppActivity() {
         } else {
             fragment = supportFragmentManager.findFragmentById(android.R.id.content)
                 as FileListFragment
+        }
+    }
+
+    // 69 mod: startup lock - show the files again once unlocked
+    override fun onResume() {
+        super.onResume()
+        if (!me.zhanghai.android.files.mod69.Mod69Look.startupLock ||
+            me.zhanghai.android.files.mod69.Mod69Lock.isUnlocked
+        ) {
+            findViewById<View>(android.R.id.content)?.visibility = View.VISIBLE
         }
     }
 

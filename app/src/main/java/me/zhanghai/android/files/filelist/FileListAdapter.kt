@@ -346,11 +346,20 @@ class FileListAdapter(
             }
         )
         holder.descriptionText?.text = if (isDirectory) {
-            null
+            // 69 mod: folders can show their date too (MiXplorer "Detailed" look)
+            if (me.zhanghai.android.files.mod69.Mod69Look.folderDetails) {
+                me.zhanghai.android.files.mod69.Mod69Look.formatDate(
+                    attributes.lastModifiedTime().toInstant(), holder.descriptionText!!.context
+                )
+            } else {
+                null
+            }
         } else {
             val context = holder.descriptionText!!.context
-            val lastModificationTime = attributes.lastModifiedTime().toInstant()
-                .formatShort(context)
+            // 69 mod: custom date format
+            val lastModificationTime = me.zhanghai.android.files.mod69.Mod69Look.formatDate(
+                attributes.lastModifiedTime().toInstant(), context
+            )
             val size = attributes.fileSize.formatHumanReadable(context)
             val descriptionSeparator = context.getString(R.string.file_item_description_separator)
             listOf(lastModificationTime, size).joinToString(descriptionSeparator)
@@ -363,6 +372,8 @@ class FileListAdapter(
         menu.findItem(R.id.action_extract).isVisible = file.isArchiveFile
         menu.findItem(R.id.action_archive).isVisible = !isArchivePath
         menu.findItem(R.id.action_add_bookmark).isVisible = isDirectory
+        // 69 mod: MiXplorer-style extra file actions
+        me.zhanghai.android.files.mod69.Mod69FileActions.prepare(menu, file, isReadOnly, pickOptions != null)
         holder.popupMenu.setOnMenuItemClickListener {
             when (it.itemId) {
                 R.id.action_open_with -> {
@@ -413,7 +424,8 @@ class FileListAdapter(
                     listener.showPropertiesDialog(file)
                     true
                 }
-                else -> false
+                // 69 mod
+                else -> listener.mod69FileAction(file, it.itemId)
             }
         }
     }
@@ -511,5 +523,8 @@ class FileListAdapter(
         fun addBookmark(file: FileItem)
         fun createShortcut(file: FileItem)
         fun showPropertiesDialog(file: FileItem)
+
+        /** 69 mod: extra file actions (copy name, open in new tab, hide / unhide...). */
+        fun mod69FileAction(file: FileItem, id: Int): Boolean = false
     }
 }

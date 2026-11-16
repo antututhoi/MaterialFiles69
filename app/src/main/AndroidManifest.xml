@@ -61,6 +61,13 @@
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning,UnusedAttribute">
 
+        <!-- 69 mod: startup lock -->
+        <activity
+            android:name=".mod69.Mod69LockActivity"
+            android:exported="false"
+            android:excludeFromRecents="true"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
         <activity
             android:name="me.zhanghai.android.files.mod69.Mod69DualActivity"
             android:exported="false"

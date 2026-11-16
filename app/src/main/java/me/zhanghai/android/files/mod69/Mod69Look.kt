@@ -12,6 +12,7 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.preference.PreferenceManager
 import androidx.recyclerview.widget.RecyclerView
 import me.zhanghai.android.files.app.application
+import me.zhanghai.android.files.file.formatShort
 
 /** 69 mod: "No animations" and "Solid navigation bar". */
 object Mod69Look {
@@ -24,6 +25,23 @@ object Mod69Look {
     val cropThumbnails: Boolean get() = prefs.getBoolean("mod69_crop_thumbnails", true)
     val storageBars: Boolean get() = prefs.getBoolean("mod69_storage_bars", true)
     val drawerFromBottom: Boolean get() = prefs.getBoolean("mod69_drawer_bottom", false)
+    val folderDetails: Boolean get() = prefs.getBoolean("mod69_folder_details", false)
+    val backHistory: Boolean get() = prefs.getBoolean("mod69_back_history", false)
+    val startupLock: Boolean get() = prefs.getBoolean("mod69_startup_lock", false)
+
+    /** Date in the file list: the user's own pattern (e.g. yyyy-MM-dd HH:mm) or the app's short form. */
+    fun formatDate(instant: java.time.Instant, context: android.content.Context): String {
+        val pattern = prefs.getString("mod69_date_format", "")?.trim().orEmpty()
+        if (pattern.isNotEmpty()) {
+            try {
+                return java.text.SimpleDateFormat(pattern, java.util.Locale.getDefault())
+                    .format(java.util.Date(instant.toEpochMilli()))
+            } catch (e: Exception) {
+                // a wrong pattern: fall back to the normal look
+            }
+        }
+        return instant.formatShort(context)
+    }
 
     /** Folders opened in this session (and the recent ones), for "Highlight visited folders". */
     val visited: MutableSet<String> = java.util.Collections.synchronizedSet(HashSet<String>())

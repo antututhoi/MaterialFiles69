@@ -186,6 +186,26 @@
             android:summary="The phone's navigation bar gets the app's background colour (black with the black theme) instead of being see-through"
             android:defaultValue="true" />
         <SwitchPreferenceCompat
+            android:key="mod69_folder_details"
+            android:title="Show the date on folders"
+            android:summary="Folders show their last changed date under the name, like files do"
+            android:defaultValue="false" />
+        <EditTextPreference
+            android:key="mod69_date_format"
+            android:title="Custom date format"
+            android:summary="Empty = normal. Example: yyyy-MM-dd HH:mm  (yyyy year, MM month, dd day, HH hour, mm minute)"
+            android:defaultValue="" />
+        <SwitchPreferenceCompat
+            android:key="mod69_back_history"
+            android:title="Back goes to the previous folder"
+            android:summary="The back button jumps to the folder you were in before, instead of going one folder up"
+            android:defaultValue="false" />
+        <SwitchPreferenceCompat
+            android:key="mod69_startup_lock"
+            android:title="Startup lock"
+            android:summary="Ask for the phone's PIN / pattern / fingerprint when the app starts"
+            android:defaultValue="false" />
+        <SwitchPreferenceCompat
             android:key="mod69_recycle_bin"
             android:title="Recycle bin"
             android:summary="Deleted files go to Internal/.69RecycleBin first (select them there to restore)"

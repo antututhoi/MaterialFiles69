@@ -45,6 +45,13 @@ class Mod69Tabs(
         render()
     }
 
+    /** "Open in new tab": adds the folder as a tab (the current folder becomes a tab first when there are none) and goes there. */
+    fun openNew(path: Path) {
+        if (tabs.isEmpty()) tabs.add(currentPath().toString())
+        tabs.add(path.toString())
+        go(tabs.size - 1)
+    }
+
     private fun go(i: Int) {
         if (i !in tabs.indices) return
         active = i
