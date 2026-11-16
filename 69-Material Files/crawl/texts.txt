@@ -1,0 +1,2754 @@
+## first_run
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## main_p0
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## main_p1
+Internal shared storage
++ Tab
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+u.xml
+10:05 AM    0 B
+
+## main_icon0_Open_navigation_drawer
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Root
+67.14 MB free of 875 MB
+5.34 GB free of 6.23 GB
+Add storage…
+Downloads
+Screenshots
+Images
+Videos
+Audio
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## main_icon1_Search
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## main_icon1_Search_item0_Search__p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## main_icon1_Search_item0_Search__p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## main_icon1_Search_item0_Search__p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## main_icon3_More_options
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## main_bottom_icon0_icon
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+1
+Cut
+Copy
+Delete
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## main_bottom_icon2_icon
+“Ringtones” properties
+Basic
+Permissions
+Ringtones
+/storage/emulated/0
+Folder (vnd.android.document/directory)
+Empty
+Nov 16, 2026 10:03:42 AM
+OK
+
+## drawer_p1
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Downloads
+Screenshots
+Images
+Videos
+Audio
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+Two panels
+FTP server
+Settings
+About
+
+## drawer_p2
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+Two panels
+FTP server
+Settings
+About
+
+## drawer_p3
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+Two panels
+FTP server
+Settings
+About
+
+## select0_Internal_shared_storage
+Copy path
+Open in new window
+
+## select1_Alarms
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+1
+Cut
+Copy
+Delete
+Internal shared storage
++ Tab
+Alarms
+
+## select1_icon0_Open_navigation_drawer
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## select1_icon1_Search
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## select1_icon1_Search_item0_Search__p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## select1_icon1_Search_item0_Search__p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## select1_icon1_Search_item0_Search__p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## select1_icon4_icon
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+Downloads
+Screenshots
+Images
+Videos
+Audio
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## select1_icon4_icon_item2_Downloads_p0
+Open navigation drawer
+Files
+1 folder, 4 files
+Search
+View and sort
+More options
+Internal shared storage
+Download
++ Tab
+sub
+archive.zip
+10:02 AM    6.86 kB
+note.txt
+10:02 AM    32 B
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+
+## select1_icon4_icon_item2_Downloads_p1
+Internal shared storage
+Download
++ Tab
+sub
+archive.zip
+10:02 AM    6.86 kB
+note.txt
+10:02 AM    32 B
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+
+## select1_icon4_icon_item3_Screenshots_p0
+Open navigation drawer
+Files
+Error
+Search
+View and sort
+More options
+Internal shared storage
+Pictures
+Screenshots
++ Tab
+java8.nio.file.NoSuchFileException: /storage/emulated/0/Pictures/Screenshots: opendir: No such file or directory
+
+## select1_icon4_icon_item3_Screenshots_p1
+Internal shared storage
+Pictures
+Screenshots
++ Tab
+java8.nio.file.NoSuchFileException: /storage/emulated/0/Pictures/Screenshots: opendir: No such file or directory
+
+## select1_icon4_icon_item4_Images_p0
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+10:02 AM    14.40 kB
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## select1_icon4_icon_item4_Images_p1
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+10:02 AM    14.40 kB
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+Two panels
+FTP server
+Settings
+
+## select1_icon4_icon_item4_Images_p2
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+10:02 AM    14.40 kB
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+Two panels
+FTP server
+Settings
+About
+
+## select1_icon4_icon_item8_APKs_p0
+Open navigation drawer
+Files
+Empty
+Search
+More options
+Internal shared storage
++ Tab
+No files
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## select1_icon4_icon_item8_APKs_p1
+Open navigation drawer
+Files
+Empty
+Search
+More options
+Internal shared storage
++ Tab
+No files
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+Two panels
+FTP server
+Settings
+About
+
+## select1_icon4_icon_item9_Big_files_100_MB__p0
+Open navigation drawer
+Files
+Empty
+Search
+More options
+Internal shared storage
++ Tab
+No files
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## select1_icon4_icon_item9_Big_files_100_MB__p1
+Open navigation drawer
+Files
+Empty
+Search
+More options
+Internal shared storage
++ Tab
+No files
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+Two panels
+FTP server
+Settings
+
+## select1_icon4_icon_item9_Big_files_100_MB__p2
+Open navigation drawer
+Files
+Empty
+Search
+More options
+Internal shared storage
++ Tab
+No files
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+Two panels
+FTP server
+Settings
+About
+
+## select1_icon4_icon_item10_Changed_in_7_days_p0
+Open navigation drawer
+Files
+15 files
+Search
+More options
+Internal shared storage
++ Tab
+u.xml
+10:20 AM    70.37 kB
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+sample_subs.srt
+10:01 AM    101 B
+note.txt
+10:02 AM    32 B
+archive.zip
+10:02 AM    6.86 kB
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## select1_icon4_icon_item10_Changed_in_7_days_p1
+Open navigation drawer
+Files
+15 files
+Search
+More options
+Internal shared storage
++ Tab
+u.xml
+10:20 AM    70.37 kB
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+sample_subs.srt
+10:01 AM    101 B
+note.txt
+10:02 AM    32 B
+archive.zip
+10:02 AM    6.86 kB
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+Two panels
+FTP server
+Settings
+
+## select1_icon4_icon_item10_Changed_in_7_days_p2
+Open navigation drawer
+Files
+15 files
+Search
+More options
+Internal shared storage
++ Tab
+u.xml
+10:20 AM    70.37 kB
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+sample_subs.srt
+10:01 AM    101 B
+note.txt
+10:02 AM    32 B
+archive.zip
+10:02 AM    6.86 kB
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+Two panels
+FTP server
+Settings
+About
+
+## select1_icon6_Copy
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## select1_icon6_Copy_item0_Search__p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## select1_icon6_Copy_item0_Search__p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## select1_icon6_Copy_item0_Search__p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Download_p0
+Open navigation drawer
+Files
+1 folder, 4 files
+Search
+View and sort
+More options
+Internal shared storage
+Download
++ Tab
+sub
+archive.zip
+10:02 AM    6.86 kB
+note.txt
+10:02 AM    32 B
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+
+## folder_Download_p1
+Internal shared storage
+Download
++ Tab
+sub
+archive.zip
+10:02 AM    6.86 kB
+note.txt
+10:02 AM    32 B
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+
+## folder_Download_icon0_Open_navigation_drawer
+Open navigation drawer
+Files
+1 folder, 4 files
+Search
+View and sort
+More options
+Internal shared storage
+Download
++ Tab
+sub
+archive.zip
+10:02 AM    6.86 kB
+note.txt
+10:02 AM    32 B
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## folder_Download_icon0_Open_navigation_drawer_item0_Root_p0
+Open navigation drawer
+Files
+Error
+Search
+View and sort
+More options
+Root
++ Tab
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+
+## folder_Download_icon0_Open_navigation_drawer_item0_Root_p1
+Root
++ Tab
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+
+## folder_Download_icon0_Open_navigation_drawer_item1_Add_storage__p0
+Add storage
+Android/data
+Android/obb
+External storage
+FTP server
+SFTP server
+SMB server
+WebDAV server
+
+## folder_Download_icon0_Open_navigation_drawer_item2_DCIM_p0
+Open navigation drawer
+Files
+Empty
+Search
+View and sort
+More options
+Internal shared storage
+DCIM
++ Tab
+No files
+
+## folder_Download_icon0_Open_navigation_drawer_item2_DCIM_p1
+Internal shared storage
+DCIM
++ Tab
+No files
+
+## folder_Download_icon0_Open_navigation_drawer_item4_Movies_p0
+Open navigation drawer
+Files
+1 folder, 3 files
+Search
+View and sort
+More options
+Internal shared storage
+Movies
++ Tab
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+sample_subs.srt
+10:01 AM    101 B
+
+## folder_Download_icon0_Open_navigation_drawer_item4_Movies_p1
+Internal shared storage
+Movies
++ Tab
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+sample_subs.srt
+10:01 AM    101 B
+
+## folder_Download_icon0_Open_navigation_drawer_item6_Pictures_p0
+Open navigation drawer
+Files
+1 folder
+Search
+View and sort
+More options
+Internal shared storage
+Pictures
++ Tab
+
+## folder_Download_icon0_Open_navigation_drawer_item6_Pictures_p1
+Internal shared storage
+Pictures
++ Tab
+
+## folder_Download_icon0_Open_navigation_drawer_item7_Screenshots_p0
+Open navigation drawer
+Files
+Error
+Search
+View and sort
+More options
+Internal shared storage
+Pictures
+Screenshots
++ Tab
+java8.nio.file.NoSuchFileException: /storage/emulated/0/Pictures/Screenshots: opendir: No such file or directory
+
+## folder_Download_icon0_Open_navigation_drawer_item7_Screenshots_p1
+Internal shared storage
+Pictures
+Screenshots
++ Tab
+java8.nio.file.NoSuchFileException: /storage/emulated/0/Pictures/Screenshots: opendir: No such file or directory
+
+## folder_Download_icon0_Open_navigation_drawer_item8_Images_p0
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+10:02 AM    14.40 kB
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## folder_Download_icon0_Open_navigation_drawer_item8_Images_p1
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+10:02 AM    14.40 kB
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Movies
+/storage/emulated/0/Movies
+⌚ DCIM
+/storage/emulated/0/DCIM
+⌚ /
+/
+
+## folder_Download_icon0_Open_navigation_drawer_item8_Images_p2
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+10:02 AM    14.40 kB
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Movies
+/storage/emulated/0/Movies
+⌚ DCIM
+/storage/emulated/0/DCIM
+⌚ /
+/
+⌚ Download
+/storage/emulated/0/Download
+Two panels
+FTP server
+Settings
+About
+
+## folder_Download_icon0_Open_navigation_drawer_item9_Videos_p0
+Open navigation drawer
+Files
+2 files
+Search
+More options
+Internal shared storage
++ Tab
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## folder_Download_icon0_Open_navigation_drawer_item9_Videos_p1
+Open navigation drawer
+Files
+2 files
+Search
+More options
+Internal shared storage
++ Tab
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Movies
+/storage/emulated/0/Movies
+⌚ DCIM
+/storage/emulated/0/DCIM
+⌚ /
+/
+⌚ Download
+/storage/emulated/0/Download
+Two panels
+FTP server
+Settings
+About
+
+## folder_Download_icon1_Search
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## folder_Download_icon1_Search_item0_Search__p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## folder_Download_icon1_Search_item0_Search__p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Download_icon1_Search_item0_Search__p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Download_icon3_More_options
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## filemenu_Download_0_Internal_shared_storage
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## open_Download_0_Internal_shared_storage
+Open navigation drawer
+Files
+Loading…
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## filemenu_Download_1_Alarms
+Open with
+Cut
+Copy
+Delete
+Rename
+Compress
+Share
+Copy path
+Add bookmark
+Create shortcut
+Properties
+
+## open_Download_1_Alarms
+Open navigation drawer
+Files
+Empty
+Search
+View and sort
+More options
+Internal shared storage
+Alarms
++ Tab
+No files
+
+## filemenu_Download_2_Android
+Open with
+Cut
+Copy
+Delete
+Rename
+Compress
+Share
+Copy path
+Add bookmark
+Create shortcut
+Properties
+
+## open_Download_2_Android
+Open navigation drawer
+Files
+3 folders
+Search
+View and sort
+More options
+Internal shared storage
+Android
++ Tab
+data
+media
+obb
+
+## filemenu_Download_3_Audiobooks
+Open with
+Cut
+Copy
+Delete
+Rename
+Compress
+Share
+Copy path
+Add bookmark
+Create shortcut
+Properties
+
+## open_Download_3_Audiobooks
+Open navigation drawer
+Files
+Empty
+Search
+View and sort
+More options
+Internal shared storage
+Audiobooks
++ Tab
+No files
+
+## folder_Movies_p0
+Open navigation drawer
+Files
+1 folder, 3 files
+Search
+View and sort
+More options
+Internal shared storage
+Movies
++ Tab
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+sample_subs.srt
+10:01 AM    101 B
+
+## folder_Movies_p1
+Internal shared storage
+Movies
++ Tab
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+sample_subs.srt
+10:01 AM    101 B
+
+## folder_Movies_icon0_Open_navigation_drawer
+Open navigation drawer
+Files
+1 folder, 3 files
+Search
+View and sort
+More options
+Internal shared storage
+Movies
++ Tab
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+sample_subs.srt
+10:01 AM    101 B
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## folder_Movies_icon0_Open_navigation_drawer_item0_Root_p0
+Open navigation drawer
+Files
+Error
+Search
+View and sort
+More options
+Root
++ Tab
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+
+## folder_Movies_icon0_Open_navigation_drawer_item0_Root_p1
+Root
++ Tab
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+
+## folder_Movies_icon0_Open_navigation_drawer_item1_Add_storage__p0
+Add storage
+Android/data
+Android/obb
+External storage
+FTP server
+SFTP server
+SMB server
+WebDAV server
+
+## folder_Movies_icon0_Open_navigation_drawer_item2_DCIM_p0
+Open navigation drawer
+Files
+Empty
+Search
+View and sort
+More options
+Internal shared storage
+DCIM
++ Tab
+No files
+
+## folder_Movies_icon0_Open_navigation_drawer_item2_DCIM_p1
+Internal shared storage
+DCIM
++ Tab
+No files
+
+## folder_Movies_icon0_Open_navigation_drawer_item3_Downloads_p0
+Open navigation drawer
+Files
+1 folder, 4 files
+Search
+View and sort
+More options
+Internal shared storage
+Download
++ Tab
+sub
+archive.zip
+10:02 AM    6.86 kB
+note.txt
+10:02 AM    32 B
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+
+## folder_Movies_icon0_Open_navigation_drawer_item3_Downloads_p1
+Internal shared storage
+Download
++ Tab
+sub
+archive.zip
+10:02 AM    6.86 kB
+note.txt
+10:02 AM    32 B
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+
+## folder_Movies_icon0_Open_navigation_drawer_item4_Music_p0
+Open navigation drawer
+Files
+1 folder
+Search
+View and sort
+More options
+Internal shared storage
+Music
++ Tab
+
+## folder_Movies_icon0_Open_navigation_drawer_item4_Music_p1
+Internal shared storage
+Music
++ Tab
+
+## folder_Movies_icon0_Open_navigation_drawer_item5_Pictures_p0
+Open navigation drawer
+Files
+1 folder
+Search
+View and sort
+More options
+Internal shared storage
+Pictures
++ Tab
+
+## folder_Movies_icon0_Open_navigation_drawer_item5_Pictures_p1
+Internal shared storage
+Pictures
++ Tab
+
+## folder_Movies_icon0_Open_navigation_drawer_item7_Images_p0
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+10:02 AM    14.40 kB
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## folder_Movies_icon0_Open_navigation_drawer_item7_Images_p1
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+10:02 AM    14.40 kB
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Music
+/storage/emulated/0/Music
+⌚ Download
+/storage/emulated/0/Download
+⌚ DCIM
+/storage/emulated/0/DCIM
+
+## folder_Movies_icon0_Open_navigation_drawer_item7_Images_p2
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+10:02 AM    14.40 kB
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Music
+/storage/emulated/0/Music
+⌚ Download
+/storage/emulated/0/Download
+⌚ DCIM
+/storage/emulated/0/DCIM
+⌚ /
+/
+⌚ Movies
+/storage/emulated/0/Movies
+⌚ Audiobooks
+/storage/emulated/0/Audiobooks
+Two panels
+FTP server
+Settings
+About
+
+## folder_Movies_icon0_Open_navigation_drawer_item8_Videos_p0
+Open navigation drawer
+Files
+2 files
+Search
+More options
+Internal shared storage
++ Tab
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## folder_Movies_icon0_Open_navigation_drawer_item8_Videos_p1
+Open navigation drawer
+Files
+2 files
+Search
+More options
+Internal shared storage
++ Tab
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Music
+/storage/emulated/0/Music
+⌚ Download
+/storage/emulated/0/Download
+⌚ DCIM
+/storage/emulated/0/DCIM
+⌚ /
+/
+
+## folder_Movies_icon0_Open_navigation_drawer_item8_Videos_p2
+Open navigation drawer
+Files
+2 files
+Search
+More options
+Internal shared storage
++ Tab
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Music
+/storage/emulated/0/Music
+⌚ Download
+/storage/emulated/0/Download
+⌚ DCIM
+/storage/emulated/0/DCIM
+⌚ /
+/
+⌚ Movies
+/storage/emulated/0/Movies
+⌚ Audiobooks
+/storage/emulated/0/Audiobooks
+Two panels
+FTP server
+Settings
+About
+
+## folder_Movies_icon0_Open_navigation_drawer_item9_Audio_p0
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+song.mp3
+10:02 AM    161 kB
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## folder_Movies_icon0_Open_navigation_drawer_item9_Audio_p1
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+song.mp3
+10:02 AM    161 kB
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Music
+/storage/emulated/0/Music
+⌚ Download
+/storage/emulated/0/Download
+⌚ DCIM
+/storage/emulated/0/DCIM
+⌚ /
+/
+⌚ Movies
+
+## folder_Movies_icon0_Open_navigation_drawer_item9_Audio_p2
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+song.mp3
+10:02 AM    161 kB
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Music
+/storage/emulated/0/Music
+⌚ Download
+/storage/emulated/0/Download
+⌚ DCIM
+/storage/emulated/0/DCIM
+⌚ /
+/
+⌚ Movies
+/storage/emulated/0/Movies
+⌚ Audiobooks
+/storage/emulated/0/Audiobooks
+Two panels
+FTP server
+Settings
+About
+
+## folder_Movies_icon1_Search
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+
+## folder_Movies_icon1_Search_item0_Search__p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## folder_Movies_icon1_Search_item0_Search__p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Movies_icon1_Search_item0_Search__p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Movies_icon1_Search_item2_Android_p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
+Android
++ Tab
+data
+media
+obb
+
+## folder_Movies_icon1_Search_item2_Android_p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
+Android
++ Tab
+No files
+
+## folder_Movies_icon1_Search_item2_Android_p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
+Android
++ Tab
+No files
+
+## folder_Movies_icon1_Search_item5_Documents_p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
+Documents
++ Tab
+No files
+
+## folder_Movies_icon1_Search_item5_Documents_p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
+Documents
++ Tab
+No files
+
+## folder_Movies_icon1_Search_item5_Documents_p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
+Documents
++ Tab
+No files
+
+## folder_Movies_icon1_Search_item7_Music_p0
+Open navigation drawer
+g
+Clear query
+Internal shared storage
++ Tab
+Ringtones
+Recordings
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+
+## folder_Movies_icon1_Search_item7_Music_p1
+Open navigation drawer
+g by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Movies_icon1_Search_item7_Music_p2
+Open navigation drawer
+g by by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Movies_icon1_Search_item8_Notifications_p0
+Open navigation drawer
+Clear query
+Internal shared storage
++ Tab
+Android
+Movies
+Download
+Music
+Podcasts
+Ringtones
+Alarms
+Notifications
+Pictures
+DCIM
+
+## folder_Movies_icon1_Search_item8_Notifications_p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Movies_icon1_Search_item8_Notifications_p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Movies_icon1_Search_item9_Pictures_p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+
+## folder_Movies_icon1_Search_item9_Pictures_p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Movies_icon1_Search_item9_Pictures_p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Movies_icon3_More_options
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## filemenu_Movies_0_Internal_shared_storage
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## open_Movies_0_Internal_shared_storage
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## filemenu_Movies_1_Alarms
+Open with
+Cut
+Copy
+Delete
+Rename
+Compress
+Share
+Copy path
+Add bookmark
+Create shortcut
+Properties
+
+## open_Movies_1_Alarms
+Open navigation drawer
+Files
+Empty
+Search
+View and sort
+More options
+Internal shared storage
+Alarms
++ Tab
+No files
+
+## filemenu_Movies_2_Android
+Open with
+Cut
+Copy
+Delete
+Rename
+Compress
+Share
+Copy path
+Add bookmark
+Create shortcut
+Properties
+
+## open_Movies_2_Android
+Open navigation drawer
+Files
+3 folders
+Search
+View and sort
+More options
+Internal shared storage
+Android
++ Tab
+data
+media
+obb
+
+## filemenu_Movies_3_Audiobooks
+Open with
+Cut
+Copy
+Delete
+Rename
+Compress
+Share
+Copy path
+Add bookmark
+Create shortcut
+Properties
+
+## open_Movies_3_Audiobooks
+Open navigation drawer
+Files
+Empty
+Search
+View and sort
+More options
+Internal shared storage
+Audiobooks
++ Tab
+No files
+
+## folder_Pictures_p0
+Open navigation drawer
+Files
+1 folder
+Search
+View and sort
+More options
+Internal shared storage
+Pictures
++ Tab
+
+## folder_Pictures_p1
+Internal shared storage
+Pictures
++ Tab
+
+## folder_Pictures_icon0_Open_navigation_drawer
+Open navigation drawer
+Files
+1 folder
+Search
+View and sort
+More options
+Internal shared storage
+Pictures
++ Tab
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## folder_Pictures_icon0_Open_navigation_drawer_item0_Root_p0
+Open navigation drawer
+Files
+Error
+Search
+View and sort
+More options
+Root
++ Tab
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+
+## folder_Pictures_icon0_Open_navigation_drawer_item0_Root_p1
+Root
++ Tab
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+
+## folder_Pictures_icon0_Open_navigation_drawer_item2_DCIM_p0
+Open navigation drawer
+Files
+Empty
+Search
+View and sort
+More options
+Internal shared storage
+DCIM
++ Tab
+No files
+
+## folder_Pictures_icon0_Open_navigation_drawer_item2_DCIM_p1
+Internal shared storage
+DCIM
++ Tab
+No files
+
+## folder_Pictures_icon0_Open_navigation_drawer_item3_Downloads_p0
+Open navigation drawer
+Files
+1 folder, 4 files
+Search
+View and sort
+More options
+Internal shared storage
+Download
++ Tab
+sub
+archive.zip
+10:02 AM    6.86 kB
+note.txt
+10:02 AM    32 B
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+
+## folder_Pictures_icon0_Open_navigation_drawer_item3_Downloads_p1
+Internal shared storage
+Download
++ Tab
+sub
+archive.zip
+10:02 AM    6.86 kB
+note.txt
+10:02 AM    32 B
+picture.png
+10:02 AM    14.40 kB
+song.mp3
+10:02 AM    161 kB
+
+## folder_Pictures_icon0_Open_navigation_drawer_item4_Movies_p0
+Open navigation drawer
+Files
+1 folder, 3 files
+Search
+View and sort
+More options
+Internal shared storage
+Movies
++ Tab
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+sample_subs.srt
+10:01 AM    101 B
+
+## folder_Pictures_icon0_Open_navigation_drawer_item4_Movies_p1
+Internal shared storage
+Movies
++ Tab
+sample_h264.mp4
+10:01 AM    23.23 MB
+sample_subs.mkv
+10:02 AM    2.76 MB
+sample_subs.srt
+10:01 AM    101 B
+
+## folder_Pictures_icon0_Open_navigation_drawer_item5_Music_p0
+Open navigation drawer
+Files
+1 folder
+Search
+View and sort
+More options
+Internal shared storage
+Music
++ Tab
+
+## folder_Pictures_icon0_Open_navigation_drawer_item5_Music_p1
+Internal shared storage
+Music
++ Tab
+
+## folder_Pictures_icon0_Open_navigation_drawer_item7_Images_p0
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+10:02 AM    14.40 kB
+Root
+67.14 MB free of 875 MB
+5.18 GB free of 6.23 GB
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+
+## folder_Pictures_icon0_Open_navigation_drawer_item7_Images_p1
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+10:02 AM    14.40 kB
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Music
+/storage/emulated/0/Music
+⌚ Movies
+/storage/emulated/0/Movies
+⌚ Download
+/storage/emulated/0/Download
+⌚ DCIM
+/storage/emulated/0/DCIM
+⌚ /
+/
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Audiobooks
+/storage/emulated/0/Audiobooks
+Two panels
+FTP server
+Settings
+About
+
+## folder_Pictures_icon1_Search
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## folder_Pictures_icon1_Search_item0_Search__p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## folder_Pictures_icon1_Search_item0_Search__p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Pictures_icon1_Search_item0_Search__p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Pictures_icon1_Search_item2_Android_p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
+Android
++ Tab
+data
+media
+obb
+
+## folder_Pictures_icon1_Search_item2_Android_p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
+Android
++ Tab
+No files
+
+## folder_Pictures_icon1_Search_item2_Android_p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
+Android
++ Tab
+No files
+
+## folder_Pictures_icon1_Search_item3_Audiobooks_p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
+Audiobooks
++ Tab
+No files
+
+## folder_Pictures_icon1_Search_item3_Audiobooks_p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
+Audiobooks
++ Tab
+No files
+
+## folder_Pictures_icon1_Search_item3_Audiobooks_p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
+Audiobooks
++ Tab
+No files
+
+## folder_Pictures_icon1_Search_item5_Documents_p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
+Documents
++ Tab
+No files
+
+## folder_Pictures_icon1_Search_item5_Documents_p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
+Documents
++ Tab
+No files
+
+## folder_Pictures_icon1_Search_item5_Documents_p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
+Documents
++ Tab
+No files
+
+## folder_Pictures_icon1_Search_item6_Download_p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+
+## folder_Pictures_icon1_Search_item9_Notifications_p0
+Open navigation drawer
+Clear query
+Internal shared storage
++ Tab
+Android
+Movies
+Download
+Music
+Podcasts
+Ringtones
+Alarms
+Notifications
+Pictures
+DCIM
+
+## folder_Pictures_icon1_Search_item9_Notifications_p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Pictures_icon1_Search_item9_Notifications_p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
++ Tab
+No files
+
+## folder_Pictures_icon3_More_options
+Open navigation drawer
+Files
+13 folders, 1 file
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+
+## settings_main_p0
+Navigate up
+Settings
+Interface
+Language
+System default
+Theme color
+Color that appears most frequently in the app
+Material Design 3
+Night mode
+Follow system
+Black night mode
+File list animation
+Display long file name
+Ellipsize the middle
+Behavior
+Default folder
+Internal shared storage
+Storage
+Root and Internal shared storage
+Standard folders
+DCIM, Downloads, Movies, Music, and Pictures
+Bookmark folders
+
+## settings_main_p1
+Navigate up
+Settings
+File list animation
+Display long file name
+Ellipsize the middle
+Behavior
+Default folder
+Internal shared storage
+Storage
+Root and Internal shared storage
+Standard folders
+DCIM, Downloads, Movies, Music, and Pictures
+Bookmark folders
+Screenshots
+Root access mode
+Automatic
+Archive file name encoding
+UTF-8
+Open Android package
+Ask what to do
+Read remote files for thumbnail
+69 mod
+
+## settings_main_p2
+Navigate up
+Settings
+Read remote files for thumbnail
+69 mod
+69- Accent colour (MiXplorer style)
+App's own colour
+69- Pure black (AMOLED)
+Black background, bars and menus in dark mode
+69- Monospace font (MiXplorer style)
+69- Show file extensions
+Off = names without .jpg / .mp4 …
+69- Show full long names
+Long names wrap to more lines instead of being cut
+69- Highlight visited folders
+Folders you opened show their name in the accent colour
+69- Storage usage bars
+A bar under each storage in the side bar shows how full it is (red when almost full)
+69- Side bar list from the bottom
+The side bar list starts at the bottom, easy to reach with the thumb (MiXplorer 'pin the list from bottom')
+69- Pinch to zoom
+
+## settings_main_p3
+Navigate up
+Settings
+The side bar list starts at the bottom, easy to reach with the thumb (MiXplorer 'pin the list from bottom')
+69- Pinch to zoom
+In grid view, pinch to show bigger or smaller thumbnails
+69- Crop thumbnails
+Off = whole picture fits in the thumbnail
+69- No animations
+Lists and screens change at once, without sliding / fading
+69- Animated thumbnails
+GIF and animated WebP thumbnails move. Off = still pictures (restart the app)
+69- Two panels layout
+Auto (side by side when the screen is wide)
+69- Solid navigation bar
+The phone's navigation bar gets the app's background colour (black with the black theme) instead of being see-through
+Recycle bin
+Deleted files go to Internal/.69RecycleBin first (select them there to restore)
+Open recycle bin
+Empty recycle bin
+
+## settings_main_p4
+Navigate up
+Settings
+In grid view, pinch to show bigger or smaller thumbnails
+69- Crop thumbnails
+Off = whole picture fits in the thumbnail
+69- No animations
+Lists and screens change at once, without sliding / fading
+69- Animated thumbnails
+GIF and animated WebP thumbnails move. Off = still pictures (restart the app)
+69- Two panels layout
+Auto (side by side when the screen is wide)
+69- Solid navigation bar
+The phone's navigation bar gets the app's background colour (black with the black theme) instead of being see-through
+Recycle bin
+Deleted files go to Internal/.69RecycleBin first (select them there to restore)
+Open recycle bin
+Empty recycle bin
+Export settings
+Import settings
+
