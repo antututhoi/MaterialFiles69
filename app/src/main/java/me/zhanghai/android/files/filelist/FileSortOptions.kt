@@ -37,9 +37,15 @@ data class FileSortOptions(
             Order.DESCENDING -> comparator = comparator.reversedCompat()
         }
         if (isDirectoriesFirst) {
+            // 69 mod: "Files first" turns the grouping around
+            val filesFirst = me.zhanghai.android.files.mod69.Mod69Look.filesFirst
             val isDirectoryComparator = compareBy<FileItem> { it.attributes.isDirectory }
-                .reversedCompat()
+                .let { if (filesFirst) it else it.reversedCompat() }
             comparator = isDirectoryComparator.then(comparator)
+        }
+        // 69 mod: "Dot files first"
+        if (me.zhanghai.android.files.mod69.Mod69Look.dotFilesFirst) {
+            comparator = compareBy<FileItem> { !it.name.startsWith(".") }.then(comparator)
         }
         return comparator
     }

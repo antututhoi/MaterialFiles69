@@ -34,4 +34,14 @@
         <item>yellow</item>
         <item>white</item>
     </string-array>
+    <string-array name="mod69_list_density_entries">
+        <item>Normal</item>
+        <item>Compact (smaller rows)</item>
+        <item>Minimal (one line, name only)</item>
+    </string-array>
+    <string-array name="mod69_list_density_values">
+        <item>normal</item>
+        <item>compact</item>
+        <item>minimal</item>
+    </string-array>
 </resources>

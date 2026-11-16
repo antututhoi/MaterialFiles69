@@ -185,6 +185,23 @@
             android:title="69- Solid navigation bar"
             android:summary="The phone's navigation bar gets the app's background colour (black with the black theme) instead of being see-through"
             android:defaultValue="true" />
+        <ListPreference
+            android:key="mod69_list_density"
+            android:title="List rows"
+            android:summary="%s"
+            android:entries="@array/mod69_list_density_entries"
+            android:entryValues="@array/mod69_list_density_values"
+            android:defaultValue="normal" />
+        <SwitchPreferenceCompat
+            android:key="mod69_files_first"
+            android:title="Files first"
+            android:summary="When Folders first is ticked in the sort menu, show files above folders instead"
+            android:defaultValue="false" />
+        <SwitchPreferenceCompat
+            android:key="mod69_dot_first"
+            android:title="Dot files first"
+            android:summary="Names that start with a dot are listed before everything else"
+            android:defaultValue="false" />
         <SwitchPreferenceCompat
             android:key="mod69_folder_details"
             android:title="Show the date on folders"

@@ -28,6 +28,23 @@ object Mod69Look {
     val folderDetails: Boolean get() = prefs.getBoolean("mod69_folder_details", false)
     val backHistory: Boolean get() = prefs.getBoolean("mod69_back_history", false)
     val startupLock: Boolean get() = prefs.getBoolean("mod69_startup_lock", false)
+    /** List look: "normal", "compact" (smaller rows) or "minimal" (one line, name only). */
+    val listDensity: String get() = prefs.getString("mod69_list_density", "normal") ?: "normal"
+    /** With "folders first" on in the sort menu: put files first instead (MiXplorer "Files first"). */
+    val filesFirst: Boolean get() = prefs.getBoolean("mod69_files_first", false)
+    /** Names starting with a dot come before everything else (MiXplorer "Dot files first"). */
+    val dotFilesFirst: Boolean get() = prefs.getBoolean("mod69_dot_first", false)
+
+    /** MiXplorer "Compact" / "Minimal" list rows. */
+    fun applyListDensity(item: View, icon: View, description: View?) {
+        val mode = listDensity
+        if (mode == "normal") return
+        val d = item.resources.displayMetrics.density
+        item.layoutParams = item.layoutParams.apply { height = ((if (mode == "minimal") 40 else 52) * d).toInt() }
+        icon.scaleX = if (mode == "minimal") 0.7f else 0.85f
+        icon.scaleY = icon.scaleX
+        if (mode == "minimal") description?.visibility = View.GONE
+    }
 
     /** Date in the file list: the user's own pattern (e.g. yyyy-MM-dd HH:mm) or the app's short form. */
     fun formatDate(instant: java.time.Instant, context: android.content.Context): String {

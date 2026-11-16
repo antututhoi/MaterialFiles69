@@ -200,6 +200,10 @@ class FileListAdapter(
                     )
                 }
             }
+            // 69 mod: compact / minimal list rows
+            if (viewType == FileViewType.LIST) {
+                me.zhanghai.android.files.mod69.Mod69Look.applyListDensity(itemLayout, iconLayout, descriptionText)
+            }
             popupMenu = PopupMenu(menuButton.context, menuButton)
                 .apply { inflate(R.menu.file_item) }
             menuButton.setOnClickListener { popupMenu.show() }
