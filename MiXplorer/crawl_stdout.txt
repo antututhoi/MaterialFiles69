@@ -1,0 +1,135 @@
+start MiXplorer other com.mixplorer 1080 2400
+!! ANR / crash dialog: ["Pixel Launcher isn't responding"]
+dismiss: AGREE
+dismiss: AGREE
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.documentsui ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+ PAGE settings
+   - SKINS
+Default
+   - LANGUAGES
+English
+   - ADD-ONS
+Tap to see options
+   - BUTTONS
+Tap to see options
+   - MORE SETTINGS
+Tap to see options
+   - AUTO TASKS
+Tap to see options
+   - COMPONENTS
+Tap to see options
+   - ABOUT
+Version: 6.71.15 B26090422 x64
+Author: Hootan Parsa
+done 359 screenshots 3963 s

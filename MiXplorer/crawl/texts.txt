@@ -1,0 +1,13866 @@
+## first_run
+2:20
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+915.3 MiB / 5.8 GiB
+App
+<dir>
+Audio
+<dir>
+Document
+<dir>
+Image
+<dir>
+Recent
+<dir>
+Video
+<dir>
+Data 
+<dir>
+Download
+<dir>
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_p0
+2:20
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+886.6 MiB / 5.8 GiB
+App
+<dir>
+Audio
+<dir>
+Document
+<dir>
+Image
+<dir>
+Recent
+24.96 MiB | 8
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks
+2:20
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+889.9 MiB / 5.8 GiB
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Document
+<dir>
+Image
+14.07 KiB | 1
+Recent
+24.96 MiB | 8
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+…/user/0/com.mixplorer/home
+Internal storage
+5.8 GiB,  4.93 GiB Free
+/storage/emulated/0
+Root
+834.29 MiB,  48.03 MiB Free
+Download
+/storage/emulated/0/Download
+Audio
+content://mix/audio
+Video
+content://mix/video
+Image
+content://mix/image
+APK
+content://mix/apk
+Archive
+content://mix/archive
+Document
+content://mix/document
+App
+content://mix/app
+All Files
+content://mix/all
+Recent
+content://mix/recent
+Recycle bin
+content://mix/trash
+
+## main_icon0_Bookmarks_item0_Internal_storage_p0
+2:20
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Internal storage
+14 folders, One file
+Menu
+Alarms
+Last minute
+Android
+Just now | 4 KiB | 2
+Audiobooks
+Last minute
+DCIM
+Last minute
+Documents
+Last minute
+Download
+Just now | 177.58 KiB | 6
+Movies
+Just now | 24.79 MiB | 3
+Music
+Last minute
+Notifications
+Last minute
+Pictures
+Last minute
+Podcasts
+Last minute
+Recordings
+Last minute
+Ringtones
+Last minute
+.mixplorer
+Just now
+Tab menu
+◁
+Breadcrumb
+⌂    891.18 MIB / 5.8 GIB   16%
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item0_Internal_storage_p1
+2:20
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Internal storage
+14 folders, One file
+Menu
+Android
+Just now | 4 KiB | 2
+Audiobooks
+Last minute
+DCIM
+Last minute
+Documents
+Last minute
+Download
+Just now | 177.58 KiB | 6
+Movies
+Just now | 24.79 MiB | 3
+Music
+Last minute
+Notifications
+Last minute
+Pictures
+Last minute
+Podcasts
+Last minute
+Recordings
+Last minute
+Ringtones
+Last minute
+.mixplorer
+Just now
+first_MiXplorer.mp4
+841.44 KiB
+Just now
+Tab menu
+◁
+Breadcrumb
+⌂    891.18 MIB / 5.8 GIB   16%
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item1_Root_p0
+2:20
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Allow Root
+Cancel
+Uncheck to prevent root commands on rooted devices.
+AGREE
+
+## main_icon0_Bookmarks_item1_Root_p1
+2:20
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Root
+19 folders
+Menu
+apex
+Nov 16, 2026
+bin
+<dir>
+Jul 11, 2024
+bugreports
+<dir>
+Jul 11, 2024
+data
+N/A
+etc
+<dir>
+Jul 11, 2024
+mnt
+Nov 16, 2026
+odm
+Jul 11, 2024
+odm_dlkm
+Jul 11, 2024
+oem
+Jul 11, 2024
+proc
+Nov 16, 2026
+product
+Jul 11, 2024
+sdcard
+<dir>
+Jul 11, 2024
+second_stage_resources
+Jul 11, 2024
+storage
+Nov 16, 2026
+sys
+Nov 16, 2026
+system
+Jul 11, 2024
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item1_Root_p2
+2:20
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Root
+19 folders
+Menu
+bugreports
+<dir>
+Jul 11, 2024
+data
+N/A
+etc
+<dir>
+Jul 11, 2024
+mnt
+Nov 16, 2026
+odm
+Jul 11, 2024
+odm_dlkm
+Jul 11, 2024
+oem
+Jul 11, 2024
+proc
+Nov 16, 2026
+product
+Jul 11, 2024
+sdcard
+<dir>
+Jul 11, 2024
+second_stage_resources
+Jul 11, 2024
+storage
+Nov 16, 2026
+sys
+Nov 16, 2026
+system
+Jul 11, 2024
+system_ext
+Jul 11, 2024
+vendor
+Jul 11, 2024
+vendor_dlkm
+Jul 11, 2024
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item2_Download_p0
+2:21
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Internal storage/Download
+One folder, 4 files
+Menu
+sub
+Last minute
+archive.zip
+6.7 KiB
+3 minutes ago
+note.txt
+32 B
+3 minutes ago
+picture.png
+14.07 KiB
+3 minutes ago
+song.mp3
+156.75 KiB
+3 minutes ago
+Tab menu
+Download
+◁
+Breadcrumb
+⌂
+»  DOWNLOAD
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item3_Audio_p0
+2:21
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Audio
+One file
+Menu
+song.mp3
+156.75 KiB
+3 minutes ago
+Tab menu
+Breadcrumb
+ALL
+•  FLAC
+•  M4A
+•  MP3
+•  OGG
+•  WAV
+•  WMA
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item4_Video_p0
+2:21
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Video
+2 files
+Menu
+Tab menu
+Breadcrumb
+ALL
+•  AVI
+•  MKV
+•  MOV
+•  MP4
+•  MPG
+•  WEBM
+•  WMV
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item5_Image_p0
+Bookmarks
+Image
+One file
+Menu
+Download
+Tab menu
+Breadcrumb
+ALL
+•  JPEG
+•  JPG
+•  PNG
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:22
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## main_icon0_Bookmarks_item6_APK_p0
+2:22
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+APK
+No item
+Menu
+Tab menu
+Breadcrumb
+ALL
+•  APK
+•  APKM
+•  APKS
+•  MIA
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item7_Archive_p0
+2:22
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Archive
+One file
+Menu
+archive.zip
+6.7 KiB
+4 minutes ago
+Tab menu
+Breadcrumb
+ALL
+•  7Z
+•  BZ2
+•  GZ
+•  JAR
+•  LZ
+•  RAR
+•  TAR
+•  XZ
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item8_Document_p0
+2:22
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Document
+No item
+Menu
+Tab menu
+Breadcrumb
+ALL
+•  CBR
+•  CBZ
+•  DOCX
+•  EPUB
+•  ODT
+•  PDF
+•  PPTX
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item9_App_p0
+2:23
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+App
+224 files
+Menu
+MiXplorer_6.71.15.apk
+⌗ Android System WebView_113.0.5672.136.apk
+⌗ Chrome_113.0.5672.136.apk
+⌗ System UI_14.apk
+⌗ Settings_14.apk
+⌗ Pixel Launcher_14.apk
+⌗ Wallpaper & style_14.apk
+⌗ Google_13.17.16.23.x86_64.apk
+⌗ Google Play services_23.18.18 (190800-535401451).apk
+⌗ Maps_11.71.0300.apk
+⌗ Gmail_2023.04.16.527073575.Release.apk
+⌗ YouTube_19.17.42.apk
+⌗ Photos_6.29.0.519265844.apk
+⌗ YouTube Music_5.54.52.apk
+⌗ Drive_2.23.251.0.x86_64.alldpi.apk
+⌗ Phone_100.0.512999549.apk
+⌗ Contacts_4.8.17.529259023.apk
+⌗ Android Accessibility Suite_14.2.0.618048417.apk
+⌗ Speech Services by Google_googletts.google-speech-apk_20230123.02_p3.506463867.apk
+⌗ Clock_7.4 (504317960).apk
+⌗ Data Restore Tool_1.0.510474504.apk
+⌗ Android Auto_1.2.531830-stub.apk
+⌗ Android System Intelligence_U.0.sysimg.pixel6.530899711.apk
+Tab menu
+Breadcrumb
+ALL
+•  USER APP
+•  SYSTEM APP
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item9_App_p1
+2:23
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+App
+224 files
+Menu
+⌗ System UI_14.apk
+⌗ Settings_14.apk
+⌗ Pixel Launcher_14.apk
+⌗ Wallpaper & style_14.apk
+⌗ Google_13.17.16.23.x86_64.apk
+⌗ Google Play services_23.18.18 (190800-535401451).apk
+⌗ Maps_11.71.0300.apk
+⌗ Gmail_2023.04.16.527073575.Release.apk
+⌗ YouTube_19.17.42.apk
+⌗ Photos_6.29.0.519265844.apk
+⌗ YouTube Music_5.54.52.apk
+⌗ Drive_2.23.251.0.x86_64.alldpi.apk
+⌗ Phone_100.0.512999549.apk
+⌗ Contacts_4.8.17.529259023.apk
+⌗ Android Accessibility Suite_14.2.0.618048417.apk
+⌗ Speech Services by Google_googletts.google-speech-apk_20230123.02_p3.506463867.apk
+⌗ Clock_7.4 (504317960).apk
+⌗ Data Restore Tool_1.0.510474504.apk
+⌗ Android Auto_1.2.531830-stub.apk
+⌗ Android System Intelligence_U.0.sysimg.pixel6.530899711.apk
+⌗ Google Services Framework_14.apk
+⌗ com.android.emulator.radio.config_14.apk
+⌗ ConfigUpdater_14.apk
+⌗ Emergency information_14.apk
+⌗ System Tracing_1.0.apk
+⌗ Storage Manager_14.apk
+⌗ Credential Manager_14.apk
+⌗ Messages_messages.android_20230529_03_RC01_alldpi.x86_64.phone.apk
+Tab menu
+Breadcrumb
+ALL
+•  USER APP
+•  SYSTEM APP
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item9_App_p2
+2:23
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+App
+224 files
+Menu
+⌗ YouTube_19.17.42.apk
+⌗ Photos_6.29.0.519265844.apk
+⌗ YouTube Music_5.54.52.apk
+⌗ Drive_2.23.251.0.x86_64.alldpi.apk
+⌗ Phone_100.0.512999549.apk
+⌗ Contacts_4.8.17.529259023.apk
+⌗ Android Accessibility Suite_14.2.0.618048417.apk
+⌗ Speech Services by Google_googletts.google-speech-apk_20230123.02_p3.506463867.apk
+⌗ Clock_7.4 (504317960).apk
+⌗ Data Restore Tool_1.0.510474504.apk
+⌗ Android Auto_1.2.531830-stub.apk
+⌗ Android System Intelligence_U.0.sysimg.pixel6.530899711.apk
+⌗ Google Services Framework_14.apk
+⌗ com.android.emulator.radio.config_14.apk
+⌗ ConfigUpdater_14.apk
+⌗ Emergency information_14.apk
+⌗ System Tracing_1.0.apk
+⌗ Storage Manager_14.apk
+⌗ Credential Manager_14.apk
+⌗ Messages_messages.android_20230529_03_RC01_alldpi.x86_64.phone.apk
+⌗ Phone Calls_14.apk
+⌗ Work Setup_14.apk
+⌗ Digital Wellbeing_1.6.521068621 (495937).apk
+⌗ com.google.android.overlay.pixelconfigcommon_1.0.apk
+⌗ Gboard_12.4.05.482060964-preload-x86_64.apk
+⌗ Google Wallpaper Images_nexus_wallpapers_20180605.apk
+⌗ Main components_2023-07-01 S+.apk
+⌗ Settings Services_1.1.0.536057574.sr.apk
+Tab menu
+Breadcrumb
+ALL
+•  USER APP
+•  SYSTEM APP
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item10_All_Files_p0
+Bookmarks
+All Files
+10 files
+Menu
+first_MiXplorer.mp4
+6.05 MiB
+Nov 16, 2026
+archive.zip
+6.7 KiB
+Nov 16, 2026
+note.txt
+32 B
+Nov 16, 2026
+picture.png
+14.07 KiB
+Nov 16, 2026
+sample_subs.mkv
+2.63 MiB
+Nov 16, 2026
+song.mp3
+156.75 KiB
+Nov 16, 2026
+sample_h264.mp4
+22.16 MiB
+Nov 16, 2026
+sample_subs.srt
+101 B
+Nov 16, 2026
+Data‎.lnk
+0 B
+N/A
+Tab menu
+Breadcrumb
+ALL
+•  ALL FOLDERS
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:23
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## main_icon0_Bookmarks_item11_Recent_p0
+2:23
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Recent
+9 files
+Menu
+first_MiXplorer.mp4
+6.05 MiB
+Nov 16, 2026
+archive.zip
+6.7 KiB
+Nov 16, 2026
+note.txt
+32 B
+Nov 16, 2026
+picture.png
+14.07 KiB
+Nov 16, 2026
+sample_subs.mkv
+2.63 MiB
+Nov 16, 2026
+song.mp3
+156.75 KiB
+Nov 16, 2026
+sample_h264.mp4
+22.16 MiB
+Nov 16, 2026
+sample_subs.srt
+101 B
+Nov 16, 2026
+Tab menu
+Breadcrumb
+ALL
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon0_Bookmarks_item12_Recycle_bin_p0
+2:23
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Recycle bin
+No item
+Menu
+Tab menu
+Breadcrumb
+ALL
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon1_Home_9_folders
+2:24
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+⌂
+
+## main_icon2_Menu
+2:24
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Undo
+Lock
+Tools
+Filter
+Servers
+Execute
+Open in terminal
+Settings
+Exit
+
+## main_icon2_Menu_item0_Undo_p0
+2:24
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+918.9 MiB / 5.8 GiB
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Document
+<dir>
+Image
+14.07 KiB | 1
+Recent
+31.0 MiB | 9
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon2_Menu_item1_Lock_p0
+2:24
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Lock
+Cancel
+Enter The Key
+CANCEL
+OK
+
+## main_icon2_Menu_item2_Tools_p0
+Tools
+Cancel
+Duplicates
+…/Android/data/
+2:25
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+
+## main_icon2_Menu_item2_Tools_p1
+2:25
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+920 MiB / 5.8 GiB
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Document
+<dir>
+Image
+14.07 KiB | 1
+Recent
+31.0 MiB | 9
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon2_Menu_item3_Filter_p0
+2:25
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Filter
+Cancel
+Document
+Image
+Audio
+Video
+Archive
+APK
+RESET
+
+## main_icon2_Menu_item4_Servers_p0
+2:25
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Servers
+Cancel
+Start FTP(S,ES)/Share Server
+Settings
+Start HTTP/WebDav Server
+Start SFTP Server
+Start SMB Server
+Start DLNA Server/Renderer
+
+## main_icon2_Menu_item4_Servers_p1
+2:25
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+919.1 MiB / 5.8 GiB
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Document
+<dir>
+Image
+14.07 KiB | 1
+Recent
+31.0 MiB | 9
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon2_Menu_item5_Execute_p0
+2:26
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Execute
+Cancel
+Enter The Command
+STDOUT:
+STDERR:
+CANCEL
+EXECUTE
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Enter
+Back
+Switch input method
+
+## main_icon2_Menu_item5_Execute_p1
+2:26
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Execute
+Cancel
+by
+STDOUT:
+STDERR:
+CANCEL
+EXECUTE
+More features
+see
+too
+TT
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Enter
+Back
+Switch input method
+
+## main_icon2_Menu_item5_Execute_p2
+2:26
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Execute
+Cancel
+by by
+STDOUT:
+STDERR:
+CANCEL
+EXECUTE
+More features
+moo
+see
+too
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Enter
+Back
+Switch input method
+
+## main_icon2_Menu_item6_Open_in_terminal_p0
+2:26
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+927.7 MiB / 5.8 GiB
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Document
+<dir>
+Image
+14.07 KiB | 1
+Recent
+31.0 MiB | 9
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon2_Menu_item7_Settings_p0
+2:26
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Exit
+Settings
+SKINS
+Default
+LANGUAGES
+English
+ADD-ONS
+Tap to see options
+BUTTONS
+Tap to see options
+MORE SETTINGS
+Tap to see options
+AUTO TASKS
+Tap to see options
+COMPONENTS
+Tap to see options
+ABOUT
+Version: 6.71.15 B26090422 x64
+Author: Hootan Parsa
+
+## main_icon3_Tab_menu
+2:27
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Add new tab
+Reset tabs
+Save tabs…
+
+## main_icon3_Tab_menu_item0_Add_new_tab_p0
+2:27
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+927.8 MiB / 5.8 GiB
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Document
+<dir>
+Image
+14.07 KiB | 1
+Recent
+31.0 MiB | 9
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_icon4_Home
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+927.9 MiB / 5.8 GiB
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Document
+<dir>
+Image
+14.07 KiB | 1
+Recent
+31.0 MiB | 9
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:27
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## main_icon4_Home_item1_Recent_31.0_MiB_9_p0
+2:27
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Recent
+9 files
+Menu
+first_MiXplorer.mp4
+6.05 MiB
+Nov 16, 2026
+archive.zip
+6.7 KiB
+Nov 16, 2026
+note.txt
+32 B
+Nov 16, 2026
+picture.png
+14.07 KiB
+Nov 16, 2026
+sample_subs.mkv
+2.63 MiB
+Nov 16, 2026
+song.mp3
+156.75 KiB
+Nov 16, 2026
+sample_h264.mp4
+22.16 MiB
+Nov 16, 2026
+sample_subs.srt
+101 B
+Nov 16, 2026
+Tab menu
+Breadcrumb
+ALL
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon0_Search
+2:28
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+927.7 MiB / 5.8 GiB
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Document
+<dir>
+Image
+14.07 KiB | 1
+Recent
+31.0 MiB | 9
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+Type to filter (Contains)
+Search recursively
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon0_Search_item1_Space_p0
+2:28
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+927.7 MiB / 5.8 GiB
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Document
+0 B | 0
+Image
+14.07 KiB | 1
+Recent
+31.0 MiB | 9
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+Search recursively
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon0_Search_item1_Space_p1
+2:28
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+No item
+Menu
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+too
+Search recursively
+More features
+no
+see
+TT
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon0_Search_item1_Space_p2
+2:28
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+No item
+Menu
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+too by
+Search recursively
+More features
+see
+too
+mi
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon1_View
+2:28
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Compact
+Columned
+Detailed
+Wrapped
+Minimal
+Grid
+Gallery
+Options…
+
+## main_bottom_icon1_View_item0_Compact_p0
+2:28
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+App
+Audio
+Document
+Image
+Recent
+Video
+Data
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon1_View_item1_Columned_p0
+2:29
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+927.9 MiB / 5.8 GiB
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Document
+<dir>
+Image
+14.07 KiB | 1
+Recent
+31.0 MiB | 9
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon1_View_item2_Detailed_p0
+2:29
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+928 MiB / 5.8 GiB
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Document
+<dir>
+Image
+14.07 KiB | 1
+Recent
+31.0 MiB | 9
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon1_View_item3_Wrapped_p0
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+928.1 MiB / 5.8 GiB
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Document
+0 B | 0
+Image
+14.07 KiB | 1
+Recent
+31.0 MiB | 9
+Video
+24.78 MiB | 2
+Data 
+<dir>
+Download
+177.58 KiB | 5
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:29
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## main_bottom_icon1_View_item4_Minimal_p0
+2:30
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+App
+Audio
+Document
+Image
+Recent
+Video
+Data
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon1_View_item5_Grid_p0
+2:30
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+App
+Audio
+Document
+Image
+Recent
+Video
+Data
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon1_View_item6_Gallery_p0
+2:30
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+App
+Audio
+Document
+Image
+Recent
+Video
+Data
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon1_View_item7_Options__p0
+2:31
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Options
+Cancel
+Columns count…
+Thumbnail Quality…
+Show hidden globally
+Show hidden recursively
+Swipe down to refresh
+Swipe down to show/hide hidden files
+Load thumbnails while scrolling
+Change view mode globally
+Crop thumbnails
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+
+## main_bottom_icon1_View_item7_Options__p1
+2:31
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Options
+Cancel
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+Folder media symbols
+Highlight visited folders
+Pinch to zoom
+Reset grid size on view change
+Drag and Drop
+Show-hide bars by scrolling
+Dual panel in landscape
+Full dual panel
+More details
+
+## main_bottom_icon2_Add
+2:31
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Folder
+File
+Database
+Encrypted
+KeyStore
+Shortcut
+Dot file
+Document
+Storage
+
+## main_bottom_icon2_Add_item0_Folder_p0
+Folder
+New folder
+755
+1
+CANCEL
+ADD
+2:31
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item0_Folder_p1
+Folder
+By
+755
+1
+CANCEL
+ADD
+2:31
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+More features
+No
+See
+MI
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item0_Folder_p2
+Folder
+By by
+755
+1
+CANCEL
+ADD
+2:31
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+More features
+moo
+see
+MI
+Voice input
+q
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item1_File_p0
+2:31
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+File
+New file.txt
+Text
+1
+CANCEL
+ADD
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item1_File_p1
+2:31
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+File
+By.txt
+Text
+1
+CANCEL
+ADD
+More features
+Too
+See
+MI
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item1_File_p2
+2:31
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+File
+By by.txt
+Text
+1
+CANCEL
+ADD
+More features
+see
+too
+moo
+Voice input
+q
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item2_Database_p0
+Database
+Cancel
+New file.db
+CANCEL
+ADD
+2:32
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item2_Database_p1
+Database
+Cancel
+by.db
+CANCEL
+ADD
+2:32
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+see
+too
+TT
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item2_Database_p2
+Database
+Cancel
+by by.db
+CANCEL
+ADD
+2:32
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+moo
+see
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item3_Encrypted_p0
+2:32
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Encrypted
+Cancel
+GocryptFs
+EncFs
+
+## main_bottom_icon2_Add_item3_Encrypted_p1
+2:32
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+App
+Audio
+Document
+Image
+Recent
+Video
+Data
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon2_Add_item4_KeyStore_p0
+KeyStore
+Cancel
+JKS
+Enter The Name
+Enter The Key
+Re-Enter
+CANCEL
+OK
+2:33
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item4_KeyStore_p1
+KeyStore
+Cancel
+JKS
+By
+Enter The Key
+Re-Enter
+CANCEL
+OK
+2:33
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+MI
+See
+No
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item4_KeyStore_p2
+KeyStore
+Cancel
+JKS
+By by
+Enter The Key
+Re-Enter
+CANCEL
+OK
+2:33
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+too
+see
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item5_Shortcut_p0
+2:33
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Shortcut
+Cancel
+Enter The Name
+Enter The Path
+▼
+Directory
+CANCEL
+ADD
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item5_Shortcut_p1
+2:33
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Shortcut
+Cancel
+See
+Enter The Path
+▼
+Directory
+CANCEL
+ADD
+More features
+MI
+Too
+emoji ..
+..
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item5_Shortcut_p2
+2:33
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Shortcut
+Cancel
+See by
+Enter The Path
+▼
+Directory
+CANCEL
+ADD
+More features
+moo
+see
+you
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## main_bottom_icon2_Add_item6_Dot_file_p0
+Dot file
+Cancel
+.nomedia
+.nosearch
+.nothumbnail
+.nopreview
+.nocache
+.scanMedia
+.scanPicture
+.scanVideo
+.scanMusic
+2:33
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+
+## main_bottom_icon2_Add_item7_Document_left_app
+2:34
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Images
+Audio
+Videos
+Documents
+Recent files
+Grid view
+Show roots
+Recent
+Search
+More options
+first_MiXplorer.mp4
+2:22 PM, 6.34 MB, MP4 video
+Preview the file first_MiXplorer.mp4
+note.txt
+2:18 PM, 32 B, TXT document
+Preview the file note.txt
+picture.png
+2:18 PM, 14.40 kB, PNG image
+Preview the file picture.png
+archive.zip
+2:18 PM, 6.86 kB, ZIP archive
+Preview the file archive.zip
+sample_subs.mkv
+2:18 PM, 2.76 MB, MKV video
+Preview the file sample_subs.mkv
+sample_h264.mp4
+2:17 PM, 23.23 MB, MP4 video
+Preview the file sample_h264.mp4
+
+## main_bottom_icon3_Refresh
+2:34
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+App
+Audio
+Document
+Image
+Recent
+Video
+Data
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon3_Refresh_item0_Internal_storage_p0
+2:34
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Internal storage
+14 folders, One file
+Menu
+Alarms
+14 minutes ago
+Android
+14 minutes ago
+Audiobooks
+14 minutes ago
+DCIM
+14 minutes ago
+Documents
+14 minutes ago
+Download
+14 minutes ago
+Movies
+14 minutes ago
+Music
+14 minutes ago
+Notifications
+14 minutes ago
+Pictures
+14 minutes ago
+Podcasts
+14 minutes ago
+Recordings
+14 minutes ago
+Ringtones
+14 minutes ago
+.mixplorer
+Just now
+Tab menu
+◁
+Breadcrumb
+⌂    931.14 MIB / 5.8 GIB   16%
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon3_Refresh_item0_Internal_storage_p1
+2:34
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Internal storage
+14 folders, One file
+Menu
+Android
+14 minutes ago
+Audiobooks
+14 minutes ago
+DCIM
+14 minutes ago
+Documents
+14 minutes ago
+Download
+14 minutes ago
+Movies
+14 minutes ago
+Music
+14 minutes ago
+Notifications
+14 minutes ago
+Pictures
+14 minutes ago
+Podcasts
+14 minutes ago
+Recordings
+14 minutes ago
+Ringtones
+14 minutes ago
+.mixplorer
+Just now
+first_MiXplorer.mp4
+6.05 MiB
+11 minutes ago
+Tab menu
+◁
+Breadcrumb
+⌂    931.14 MIB / 5.8 GIB   16%
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon3_Refresh_item1_App_p0
+2:34
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+App
+224 files
+Menu
+MiXplorer_6.71.15.apk
+⌗ Android System WebView_113.0.5672.136.apk
+⌗ Chrome_113.0.5672.136.apk
+⌗ System UI_14.apk
+⌗ Settings_14.apk
+⌗ Pixel Launcher_14.apk
+⌗ Wallpaper & style_14.apk
+⌗ Google_13.17.16.23.x86_64.apk
+⌗ Google Play services_23.18.18 (190800-535401451).apk
+⌗ Maps_11.71.0300.apk
+⌗ Gmail_2023.04.16.527073575.Release.apk
+⌗ YouTube_19.17.42.apk
+⌗ Photos_6.29.0.519265844.apk
+⌗ YouTube Music_5.54.52.apk
+⌗ Drive_2.23.251.0.x86_64.alldpi.apk
+⌗ Phone_100.0.512999549.apk
+⌗ Contacts_4.8.17.529259023.apk
+⌗ Android Accessibility Suite_14.2.0.618048417.apk
+⌗ Speech Services by Google_googletts.google-speech-apk_20230123.02_p3.506463867.apk
+⌗ Clock_7.4 (504317960).apk
+⌗ Data Restore Tool_1.0.510474504.apk
+⌗ Android Auto_1.2.531830-stub.apk
+⌗ Android System Intelligence_U.0.sysimg.pixel6.530899711.apk
+Tab menu
+Breadcrumb
+ALL
+•  USER APP
+•  SYSTEM APP
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon3_Refresh_item1_App_p1
+2:34
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+App
+224 files
+Menu
+⌗ System UI_14.apk
+⌗ Settings_14.apk
+⌗ Pixel Launcher_14.apk
+⌗ Wallpaper & style_14.apk
+⌗ Google_13.17.16.23.x86_64.apk
+⌗ Google Play services_23.18.18 (190800-535401451).apk
+⌗ Maps_11.71.0300.apk
+⌗ Gmail_2023.04.16.527073575.Release.apk
+⌗ YouTube_19.17.42.apk
+⌗ Photos_6.29.0.519265844.apk
+⌗ YouTube Music_5.54.52.apk
+⌗ Drive_2.23.251.0.x86_64.alldpi.apk
+⌗ Phone_100.0.512999549.apk
+⌗ Contacts_4.8.17.529259023.apk
+⌗ Android Accessibility Suite_14.2.0.618048417.apk
+⌗ Speech Services by Google_googletts.google-speech-apk_20230123.02_p3.506463867.apk
+⌗ Clock_7.4 (504317960).apk
+⌗ Data Restore Tool_1.0.510474504.apk
+⌗ Android Auto_1.2.531830-stub.apk
+⌗ Android System Intelligence_U.0.sysimg.pixel6.530899711.apk
+⌗ Google Services Framework_14.apk
+⌗ com.android.emulator.radio.config_14.apk
+⌗ ConfigUpdater_14.apk
+⌗ Emergency information_14.apk
+⌗ System Tracing_1.0.apk
+⌗ Storage Manager_14.apk
+⌗ Credential Manager_14.apk
+⌗ Messages_messages.android_20230529_03_RC01_alldpi.x86_64.phone.apk
+Tab menu
+Breadcrumb
+ALL
+•  USER APP
+•  SYSTEM APP
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon3_Refresh_item1_App_p2
+2:34
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+App
+224 files
+Menu
+⌗ YouTube_19.17.42.apk
+⌗ Photos_6.29.0.519265844.apk
+⌗ YouTube Music_5.54.52.apk
+⌗ Drive_2.23.251.0.x86_64.alldpi.apk
+⌗ Phone_100.0.512999549.apk
+⌗ Contacts_4.8.17.529259023.apk
+⌗ Android Accessibility Suite_14.2.0.618048417.apk
+⌗ Speech Services by Google_googletts.google-speech-apk_20230123.02_p3.506463867.apk
+⌗ Clock_7.4 (504317960).apk
+⌗ Data Restore Tool_1.0.510474504.apk
+⌗ Android Auto_1.2.531830-stub.apk
+⌗ Android System Intelligence_U.0.sysimg.pixel6.530899711.apk
+⌗ Google Services Framework_14.apk
+⌗ com.android.emulator.radio.config_14.apk
+⌗ ConfigUpdater_14.apk
+⌗ Emergency information_14.apk
+⌗ System Tracing_1.0.apk
+⌗ Storage Manager_14.apk
+⌗ Credential Manager_14.apk
+⌗ Messages_messages.android_20230529_03_RC01_alldpi.x86_64.phone.apk
+⌗ Phone Calls_14.apk
+⌗ Work Setup_14.apk
+⌗ Digital Wellbeing_1.6.521068621 (495937).apk
+⌗ com.google.android.overlay.pixelconfigcommon_1.0.apk
+⌗ Gboard_12.4.05.482060964-preload-x86_64.apk
+⌗ Google Wallpaper Images_nexus_wallpapers_20180605.apk
+⌗ Main components_2023-07-01 S+.apk
+⌗ Settings Services_1.1.0.536057574.sr.apk
+Tab menu
+Breadcrumb
+ALL
+•  USER APP
+•  SYSTEM APP
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon3_Refresh_item2_Audio_p0
+2:35
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Audio
+One file
+Menu
+song.mp3
+156.75 KiB
+16 minutes ago
+Tab menu
+Breadcrumb
+ALL
+•  FLAC
+•  M4A
+•  MP3
+•  OGG
+•  WAV
+•  WMA
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon3_Refresh_item3_Document_p0
+Bookmarks
+Document
+No item
+Menu
+Tab menu
+Breadcrumb
+ALL
+•  CBR
+•  CBZ
+•  DOCX
+•  EPUB
+•  ODT
+•  PDF
+•  PPTX
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:35
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## main_bottom_icon3_Refresh_item4_Image_p0
+2:35
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Image
+One file
+Menu
+Download
+Tab menu
+Breadcrumb
+ALL
+•  JPEG
+•  JPG
+•  PNG
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon3_Refresh_item5_Recent_p0
+2:35
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Recent
+9 files
+Menu
+first_MiXplorer.mp4
+6.05 MiB
+Nov 16, 2026
+archive.zip
+6.7 KiB
+Nov 16, 2026
+note.txt
+32 B
+Nov 16, 2026
+picture.png
+14.07 KiB
+Nov 16, 2026
+sample_subs.mkv
+2.63 MiB
+Nov 16, 2026
+song.mp3
+156.75 KiB
+Nov 16, 2026
+sample_h264.mp4
+22.16 MiB
+Nov 16, 2026
+sample_subs.srt
+101 B
+Nov 16, 2026
+Tab menu
+Breadcrumb
+ALL
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon3_Refresh_item6_Video_p0
+2:36
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Video
+3 files
+Menu
+Tab menu
+Breadcrumb
+ALL
+•  AVI
+•  MKV
+•  MOV
+•  MP4
+•  MPG
+•  WEBM
+•  WMV
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon3_Refresh_item7_Data_p0
+2:36
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Internal storage/Android/data-
+6 folders, One file
+Menu
+com.google.android.apps.docs
+2 minutes ago
+com.google.android.apps.youtube.music
+16 minutes ago
+com.google.android.gms
+16 minutes ago
+com.google.android.googlequicksearchbox
+16 minutes ago
+com.google.android.youtube
+16 minutes ago
+com.mixplorer
+16 minutes ago
+.nomedia
+0 B
+16 minutes ago
+Tab menu
+data-
+◁
+Breadcrumb
+⌂
+»  ANDROID
+»  DATA-
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon3_Refresh_item8_Download_p0
+Bookmarks
+Internal storage/Download
+One folder, 4 files
+Menu
+sub
+16 minutes ago
+archive.zip
+6.7 KiB
+18 minutes ago
+note.txt
+32 B
+18 minutes ago
+picture.png
+14.07 KiB
+18 minutes ago
+song.mp3
+156.75 KiB
+18 minutes ago
+Tab menu
+Download
+◁
+Breadcrumb
+⌂
+»  DOWNLOAD
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:36
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## main_bottom_icon4_Sort
+2:36
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Name (A - Z)
+Name (Z - A)
+Size (Smaller)
+Size (Larger)
+Date (Older)
+Date (Newer)
+Type (Ascending)
+Type (Descending)
+Shuffled
+Options…
+
+## main_bottom_icon4_Sort_item0_Name_A_-_Z__p0
+2:36
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Audio
+Data
+Document
+Download
+Image
+Internal storage
+Recent
+Video
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon4_Sort_item1_Name_Z_-_A__p0
+2:37
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Video
+Recent
+Internal storage
+Image
+Download
+Document
+Data
+Audio
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon4_Sort_item2_Size_Smaller__p0
+Bookmarks
+Home
+9 folders
+Menu
+App
+Audio
+Image
+Recent
+Video
+Document
+Internal storage
+Download
+Data
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:37
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## main_bottom_icon4_Sort_item3_Size_Larger__p0
+2:37
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Download
+Internal storage
+Document
+Video
+Recent
+Image
+Audio
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon4_Sort_item4_Date_Older__p0
+2:38
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+App
+Audio
+Data
+Document
+Download
+Image
+Recent
+Video
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon4_Sort_item5_Date_Newer__p0
+2:38
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Audio
+Data
+Document
+Download
+Image
+Recent
+Video
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon4_Sort_item6_Type_Ascending__p0
+2:38
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+App
+Audio
+Document
+Image
+Recent
+Video
+Data
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon4_Sort_item7_Type_Descending__p0
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Data
+Video
+Recent
+Image
+Document
+Audio
+App
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:39
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## main_bottom_icon4_Sort_item8_Shuffled_p0
+2:39
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Document
+Recent
+Internal storage
+Data
+Image
+Audio
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon4_Sort_item8_Shuffled_p1
+2:39
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+Data
+Image
+Audio
+Download
+Video
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon4_Sort_item9_Options__p0
+2:40
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Options
+Cancel
+Folders first
+Files first
+Dot files first
+Recursive
+Sections
+
+## main_bottom_icon4_Sort_item9_Options__p1
+2:40
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+Recent
+Document
+Video
+Download
+Data
+Audio
+App
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all
+2:40
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+9
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+App
+Download
+Recent
+Image
+Audio
+Video
+Document
+Internal storage
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item0_App_p0
+2:40
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+App
+Download
+Recent
+Image
+Audio
+Video
+Document
+Internal storage
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item0_App_p1
+2:40
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Download
+Recent
+Image
+Audio
+Video
+Document
+Internal storage
+Data
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item1_Download_p0
+2:40
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+App
+Video
+Recent
+Image
+Audio
+Document
+Data
+Download
+Internal storage
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item2_Recent_p0
+2:41
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Recent
+Image
+Internal storage
+Data
+App
+Audio
+Video
+Document
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item2_Recent_p1
+2:41
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Internal storage
+Data
+App
+Audio
+Video
+Document
+Download
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item3_Image_p0
+2:41
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Document
+Image
+Recent
+Audio
+Internal storage
+Download
+App
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item3_Image_p1
+2:41
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Internal storage
+Download
+App
+Data
+Video
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item4_Audio_p0
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Video
+Document
+App
+Recent
+Download
+Audio
+Internal storage
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:41
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## main_bottom_icon5_Select_all_item4_Audio_p1
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Recent
+Download
+Audio
+Internal storage
+Image
+Data
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:41
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## main_bottom_icon5_Select_all_item4_Audio_p2
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Download
+Audio
+Internal storage
+Image
+Data
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:41
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## main_bottom_icon5_Select_all_item5_Video_p0
+2:41
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Video
+Internal storage
+Audio
+Download
+Data
+App
+Document
+Recent
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item5_Video_p1
+2:41
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Internal storage
+Audio
+Download
+Data
+App
+Document
+Recent
+Image
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item5_Video_p2
+2:42
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Internal storage
+Audio
+Download
+Data
+App
+Document
+Recent
+Image
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item6_Document_p0
+2:42
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Recent
+Video
+Data
+Document
+App
+Image
+Download
+Audio
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item6_Document_p1
+2:42
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Data
+Document
+App
+Image
+Download
+Audio
+Internal storage
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## main_bottom_icon5_Select_all_item7_Internal_storage_p0
+2:42
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+0 B
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Internal storage
+Image
+Video
+Recent
+Download
+Data
+Document
+Audio
+App
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## drawer_p0
+2:42
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Video
+Image
+App
+Audio
+Document
+Download
+Internal storage
+Data
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+…/user/0/com.mixplorer/home
+5.8 GiB,  4.89 GiB Free
+/storage/emulated/0
+Root
+834.29 MiB,  48.03 MiB Free
+/storage/emulated/0/Download
+content://mix/audio
+content://mix/video
+content://mix/image
+APK
+content://mix/apk
+Archive
+content://mix/archive
+content://mix/document
+content://mix/app
+All Files
+content://mix/all
+Recent
+content://mix/recent
+Recycle bin
+content://mix/trash
+
+## select0_Recent
+2:43
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+1
+0 B
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Recent
+Document
+Download
+Data
+Audio
+Internal storage
+App
+Video
+Image
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_icon0_OK
+2:43
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Recent
+Document
+Download
+Data
+Audio
+Internal storage
+App
+Video
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_icon1_1_0_B
+2:43
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+⌂
+
+## select0_icon3_Copy
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Image
+Recent
+Video
+App
+Document
+Audio
+Internal storage
+Data
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:43
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_icon4_Move
+2:43
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Data
+Image
+Internal storage
+Document
+Video
+Recent
+Audio
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_icon5_Rename
+2:43
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+Image
+Document
+Video
+Recent
+Data
+Download
+Audio
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_icon6_Properties
+2:43
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Audio
+Image
+Recent
+App
+Data
+Internal storage
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_icon7_Menu
+2:43
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Undo
+Lock
+Tools
+Filter
+Servers
+Execute
+Open in terminal
+Settings
+Exit
+
+## select0_icon7_Menu_item0_Undo_p0
+Bookmarks
+Home
+9 folders
+Menu
+Image
+Video
+Data
+Document
+Audio
+Recent
+Download
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:44
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_icon7_Menu_item0_Undo_p1
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Document
+Audio
+Recent
+Download
+App
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:44
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+
+## select0_icon7_Menu_item1_Lock_p0
+2:44
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Lock
+Cancel
+Enter The Key
+CANCEL
+OK
+
+## select0_icon7_Menu_item2_Tools_p0
+2:44
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Tools
+Cancel
+Duplicates
+…/Android/data/
+
+## select0_icon7_Menu_item2_Tools_p1
+Bookmarks
+Home
+9 folders
+Menu
+Recent
+App
+Data
+Image
+Download
+Video
+Document
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:44
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_icon7_Menu_item2_Tools_p2
+Bookmarks
+Home
+9 folders
+Menu
+Image
+Download
+Video
+Document
+Internal storage
+Audio
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:44
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_icon7_Menu_item3_Filter_p0
+2:45
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Filter
+Cancel
+Document
+Image
+Audio
+Video
+Archive
+APK
+RESET
+
+## select0_icon7_Menu_item4_Servers_p0
+Servers
+Cancel
+Start FTP(S,ES)/Share Server
+Settings
+Start HTTP/WebDav Server
+Start SFTP Server
+Start SMB Server
+Start DLNA Server/Renderer
+2:45
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_icon7_Menu_item4_Servers_p1
+2:45
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Recent
+App
+Image
+Download
+Video
+Document
+Data
+Audio
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_icon7_Menu_item4_Servers_p2
+2:45
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Video
+Document
+Data
+Audio
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_icon7_Menu_item5_Execute_p0
+2:46
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Execute
+Cancel
+Enter The Command
+STDOUT:
+STDERR:
+CANCEL
+EXECUTE
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Enter
+Back
+Switch input method
+
+## select0_icon7_Menu_item5_Execute_p1
+2:46
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Execute
+Cancel
+by
+STDOUT:
+STDERR:
+CANCEL
+EXECUTE
+More features
+no
+see
+too
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Enter
+Back
+Switch input method
+
+## select0_icon7_Menu_item5_Execute_p2
+2:46
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Execute
+Cancel
+by by
+STDOUT:
+STDERR:
+CANCEL
+EXECUTE
+More features
+see
+too
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Enter
+Back
+Switch input method
+
+## select0_icon7_Menu_item6_Open_in_terminal_p0
+2:46
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+App
+Download
+Video
+Document
+Image
+Audio
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_icon7_Menu_item6_Open_in_terminal_p1
+2:46
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Download
+Video
+Document
+Image
+Audio
+Internal storage
+Recent
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_icon7_Menu_item6_Open_in_terminal_p2
+2:46
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Video
+Document
+Image
+Audio
+Internal storage
+Recent
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_icon7_Menu_item7_Settings_p0
+2:46
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Exit
+Settings
+SKINS
+Default
+LANGUAGES
+English
+ADD-ONS
+Tap to see options
+BUTTONS
+Tap to see options
+MORE SETTINGS
+Tap to see options
+AUTO TASKS
+Tap to see options
+COMPONENTS
+Tap to see options
+ABOUT
+Version: 6.71.15 B26090422 x64
+Author: Hootan Parsa
+
+## select0_icon7_Menu_item7_Settings_p1
+2:46
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Exit
+Settings
+SKINS
+Default
+LANGUAGES
+English
+ADD-ONS
+Tap to see options
+BUTTONS
+Tap to see options
+MORE SETTINGS
+Tap to see options
+AUTO TASKS
+Tap to see options
+COMPONENTS
+Tap to see options
+ABOUT
+Version: 6.71.15 B26090422 x64
+Author: Hootan Parsa
+
+## select0_icon8_Tab_menu
+2:47
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Add new tab
+Reset tabs
+Save tabs…
+
+## select0_icon8_Tab_menu_item0_Add_new_tab_p0
+2:47
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Internal storage
+Image
+Video
+App
+Download
+Recent
+Document
+Audio
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_icon9_Home
+Bookmarks
+Home
+9 folders
+Menu
+Audio
+Recent
+Image
+Document
+Video
+Internal storage
+Data
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:47
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon0_Internal_storage
+2:47
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Compact
+Columned
+Detailed
+Wrapped
+Minimal
+Grid
+Gallery
+Options…
+
+## select0_bottom_icon0_Internal_storage_item0_Compact_p0
+2:47
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+App
+Audio
+Download
+Document
+Internal storage
+Recent
+Image
+Video
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon0_Internal_storage_item1_Columned_p0
+2:48
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+933.9 MiB / 5.8 GiB
+Image
+<dir>
+Data 
+<dir>
+Audio
+<dir>
+Download
+<dir>
+Video
+<dir>
+Document
+<dir>
+App
+<dir>
+Recent
+<dir>
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon0_Internal_storage_item2_Detailed_p0
+Bookmarks
+Home
+9 folders
+Menu
+Recent
+<dir>
+Download
+<dir>
+Data 
+<dir>
+Internal storage
+934 MiB / 5.8 GiB
+Audio
+<dir>
+App
+<dir>
+Video
+<dir>
+Image
+<dir>
+Document
+<dir>
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:48
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon0_Internal_storage_item3_Wrapped_p0
+2:48
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Document
+0 B | 0
+Download
+177.58 KiB | 5
+Recent
+31.0 MiB | 9
+Data 
+<dir>
+Video
+30.83 MiB | 3
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Internal storage
+934.1 MiB / 5.8 GiB
+Image
+14.07 KiB | 1
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon0_Internal_storage_item4_Minimal_p0
+2:49
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Document
+App
+Image
+Recent
+Internal storage
+Download
+Video
+Data
+Audio
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon0_Internal_storage_item5_Grid_p0
+2:49
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Video
+Data
+Recent
+Audio
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon0_Internal_storage_item5_Grid_p1
+2:49
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Recent
+Audio
+Internal storage
+App
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon0_Internal_storage_item5_Grid_p2
+2:49
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Recent
+Audio
+Internal storage
+App
+Download
+Image
+Document
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon0_Internal_storage_item6_Gallery_p0
+2:49
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Download
+Video
+Audio
+Data
+Recent
+Image
+Document
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon0_Internal_storage_item6_Gallery_p1
+2:49
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Video
+Audio
+Data
+Recent
+Image
+Document
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon0_Internal_storage_item7_Options__p0
+Options
+Cancel
+Columns count…
+Thumbnail Quality…
+Show hidden globally
+Show hidden recursively
+Swipe down to refresh
+Swipe down to show/hide hidden files
+Load thumbnails while scrolling
+Change view mode globally
+Crop thumbnails
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+2:50
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon0_Internal_storage_item7_Options__p1
+Options
+Cancel
+Change view mode globally
+Crop thumbnails
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+Folder media symbols
+Highlight visited folders
+Pinch to zoom
+Reset grid size on view change
+Drag and Drop
+Show-hide bars by scrolling
+Dual panel in landscape
+Full dual panel
+2:50
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon0_Internal_storage_item7_Options__p2
+Options
+Cancel
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+Folder media symbols
+Highlight visited folders
+Pinch to zoom
+Reset grid size on view change
+Drag and Drop
+Show-hide bars by scrolling
+Dual panel in landscape
+Full dual panel
+More details
+2:50
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon1_Search
+2:50
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Audio
+Image
+Recent
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+Type to filter (Contains)
+Search recursively
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon1_Search_item0_Image_p0
+2:50
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Image
+One file
+Menu
+Download
+Tab menu
+Breadcrumb
+ALL
+•  JPEG
+•  JPG
+•  PNG
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon1_Search_item1_Recent_p0
+2:50
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Recent
+9 files
+Menu
+first_MiXplorer.mp4
+6.05 MiB
+Nov 16, 2026
+archive.zip
+6.7 KiB
+Nov 16, 2026
+note.txt
+32 B
+Nov 16, 2026
+picture.png
+14.07 KiB
+Nov 16, 2026
+sample_subs.mkv
+2.63 MiB
+Nov 16, 2026
+song.mp3
+156.75 KiB
+Nov 16, 2026
+sample_h264.mp4
+22.16 MiB
+Nov 16, 2026
+sample_subs.srt
+101 B
+Nov 16, 2026
+Tab menu
+Breadcrumb
+ALL
+•••
+Cancel
+Options
+Type to filter (Contains)
+Search recursively
+
+## select0_bottom_icon1_Search_item2_Type_to_filter_Contains__p0
+2:51
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Document
+Internal storage
+Data
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+Type to filter (Contains)
+Search recursively
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon1_Search_item2_Type_to_filter_Contains__p1
+2:51
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+No item
+Menu
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+by
+Search recursively
+More features
+too
+see
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon1_Search_item2_Type_to_filter_Contains__p2
+2:51
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+No item
+Menu
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+by by
+Search recursively
+More features
+too
+see
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon1_Search_item3_Space_p0
+2:51
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+Bookmarks
+Home
+9 folders
+Menu
+Document
+Recent
+Video
+Image
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+Search recursively
+
+## select0_bottom_icon1_Search_item3_Space_p1
+2:51
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+MI
+too
+emoji ..
+..
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+Bookmarks
+Home
+No item
+Menu
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+see
+Search recursively
+
+## select0_bottom_icon1_Search_item3_Space_p2
+2:51
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+moo
+see
+too
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+Bookmarks
+Home
+No item
+Menu
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+see by
+Search recursively
+
+## select0_bottom_icon2_View
+Compact
+Columned
+Detailed
+Wrapped
+Minimal
+Grid
+Gallery
+Options…
+2:51
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon2_View_item0_Compact_p0
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Recent
+Internal storage
+Audio
+Data
+Image
+App
+Video
+Document
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:52
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon2_View_item1_Columned_p0
+2:52
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Image
+<dir>
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Download
+177.58 KiB | 5
+Video
+30.83 MiB | 3
+Recent
+<dir>
+Internal storage
+935.2 MiB / 5.8 GiB
+Data 
+<dir>
+Document
+<dir>
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon2_View_item2_Detailed_p0
+Bookmarks
+Home
+9 folders
+Menu
+Download
+177.58 KiB | 5
+Document
+<dir>
+Video
+30.83 MiB | 3
+Data 
+<dir>
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Recent
+<dir>
+Internal storage
+935.3 MiB / 5.8 GiB
+Image
+<dir>
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:52
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon2_View_item3_Wrapped_p0
+2:53
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Video
+30.83 MiB | 3
+Internal storage
+935.4 MiB / 5.8 GiB
+Image
+14.07 KiB | 1
+Audio
+156.75 KiB | 1
+Recent
+31.0 MiB | 9
+Document
+0 B | 0
+Data 
+<dir>
+Download
+177.58 KiB | 5
+App
+2.09 GiB | 224
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon2_View_item4_Minimal_p0
+2:53
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Recent
+Document
+Data
+Video
+Download
+Audio
+App
+Image
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon2_View_item5_Grid_p0
+Bookmarks
+Home
+9 folders
+Menu
+App
+Video
+Download
+Internal storage
+Image
+Document
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:53
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon2_View_item5_Grid_p1
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Internal storage
+Image
+Document
+Data
+Recent
+Audio
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:53
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon2_View_item6_Gallery_p0
+2:54
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Document
+Audio
+Recent
+Internal storage
+Video
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon2_View_item6_Gallery_p1
+2:54
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+Video
+Download
+Image
+Data
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon2_View_item7_Options__p0
+Options
+Cancel
+Columns count…
+Thumbnail Quality…
+Show hidden globally
+Show hidden recursively
+Swipe down to refresh
+Swipe down to show/hide hidden files
+Load thumbnails while scrolling
+Change view mode globally
+Crop thumbnails
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+2:54
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon2_View_item7_Options__p1
+Options
+Cancel
+Change view mode globally
+Crop thumbnails
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+Folder media symbols
+Highlight visited folders
+Pinch to zoom
+Reset grid size on view change
+Drag and Drop
+Show-hide bars by scrolling
+Dual panel in landscape
+Full dual panel
+2:54
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon2_View_item7_Options__p2
+Options
+Cancel
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+Folder media symbols
+Highlight visited folders
+Pinch to zoom
+Reset grid size on view change
+Drag and Drop
+Show-hide bars by scrolling
+Dual panel in landscape
+Full dual panel
+More details
+2:54
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon3_Add
+Folder
+File
+Database
+Encrypted
+KeyStore
+Shortcut
+Dot file
+Document
+Storage
+2:54
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon3_Add_item0_Folder_p0
+2:54
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Folder
+New folder
+755
+1
+CANCEL
+ADD
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon3_Add_item0_Folder_p1
+2:54
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Folder
+By
+755
+1
+CANCEL
+ADD
+More features
+Too
+See
+No
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon3_Add_item0_Folder_p2
+2:54
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Folder
+By by
+755
+1
+CANCEL
+ADD
+More features
+too
+see
+MI
+Voice input
+q
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon3_Add_item1_File_p0
+2:55
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+File
+New file.txt
+Text
+CANCEL
+ADD
+
+## select0_bottom_icon3_Add_item1_File_p1
+2:55
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+More features
+Too
+See
+TT
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+File
+By.txt
+Text
+CANCEL
+ADD
+
+## select0_bottom_icon3_Add_item1_File_p2
+2:55
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+More features
+too
+see
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+File
+By by.txt
+Text
+CANCEL
+ADD
+
+## select0_bottom_icon3_Add_item2_Database_p0
+2:55
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Database
+Cancel
+New file.db
+CANCEL
+ADD
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon3_Add_item2_Database_p1
+2:55
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Database
+Cancel
+by.db
+CANCEL
+ADD
+More features
+too
+see
+no
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon3_Add_item2_Database_p2
+2:55
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Database
+Cancel
+by by.db
+CANCEL
+ADD
+More features
+see
+too
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon3_Add_item3_Encrypted_p0
+2:56
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Encrypted
+Cancel
+GocryptFs
+EncFs
+
+## select0_bottom_icon3_Add_item3_Encrypted_p1
+2:56
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Recent
+Document
+App
+Internal storage
+Download
+Video
+Audio
+Image
+Data
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon3_Add_item4_KeyStore_p0
+2:56
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+KeyStore
+Cancel
+JKS
+Enter The Name
+Enter The Key
+Re-Enter
+CANCEL
+OK
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon3_Add_item4_KeyStore_p1
+2:56
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+KeyStore
+Cancel
+JKS
+By
+Enter The Key
+Re-Enter
+CANCEL
+OK
+More features
+No
+See
+Too
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon3_Add_item4_KeyStore_p2
+2:56
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+KeyStore
+Cancel
+JKS
+By by
+Enter The Key
+Re-Enter
+CANCEL
+OK
+More features
+MI
+see
+too
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select0_bottom_icon3_Add_item5_Shortcut_p0
+2:56
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+Shortcut
+Cancel
+Enter The Name
+Enter The Path
+▼
+Directory
+CANCEL
+ADD
+
+## select0_bottom_icon3_Add_item5_Shortcut_p1
+2:56
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+Too
+See
+MI
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+Shortcut
+Cancel
+By
+Enter The Path
+▼
+Directory
+CANCEL
+ADD
+
+## select0_bottom_icon3_Add_item5_Shortcut_p2
+2:56
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+too
+see
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+Shortcut
+Cancel
+By by
+Enter The Path
+▼
+Directory
+CANCEL
+ADD
+
+## select0_bottom_icon3_Add_item6_Dot_file_p0
+2:57
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Dot file
+Cancel
+.nomedia
+.nosearch
+.nothumbnail
+.nopreview
+.nocache
+.scanMedia
+.scanPicture
+.scanVideo
+.scanMusic
+
+## select0_bottom_icon3_Add_item6_Dot_file_p1
+2:57
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Dot file
+Cancel
+.nomedia
+.nosearch
+.nothumbnail
+.nopreview
+.nocache
+.scanMedia
+.scanPicture
+.scanVideo
+.scanMusic
+
+## select0_bottom_icon3_Add_item7_Storage_p0
+2:57
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Add storage
+Cancel
+Document provider (USB OTG,)…
+LAN (Samba)
+FTP(S,ES)
+SFTP
+WebDav
+Bluetooth
+Mega
+GDrive
+Dropbox
+Mail.ru
+Box
+OneDrive
+Mediafire
+Yandex
+
+## select0_bottom_icon3_Add_item7_Storage_p1
+2:57
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Add storage
+Cancel
+GDrive
+Dropbox
+Mail.ru
+Box
+OneDrive
+Mediafire
+Yandex
+4Shared
+Meo
+pCloud
+Sugarsync
+Backblaze
+HiDrive
+4Sync
+Baidu
+
+## select0_bottom_icon3_Add_item7_Storage_p2
+2:57
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Add storage
+Cancel
+Mail.ru
+Box
+OneDrive
+Mediafire
+Yandex
+4Shared
+Meo
+pCloud
+Sugarsync
+Backblaze
+HiDrive
+4Sync
+Baidu
+DLNA
+
+## select0_bottom_icon4_Refresh
+2:57
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Video
+Download
+App
+Internal storage
+Recent
+Document
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon4_Refresh_item0_Video_p0
+2:57
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Compact
+Columned
+Detailed
+Wrapped
+Minimal
+Grid
+Gallery
+Options…
+
+## select0_bottom_icon4_Refresh_item0_Video_p1
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Image
+App
+Audio
+Recent
+Internal storage
+Video
+Document
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:57
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon4_Refresh_item0_Video_p2
+Bookmarks
+Home
+9 folders
+Menu
+Image
+App
+Audio
+Recent
+Internal storage
+Video
+Document
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:57
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon4_Refresh_item1_Recent_p0
+2:58
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Recent
+9 files
+Menu
+first_MiXplorer.mp4
+6.05 MiB
+Nov 16, 2026
+archive.zip
+6.7 KiB
+Nov 16, 2026
+note.txt
+32 B
+Nov 16, 2026
+picture.png
+14.07 KiB
+Nov 16, 2026
+sample_subs.mkv
+2.63 MiB
+Nov 16, 2026
+song.mp3
+156.75 KiB
+Nov 16, 2026
+sample_h264.mp4
+22.16 MiB
+Nov 16, 2026
+sample_subs.srt
+101 B
+Nov 16, 2026
+Tab menu
+Breadcrumb
+ALL
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon4_Refresh_item2_Image_p0
+2:58
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Image
+One file
+Menu
+Download
+Tab menu
+Breadcrumb
+ALL
+•  JPEG
+•  JPG
+•  PNG
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon5_Sort
+2:58
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Name (A - Z)
+Name (Z - A)
+Size (Smaller)
+Size (Larger)
+Date (Older)
+Date (Newer)
+Type (Ascending)
+Type (Descending)
+Shuffled
+Options…
+
+## select0_bottom_icon5_Sort_item0_Name_A_-_Z__p0
+2:58
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Audio
+Data
+Document
+Download
+Image
+Internal storage
+Recent
+Video
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon5_Sort_item1_Name_Z_-_A__p0
+2:59
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Video
+Recent
+Internal storage
+Image
+Download
+Document
+Data
+Audio
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon5_Sort_item2_Size_Smaller__p0
+2:59
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Audio
+Image
+Recent
+Video
+Document
+Internal storage
+Download
+Data
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon5_Sort_item3_Size_Larger__p0
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Download
+Internal storage
+Document
+Video
+Recent
+Image
+Audio
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+2:59
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon5_Sort_item4_Date_Older__p0
+3:00
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+App
+Audio
+Data
+Document
+Download
+Image
+Recent
+Video
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon5_Sort_item5_Date_Newer__p0
+3:00
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Audio
+Data
+Document
+Download
+Image
+Recent
+Video
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon5_Sort_item6_Type_Ascending__p0
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+App
+Audio
+Document
+Image
+Recent
+Video
+Data
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+3:01
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon5_Sort_item7_Type_Descending__p0
+3:01
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Data
+Video
+Recent
+Image
+Document
+Audio
+App
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon5_Sort_item8_Shuffled_p0
+3:01
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Document
+Download
+Video
+Audio
+Image
+Recent
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon5_Sort_item8_Shuffled_p1
+3:01
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Video
+Audio
+Image
+Recent
+Internal storage
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon5_Sort_item9_Options__p0
+3:02
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Options
+Cancel
+Folders first
+Files first
+Dot files first
+Recursive
+Sections
+
+## select0_bottom_icon5_Sort_item9_Options__p1
+3:02
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Download
+App
+Audio
+Recent
+Data
+Document
+Video
+Image
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon6_Select_all
+3:02
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+9
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Data
+Internal storage
+Download
+Document
+Recent
+Image
+App
+Audio
+Video
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon6_Select_all_item0_Recent_p0
+3:02
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Data
+Internal storage
+Download
+Document
+Recent
+Image
+App
+Audio
+Video
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon6_Select_all_item1_Image_p0
+3:02
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Video
+Audio
+App
+Data
+Document
+Image
+Download
+Recent
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon6_Select_all_item1_Image_p1
+3:02
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Data
+Document
+Image
+Download
+Recent
+Internal storage
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select0_bottom_icon6_Select_all_item2_Video_p0
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Recent
+Internal storage
+Download
+Document
+Video
+Audio
+Data
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+3:03
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select0_bottom_icon6_Select_all_item2_Video_p1
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Internal storage
+Download
+Document
+Video
+Audio
+Data
+App
+Image
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+3:03
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select1_Document
+3:03
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Recent
+Audio
+Document
+Internal storage
+App
+Image
+Video
+Data
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon0_Bookmarks
+3:03
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Recent
+Audio
+Document
+Internal storage
+App
+Image
+Video
+Data
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+…/user/0/com.mixplorer/home
+5.8 GiB,  4.88 GiB Free
+/storage/emulated/0
+Root
+834.29 MiB,  48.03 MiB Free
+/storage/emulated/0/Download
+content://mix/audio
+content://mix/video
+content://mix/image
+APK
+content://mix/apk
+Archive
+content://mix/archive
+content://mix/document
+content://mix/app
+All Files
+content://mix/all
+content://mix/recent
+Recycle bin
+content://mix/trash
+
+## select1_icon0_Bookmarks_item0_Root_p0
+3:03
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Allow Root
+Cancel
+Uncheck to prevent root commands on rooted devices.
+AGREE
+
+## select1_icon0_Bookmarks_item0_Root_p1
+3:03
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Root
+19 folders
+Menu
+apex
+Nov 16, 2026
+bin
+<dir>
+Jul 11, 2024
+bugreports
+<dir>
+Jul 11, 2024
+data
+N/A
+etc
+<dir>
+Jul 11, 2024
+mnt
+Nov 16, 2026
+odm
+Jul 11, 2024
+odm_dlkm
+Jul 11, 2024
+oem
+Jul 11, 2024
+proc
+Nov 16, 2026
+product
+Jul 11, 2024
+sdcard
+<dir>
+Jul 11, 2024
+second_stage_resources
+Jul 11, 2024
+storage
+Nov 16, 2026
+sys
+Nov 16, 2026
+system
+Jul 11, 2024
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon0_Bookmarks_item0_Root_p2
+3:03
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Root
+19 folders
+Menu
+bugreports
+<dir>
+Jul 11, 2024
+data
+N/A
+etc
+<dir>
+Jul 11, 2024
+mnt
+Nov 16, 2026
+odm
+Jul 11, 2024
+odm_dlkm
+Jul 11, 2024
+oem
+Jul 11, 2024
+proc
+Nov 16, 2026
+product
+Jul 11, 2024
+sdcard
+<dir>
+Jul 11, 2024
+second_stage_resources
+Jul 11, 2024
+storage
+Nov 16, 2026
+sys
+Nov 16, 2026
+system
+Jul 11, 2024
+system_ext
+Jul 11, 2024
+vendor
+Jul 11, 2024
+vendor_dlkm
+Jul 11, 2024
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon0_Bookmarks_item1_APK_p0
+3:03
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+APK
+No item
+Menu
+Tab menu
+Breadcrumb
+ALL
+•  APK
+•  APKM
+•  APKS
+•  MIA
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon0_Bookmarks_item2_Archive_p0
+3:04
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Archive
+One file
+Menu
+archive.zip
+6.7 KiB
+46 minutes ago
+Tab menu
+Breadcrumb
+ALL
+•  7Z
+•  BZ2
+•  GZ
+•  JAR
+•  LZ
+•  RAR
+•  TAR
+•  XZ
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon0_Bookmarks_item3_All_Files_p0
+Bookmarks
+All Files
+10 files
+Menu
+first_MiXplorer.mp4
+6.05 MiB
+Nov 16, 2026
+archive.zip
+6.7 KiB
+Nov 16, 2026
+note.txt
+32 B
+Nov 16, 2026
+picture.png
+14.07 KiB
+Nov 16, 2026
+sample_subs.mkv
+2.63 MiB
+Nov 16, 2026
+song.mp3
+156.75 KiB
+Nov 16, 2026
+sample_h264.mp4
+22.16 MiB
+Nov 16, 2026
+sample_subs.srt
+101 B
+Nov 16, 2026
+Data‎.lnk
+0 B
+N/A
+Tab menu
+Breadcrumb
+ALL
+•  ALL FOLDERS
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+3:04
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select1_icon0_Bookmarks_item4_Recycle_bin_p0
+3:04
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Recycle bin
+No item
+Menu
+Tab menu
+Breadcrumb
+ALL
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon1_Home_9_folders
+3:04
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+⌂
+
+## select1_icon2_Menu
+3:05
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Undo
+Lock
+Tools
+Filter
+Servers
+Execute
+Open in terminal
+Settings
+Exit
+
+## select1_icon2_Menu_item0_Undo_p0
+3:05
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Recent
+Video
+Audio
+App
+Internal storage
+Data
+Document
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon2_Menu_item0_Undo_p1
+3:05
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Internal storage
+Data
+Document
+Download
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon2_Menu_item0_Undo_p2
+3:05
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+Data
+Document
+Download
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon2_Menu_item1_Lock_p0
+3:05
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Lock
+Cancel
+Enter The Key
+CANCEL
+OK
+
+## select1_icon2_Menu_item2_Tools_p0
+3:05
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Tools
+Cancel
+Duplicates
+…/Android/data/
+
+## select1_icon2_Menu_item2_Tools_p1
+3:05
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Recent
+Video
+Image
+Data
+Internal storage
+Download
+App
+Audio
+Document
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon2_Menu_item3_Filter_p0
+3:06
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Filter
+Cancel
+Document
+Image
+Audio
+Video
+Archive
+APK
+RESET
+
+## select1_icon2_Menu_item4_Servers_p0
+3:06
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Servers
+Cancel
+Start FTP(S,ES)/Share Server
+Settings
+Start HTTP/WebDav Server
+Start SFTP Server
+Start SMB Server
+Start DLNA Server/Renderer
+
+## select1_icon2_Menu_item4_Servers_p1
+3:06
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+Image
+Download
+Document
+Audio
+Data
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon2_Menu_item4_Servers_p2
+3:06
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Image
+Download
+Document
+Audio
+Data
+Video
+App
+Recent
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon2_Menu_item5_Execute_p0
+Execute
+Cancel
+Enter The Command
+STDOUT:
+STDERR:
+CANCEL
+EXECUTE
+3:07
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Enter
+Back
+Switch input method
+
+## select1_icon2_Menu_item5_Execute_p1
+Execute
+Cancel
+by
+STDOUT:
+STDERR:
+CANCEL
+EXECUTE
+3:07
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+no
+see
+too
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Enter
+Back
+Switch input method
+
+## select1_icon2_Menu_item5_Execute_p2
+Execute
+Cancel
+by by
+STDOUT:
+STDERR:
+CANCEL
+EXECUTE
+3:07
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+see
+too
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Enter
+Back
+Switch input method
+
+## select1_icon2_Menu_item6_Open_in_terminal_p0
+3:07
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Document
+Data
+Download
+Recent
+Internal storage
+App
+Video
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon2_Menu_item6_Open_in_terminal_p1
+3:07
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Download
+Recent
+Internal storage
+App
+Video
+Image
+Audio
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon2_Menu_item7_Settings_p0
+Exit
+Settings
+SKINS
+Default
+LANGUAGES
+English
+ADD-ONS
+Tap to see options
+BUTTONS
+Tap to see options
+MORE SETTINGS
+Tap to see options
+AUTO TASKS
+Tap to see options
+COMPONENTS
+Tap to see options
+ABOUT
+Version: 6.71.15 B26090422 x64
+Author: Hootan Parsa
+3:07
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select1_icon3_Tab_menu
+3:08
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Add new tab
+Reset tabs
+Save tabs…
+
+## select1_icon3_Tab_menu_item0_Add_new_tab_p0
+3:08
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Recent
+Data
+Audio
+Document
+Image
+Video
+App
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon3_Tab_menu_item0_Add_new_tab_p1
+3:08
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Audio
+Document
+Image
+Video
+App
+Internal storage
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_icon4_Home
+3:08
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Video
+Download
+Internal storage
+Data
+Document
+Audio
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon0_Document
+3:08
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Compact
+Columned
+Detailed
+Wrapped
+Minimal
+Grid
+Gallery
+Options…
+
+## select1_bottom_icon0_Document_item0_Compact_p0
+3:08
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Image
+Audio
+Data
+Video
+Internal storage
+Document
+Recent
+Download
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon0_Document_item1_Columned_p0
+3:09
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+939.5 MiB / 5.8 GiB
+Video
+30.83 MiB | 3
+Audio
+156.75 KiB | 1
+Document
+<dir>
+Data 
+<dir>
+Image
+<dir>
+App
+2.09 GiB | 224
+Download
+177.58 KiB | 5
+Recent
+<dir>
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon0_Document_item2_Detailed_p0
+3:09
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+2.09 GiB | 224
+Document
+<dir>
+Download
+177.58 KiB | 5
+Recent
+<dir>
+Data 
+<dir>
+Image
+<dir>
+Internal storage
+939.6 MiB / 5.8 GiB
+Audio
+156.75 KiB | 1
+Video
+30.83 MiB | 3
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon0_Document_item3_Wrapped_p0
+Bookmarks
+Home
+9 folders
+Menu
+Image
+14.07 KiB | 1
+Recent
+31.0 MiB | 9
+App
+2.09 GiB | 224
+Document
+0 B | 0
+Internal storage
+939.7 MiB / 5.8 GiB
+Download
+177.58 KiB | 5
+Audio
+156.75 KiB | 1
+Video
+30.83 MiB | 3
+Data 
+<dir>
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+3:09
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select1_bottom_icon0_Document_item4_Minimal_p0
+3:10
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Video
+Document
+Download
+Internal storage
+Audio
+Data
+Recent
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon0_Document_item4_Minimal_p1
+3:10
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Video
+Document
+Download
+Internal storage
+Audio
+Data
+Recent
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon0_Document_item5_Grid_p0
+3:10
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Document
+Data
+Video
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon0_Document_item5_Grid_p1
+3:10
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Video
+Download
+Internal storage
+Recent
+Audio
+App
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon0_Document_item6_Gallery_p0
+3:10
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Image
+Recent
+Video
+Audio
+Document
+Download
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon0_Document_item6_Gallery_p1
+3:10
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Image
+Recent
+Video
+Audio
+Document
+Download
+App
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon0_Document_item7_Options__p0
+3:11
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Options
+Cancel
+Columns count…
+Thumbnail Quality…
+Show hidden globally
+Show hidden recursively
+Swipe down to refresh
+Swipe down to show/hide hidden files
+Load thumbnails while scrolling
+Change view mode globally
+Crop thumbnails
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+
+## select1_bottom_icon0_Document_item7_Options__p1
+3:11
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Options
+Cancel
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+Folder media symbols
+Highlight visited folders
+Pinch to zoom
+Reset grid size on view change
+Drag and Drop
+Show-hide bars by scrolling
+Dual panel in landscape
+Full dual panel
+More details
+
+## select1_bottom_icon1_Recent
+Folder
+File
+Database
+Encrypted
+KeyStore
+Shortcut
+Dot file
+Document
+Storage
+3:11
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select1_bottom_icon1_Recent_item0_Folder_p0
+3:11
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Folder
+New folder
+755
+1
+CANCEL
+ADD
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item0_Folder_p1
+3:11
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Folder
+By
+755
+1
+CANCEL
+ADD
+More features
+MI
+See
+MO
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item0_Folder_p2
+3:11
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Folder
+By by
+755
+1
+CANCEL
+ADD
+More features
+too
+see
+MI
+Voice input
+q
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item1_File_p0
+3:12
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+File
+New file.txt
+Text
+1
+CANCEL
+ADD
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item1_File_p1
+3:12
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+File
+See.txt
+Text
+1
+CANCEL
+ADD
+More features
+Too
+No
+emoji ..
+..
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item1_File_p2
+3:12
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+File
+See by.txt
+Text
+1
+CANCEL
+ADD
+More features
+moo
+see
+you
+Voice input
+q
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item2_Database_p0
+3:12
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Database
+Cancel
+New file.db
+CANCEL
+ADD
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item2_Database_p1
+3:12
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Database
+Cancel
+see.db
+CANCEL
+ADD
+More features
+no
+too
+emoji ..
+..
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item2_Database_p2
+3:12
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Database
+Cancel
+see by.db
+CANCEL
+ADD
+More features
+you
+see
+too
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item3_Encrypted_p0
+3:12
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Encrypted
+Cancel
+GocryptFs
+EncFs
+
+## select1_bottom_icon1_Recent_item3_Encrypted_p1
+3:12
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Document
+Download
+App
+Image
+Internal storage
+Audio
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon1_Recent_item3_Encrypted_p2
+3:12
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Download
+App
+Image
+Internal storage
+Audio
+Data
+Video
+Recent
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon1_Recent_item4_KeyStore_p0
+KeyStore
+Cancel
+JKS
+Enter The Name
+Enter The Key
+Re-Enter
+CANCEL
+OK
+3:13
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item4_KeyStore_p1
+KeyStore
+Cancel
+JKS
+By
+Enter The Key
+Re-Enter
+CANCEL
+OK
+3:13
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+Too
+See
+MI
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item4_KeyStore_p2
+KeyStore
+Cancel
+JKS
+By by
+Enter The Key
+Re-Enter
+CANCEL
+OK
+3:13
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+MI
+see
+Monday
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item5_Shortcut_p0
+3:13
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Shortcut
+Cancel
+Enter The Name
+Enter The Path
+▼
+Directory
+CANCEL
+ADD
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item5_Shortcut_p1
+3:13
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Shortcut
+Cancel
+By
+Enter The Path
+▼
+Directory
+CANCEL
+ADD
+More features
+Too
+See
+No
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item5_Shortcut_p2
+3:13
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Shortcut
+Cancel
+By by
+Enter The Path
+▼
+Directory
+CANCEL
+ADD
+More features
+too
+see
+no
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon1_Recent_item6_Dot_file_p0
+Dot file
+Cancel
+.nomedia
+.nosearch
+.nothumbnail
+.nopreview
+.nocache
+.scanMedia
+.scanPicture
+.scanVideo
+.scanMusic
+3:14
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select1_bottom_icon1_Recent_item7_Storage_p0
+3:14
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Add storage
+Cancel
+Document provider (USB OTG,)…
+LAN (Samba)
+FTP(S,ES)
+SFTP
+WebDav
+Bluetooth
+Mega
+GDrive
+Dropbox
+Mail.ru
+Box
+OneDrive
+Mediafire
+Yandex
+
+## select1_bottom_icon1_Recent_item7_Storage_p1
+3:14
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Add storage
+Cancel
+Mail.ru
+Box
+OneDrive
+Mediafire
+Yandex
+4Shared
+Meo
+pCloud
+Sugarsync
+Backblaze
+HiDrive
+4Sync
+Baidu
+DLNA
+
+## select1_bottom_icon2_Search
+3:14
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Video
+Data
+Recent
+Document
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+Type to filter (Contains)
+Search recursively
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon2_Search_item1_Space_p0
+3:14
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Document
+Recent
+Video
+Download
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+Search recursively
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon2_Search_item1_Space_p1
+3:14
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+No item
+Menu
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+see
+Search recursively
+More features
+no
+too
+emoji ..
+..
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon2_Search_item1_Space_p2
+3:14
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+No item
+Menu
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Cancel
+Options
+see by
+Search recursively
+More features
+moo
+see
+too
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon3_View
+Compact
+Columned
+Detailed
+Wrapped
+Minimal
+Grid
+Gallery
+Options…
+3:15
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select1_bottom_icon3_View_item0_Compact_p0
+3:15
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+Audio
+Data
+Recent
+Video
+App
+Download
+Document
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon3_View_item1_Columned_p0
+3:15
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Download
+177.58 KiB | 5
+Recent
+31.0 MiB | 9
+App
+2.09 GiB | 224
+Document
+<dir>
+Data 
+<dir>
+Audio
+156.75 KiB | 1
+Image
+14.07 KiB | 1
+Video
+30.83 MiB | 3
+Internal storage
+940.9 MiB / 5.8 GiB
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon3_View_item2_Detailed_p0
+3:15
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+941 MiB / 5.8 GiB
+Audio
+156.75 KiB | 1
+App
+2.09 GiB | 224
+Recent
+31.0 MiB | 9
+Data 
+<dir>
+Image
+14.07 KiB | 1
+Document
+<dir>
+Download
+177.58 KiB | 5
+Video
+30.83 MiB | 3
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon3_View_item3_Wrapped_p0
+3:16
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+2.09 GiB | 224
+Audio
+156.75 KiB | 1
+Recent
+31.0 MiB | 9
+Image
+14.07 KiB | 1
+Document
+0 B | 0
+Download
+177.58 KiB | 5
+Data 
+<dir>
+Video
+30.83 MiB | 3
+Internal storage
+941.1 MiB / 5.8 GiB
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon3_View_item4_Minimal_p0
+3:16
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+Video
+Data
+App
+Recent
+Audio
+Document
+Download
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon3_View_item4_Minimal_p1
+3:16
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+Video
+Data
+App
+Recent
+Audio
+Document
+Download
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon3_View_item5_Grid_p0
+3:17
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+Data
+Audio
+Recent
+App
+Video
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon3_View_item5_Grid_p1
+3:17
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Audio
+Recent
+App
+Video
+Download
+Document
+Image
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon3_View_item6_Gallery_p0
+3:17
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+App
+Download
+Video
+Document
+Audio
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon3_View_item6_Gallery_p1
+3:17
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Download
+Video
+Document
+Audio
+Internal storage
+Image
+Recent
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon3_View_item7_Options__p0
+3:17
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Options
+Cancel
+Columns count…
+Thumbnail Quality…
+Show hidden globally
+Show hidden recursively
+Swipe down to refresh
+Swipe down to show/hide hidden files
+Load thumbnails while scrolling
+Change view mode globally
+Crop thumbnails
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+
+## select1_bottom_icon3_View_item7_Options__p1
+3:17
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Options
+Cancel
+Crop thumbnails
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+Folder media symbols
+Highlight visited folders
+Pinch to zoom
+Reset grid size on view change
+Drag and Drop
+Show-hide bars by scrolling
+Dual panel in landscape
+Full dual panel
+
+## select1_bottom_icon3_View_item7_Options__p2
+3:17
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Options
+Cancel
+Show thumbnails
+Show extensions
+Show full long names
+Cache thumbnails
+Auto folder preview
+Folder media symbols
+Highlight visited folders
+Pinch to zoom
+Reset grid size on view change
+Drag and Drop
+Show-hide bars by scrolling
+Dual panel in landscape
+Full dual panel
+More details
+
+## select1_bottom_icon4_Add
+3:18
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Folder
+File
+Database
+Encrypted
+KeyStore
+Shortcut
+Dot file
+Document
+Storage
+
+## select1_bottom_icon4_Add_item0_Folder_p0
+3:18
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Folder
+New folder
+755
+1
+CANCEL
+ADD
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item0_Folder_p1
+3:18
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Folder
+By
+755
+1
+CANCEL
+ADD
+More features
+Too
+See
+TT
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item0_Folder_p2
+3:18
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Folder
+By by
+755
+1
+CANCEL
+ADD
+More features
+see
+too
+MI
+Voice input
+q
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item1_File_p0
+3:18
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+File
+New file.txt
+Text
+1
+CANCEL
+ADD
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item1_File_p1
+3:18
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+File
+By.txt
+Text
+1
+CANCEL
+ADD
+More features
+No
+See
+Too
+Voice input
+Q
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item1_File_p2
+3:18
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+File
+By by.txt
+Text
+1
+CANCEL
+ADD
+More features
+MI
+see
+Monday
+Voice input
+q
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item2_Database_p0
+3:18
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Database
+Cancel
+New file.db
+CANCEL
+ADD
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item2_Database_p1
+3:18
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Database
+Cancel
+see.db
+CANCEL
+ADD
+More features
+MI
+too
+emoji ..
+..
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item2_Database_p2
+3:18
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Database
+Cancel
+see by.db
+CANCEL
+ADD
+More features
+see
+you
+too
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item3_Encrypted_p0
+3:19
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Encrypted
+Cancel
+GocryptFs
+EncFs
+
+## select1_bottom_icon4_Add_item3_Encrypted_p1
+3:19
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+App
+Image
+Internal storage
+Document
+Video
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon4_Add_item3_Encrypted_p2
+3:19
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Image
+Internal storage
+Document
+Video
+Download
+Recent
+Audio
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon4_Add_item4_KeyStore_p0
+KeyStore
+Cancel
+JKS
+Enter The Name
+Enter The Key
+Re-Enter
+CANCEL
+OK
+3:19
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item4_KeyStore_p1
+KeyStore
+Cancel
+JKS
+See
+Enter The Key
+Re-Enter
+CANCEL
+OK
+3:19
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+MO
+MI
+emoji ..
+..
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item4_KeyStore_p2
+KeyStore
+Cancel
+JKS
+See by
+Enter The Key
+Re-Enter
+CANCEL
+OK
+3:19
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+More features
+you
+see
+too
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item5_Shortcut_p0
+3:20
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Shortcut
+Cancel
+Enter The Name
+Enter The Path
+▼
+Directory
+CANCEL
+ADD
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item5_Shortcut_p1
+3:20
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Shortcut
+Cancel
+By
+Enter The Path
+▼
+Directory
+CANCEL
+ADD
+More features
+MI
+See
+MO
+Voice input
+Q
+1
+W
+2
+E
+3
+R
+4
+T
+5
+Y
+6
+U
+7
+I
+8
+O
+9
+P
+0
+A
+S
+D
+F
+G
+H
+J
+K
+L
+Shift
+Z
+X
+C
+V
+B
+N
+M
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item5_Shortcut_p2
+3:20
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Shortcut
+Cancel
+By by
+Enter The Path
+▼
+Directory
+CANCEL
+ADD
+More features
+too
+see
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+
+## select1_bottom_icon4_Add_item6_Dot_file_p0
+Dot file
+Cancel
+.nomedia
+.nosearch
+.nothumbnail
+.nopreview
+.nocache
+.scanMedia
+.scanPicture
+.scanVideo
+.scanMusic
+3:20
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select1_bottom_icon4_Add_item7_Storage_p0
+3:20
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Add storage
+Cancel
+Document provider (USB OTG,)…
+LAN (Samba)
+FTP(S,ES)
+SFTP
+WebDav
+Bluetooth
+Mega
+GDrive
+Dropbox
+Mail.ru
+Box
+OneDrive
+Mediafire
+Yandex
+
+## select1_bottom_icon4_Add_item7_Storage_p1
+3:20
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Add storage
+Cancel
+GDrive
+Dropbox
+Mail.ru
+Box
+OneDrive
+Mediafire
+Yandex
+4Shared
+Meo
+pCloud
+Sugarsync
+Backblaze
+HiDrive
+4Sync
+Baidu
+
+## select1_bottom_icon4_Add_item7_Storage_p2
+3:20
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Add storage
+Cancel
+Mail.ru
+Box
+OneDrive
+Mediafire
+Yandex
+4Shared
+Meo
+pCloud
+Sugarsync
+Backblaze
+HiDrive
+4Sync
+Baidu
+DLNA
+
+## select1_bottom_icon5_Refresh
+3:21
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Audio
+Image
+Document
+Data
+App
+Video
+Internal storage
+Recent
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon5_Refresh_item0_App_p0
+3:21
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+App
+224 files
+Menu
+MiXplorer_6.71.15.apk
+⌗ Android System WebView_113.0.5672.136.apk
+⌗ Chrome_113.0.5672.136.apk
+⌗ System UI_14.apk
+⌗ Settings_14.apk
+⌗ Pixel Launcher_14.apk
+⌗ Wallpaper & style_14.apk
+⌗ Google_13.17.16.23.x86_64.apk
+⌗ Google Play services_23.18.18 (190800-535401451).apk
+⌗ Maps_11.71.0300.apk
+⌗ Gmail_2023.04.16.527073575.Release.apk
+⌗ YouTube_19.17.42.apk
+⌗ Photos_6.29.0.519265844.apk
+⌗ YouTube Music_5.54.52.apk
+⌗ Drive_2.23.251.0.x86_64.alldpi.apk
+⌗ Phone_100.0.512999549.apk
+⌗ Contacts_4.8.17.529259023.apk
+⌗ Android Accessibility Suite_14.2.0.618048417.apk
+⌗ Speech Services by Google_googletts.google-speech-apk_20230123.02_p3.506463867.apk
+⌗ Clock_7.4 (504317960).apk
+⌗ Data Restore Tool_1.0.510474504.apk
+⌗ Android Auto_1.2.531830-stub.apk
+⌗ Android System Intelligence_U.0.sysimg.pixel6.530899711.apk
+Tab menu
+Breadcrumb
+ALL
+•  USER APP
+•  SYSTEM APP
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon5_Refresh_item0_App_p1
+3:21
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+App
+224 files
+Menu
+⌗ Phone_100.0.512999549.apk
+⌗ Contacts_4.8.17.529259023.apk
+⌗ Android Accessibility Suite_14.2.0.618048417.apk
+⌗ Speech Services by Google_googletts.google-speech-apk_20230123.02_p3.506463867.apk
+⌗ Clock_7.4 (504317960).apk
+⌗ Data Restore Tool_1.0.510474504.apk
+⌗ Android Auto_1.2.531830-stub.apk
+⌗ Android System Intelligence_U.0.sysimg.pixel6.530899711.apk
+⌗ Google Services Framework_14.apk
+⌗ com.android.emulator.radio.config_14.apk
+⌗ ConfigUpdater_14.apk
+⌗ Emergency information_14.apk
+⌗ System Tracing_1.0.apk
+⌗ Storage Manager_14.apk
+⌗ Credential Manager_14.apk
+⌗ Messages_messages.android_20230529_03_RC01_alldpi.x86_64.phone.apk
+⌗ Phone Calls_14.apk
+⌗ Work Setup_14.apk
+⌗ Digital Wellbeing_1.6.521068621 (495937).apk
+⌗ com.google.android.overlay.pixelconfigcommon_1.0.apk
+⌗ Gboard_12.4.05.482060964-preload-x86_64.apk
+⌗ Google Wallpaper Images_nexus_wallpapers_20180605.apk
+⌗ Main components_2023-07-01 S+.apk
+⌗ Settings Services_1.1.0.536057574.sr.apk
+⌗ Sounds_3.0 (496815901).apk
+⌗ Main components_2023-07-01 T+.apk
+⌗ Support components_2023-07-01 S+.apk
+⌗ com.android.traceur.auto_generated_rro_product___1.0.apk
+Tab menu
+Breadcrumb
+ALL
+•  USER APP
+•  SYSTEM APP
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon5_Refresh_item0_App_p2
+3:21
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+Bookmarks
+App
+224 files
+Menu
+⌗ Gboard_12.4.05.482060964-preload-x86_64.apk
+⌗ Google Wallpaper Images_nexus_wallpapers_20180605.apk
+⌗ Main components_2023-07-01 S+.apk
+⌗ Settings Services_1.1.0.536057574.sr.apk
+⌗ Sounds_3.0 (496815901).apk
+⌗ Main components_2023-07-01 T+.apk
+⌗ Support components_2023-07-01 S+.apk
+⌗ com.android.traceur.auto_generated_rro_product___1.0.apk
+⌗ Pixel Themes_14.apk
+⌗ SystemUIGX_14.apk
+⌗ com.android.server.telecom.auto_generated_rro_product___1.0.apk
+⌗ com.android.systemui.auto_generated_rro_product___1.0.apk
+⌗ Google Partner Setup_100.448391512.apk
+⌗ Google Play Protect Service_T.15.odad-stub.490071836.apk
+⌗ Markup_1.0.apk
+⌗ com.android.nfc.auto_generated_rro_product___1.0.apk
+⌗ com.android.settings.auto_generated_rro_product___1.0.apk
+⌗ Nfc Service_14.apk
+⌗ Phone and Messaging Storage_14.apk
+⌗ android.auto_generated_rro_product___1.0.apk
+⌗ Android Easter Egg_1.0.apk
+⌗ Android System_14.apk
+⌗ com.android.managedprovisioning.auto_generated_rro_product___1.0.apk
+⌗ com.android.phone.auto_generated_rro_product___1.0.apk
+⌗ com.android.providers.settings.auto_generated_rro_product___1.0.apk
+⌗ com.android.providers.telephony.auto_generated_rro_product___1.0.apk
+⌗ com.android.simappdialog.auto_generated_rro_product___1.0.apk
+⌗ com.android.storagemanager.auto_generated_rro_product___1.0.apk
+⌗ com.android.systemui.plugin.globalactions.wallet_1.0.0.0.apk
+⌗ Filled_1.0.apk
+Tab menu
+Breadcrumb
+ALL
+•  USER APP
+•  SYSTEM APP
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon6_Sort
+Name (A - Z)
+Name (Z - A)
+Size (Smaller)
+Size (Larger)
+Date (Older)
+Date (Newer)
+Type (Ascending)
+Type (Descending)
+Shuffled
+Options…
+3:21
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select1_bottom_icon6_Sort_item0_Name_A_-_Z__p0
+Bookmarks
+Home
+9 folders
+Menu
+App
+Audio
+Data
+Document
+Download
+Image
+Internal storage
+Recent
+Video
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+3:21
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select1_bottom_icon6_Sort_item1_Name_Z_-_A__p0
+3:22
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Video
+Recent
+Internal storage
+Image
+Download
+Document
+Data
+Audio
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon6_Sort_item2_Size_Smaller__p0
+3:22
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+App
+Audio
+Image
+Recent
+Video
+Document
+Internal storage
+Download
+Data
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon6_Sort_item3_Size_Larger__p0
+3:22
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Data
+Download
+Internal storage
+Document
+Video
+Recent
+Image
+Audio
+App
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon6_Sort_item4_Date_Older__p0
+3:23
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+App
+Audio
+Data
+Document
+Download
+Image
+Recent
+Video
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon6_Sort_item5_Date_Newer__p0
+Bookmarks
+Home
+9 folders
+Menu
+App
+Audio
+Data
+Document
+Download
+Image
+Recent
+Video
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+3:23
+Android System notification:
+Phone three bars.
+3G
+Battery charging, 100 percent.
+
+## select1_bottom_icon6_Sort_item6_Type_Ascending__p0
+3:23
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Internal storage
+App
+Audio
+Document
+Image
+Recent
+Video
+Data
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon6_Sort_item7_Type_Descending__p0
+3:24
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Download
+Data
+Video
+Recent
+Image
+Document
+Audio
+App
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon6_Sort_item8_Shuffled_p0
+Bookmarks
+Home
+9 folders
+Menu
+Document
+App
+Recent
+Data
+Download
+Internal storage
+Audio
+Image
+Video
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+3:24
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+
+## select1_bottom_icon6_Sort_item9_Options__p0
+3:24
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Options
+Cancel
+Folders first
+Files first
+Dot files first
+Recursive
+Sections
+
+## select1_bottom_icon6_Sort_item9_Options__p1
+3:24
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Video
+Audio
+Image
+Document
+Data
+Recent
+App
+Download
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon6_Sort_item9_Options__p2
+3:24
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Bookmarks
+Home
+9 folders
+Menu
+Document
+Data
+Recent
+App
+Download
+Internal storage
+Tab menu
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon7_Select_all
+3:25
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+9
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Audio
+Internal storage
+Video
+Document
+Download
+Image
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon7_Select_all_item0_Download_p0
+3:25
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Audio
+Internal storage
+Video
+Document
+Download
+Image
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon7_Select_all_item0_Download_p1
+3:25
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Internal storage
+Video
+Document
+Download
+Image
+Data
+App
+Recent
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## select1_bottom_icon7_Select_all_item0_Download_p2
+3:25
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+OK
+8
+5.8 GiB
+Delete
+Copy
+Move
+Rename
+Properties
+Menu
+Video
+Document
+Download
+Image
+Data
+App
+Recent
+Tab menu
+Home
+◁
+Breadcrumb
+⌂
+•••
+Search
+View
+Add
+Refresh
+Sort
+Select all
+
+## settings_main_p0
+3:25
+Android System notification:
+Phone signal full.
+3G
+Battery charging, 100 percent.
+Exit
+Settings
+SKINS
+Default
+LANGUAGES
+English
+ADD-ONS
+Tap to see options
+BUTTONS
+Tap to see options
+MORE SETTINGS
+Tap to see options
+AUTO TASKS
+Tap to see options
+COMPONENTS
+Tap to see options
+ABOUT
+Version: 6.71.15 B26090422 x64
+Author: Hootan Parsa
+

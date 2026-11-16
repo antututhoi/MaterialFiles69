@@ -1,0 +1,4 @@
+package: name='com.mixplorer' versionCode='26090422' versionName='6.71.15' platformBuildVersionName='17' platformBuildVersionCode='37' compileSdkVersion='37' compileSdkVersionCodename='17'
+sdkVersion:'9'
+application-label:'MiXplorer'
+native-code: 'arm64-v8a'
