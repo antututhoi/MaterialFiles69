@@ -513,7 +513,9 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
                     } else {
                         requireActivity().invalidateOptionsMenu()
                     }
-                }
+                },
+                { viewModel.currentPath.toString() },
+                { refresh() },
             )
         ) {
             return true
