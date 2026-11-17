@@ -32,6 +32,11 @@ data class FileSortOptions(
                 comparator = compareBy<FileItem> { it.attributes.lastModifiedTime() }
                     .then(comparator)
         }
+        // 69 mod: "Shuffled" (MiXplorer): a random order, new each time the app starts
+        if (me.zhanghai.android.files.mod69.Mod69Look.shuffled) {
+            val seed = me.zhanghai.android.files.mod69.Mod69Look.shuffleSeed
+            comparator = compareBy<FileItem> { (it.name.hashCode() xor seed) * -0x61c88647 }.then(comparator)
+        }
         when (order) {
             Order.ASCENDING -> {}
             Order.DESCENDING -> comparator = comparator.reversedCompat()

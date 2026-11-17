@@ -198,6 +198,11 @@
             android:summary="When Folders first is ticked in the sort menu, show files above folders instead"
             android:defaultValue="false" />
         <SwitchPreferenceCompat
+            android:key="mod69_shuffled"
+            android:title="Shuffled order"
+            android:summary="Files are listed in a random order (new each time the app starts). Folders first still applies"
+            android:defaultValue="false" />
+        <SwitchPreferenceCompat
             android:key="mod69_dot_first"
             android:title="Dot files first"
             android:summary="Names that start with a dot are listed before everything else"

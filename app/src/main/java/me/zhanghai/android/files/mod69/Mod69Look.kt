@@ -34,6 +34,8 @@ object Mod69Look {
     val filesFirst: Boolean get() = prefs.getBoolean("mod69_files_first", false)
     /** Names starting with a dot come before everything else (MiXplorer "Dot files first"). */
     val dotFilesFirst: Boolean get() = prefs.getBoolean("mod69_dot_first", false)
+    val shuffled: Boolean get() = prefs.getBoolean("mod69_shuffled", false)
+    val shuffleSeed: Int = java.util.Random().nextInt()
 
     /** MiXplorer "Compact" / "Minimal" list rows. */
     fun applyListDensity(item: View, icon: View, description: View?) {
