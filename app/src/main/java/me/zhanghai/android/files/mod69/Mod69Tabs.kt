@@ -66,6 +66,7 @@ class Mod69Tabs(
         val items = listOf(
             "Close tab", "Close other tabs", "Close tabs on the left", "Close tabs on the right",
             "Move left", "Move right", "Clone tab", "Set as home folder", "Close all tabs",
+            "Save these tabs", "Reset to the saved tabs",
         )
         items.forEachIndexed { n, t -> pm.menu.add(0, n, n, t) }
         pm.setOnMenuItemClickListener { item ->
@@ -83,6 +84,18 @@ class Mod69Tabs(
                     android.widget.Toast.makeText(context, "Home folder set", android.widget.Toast.LENGTH_SHORT).show()
                 }
                 8 -> tabs.clear()
+                9 -> {
+                    prefs.edit().putString("saved", tabs.joinToString("\n")).apply()
+                    android.widget.Toast.makeText(context, "${tabs.size} tabs saved", android.widget.Toast.LENGTH_SHORT).show()
+                }
+                10 -> {
+                    val saved = prefs.getString("saved", null)?.split('\n')?.filter { it.isNotBlank() }
+                    if (saved.isNullOrEmpty()) {
+                        android.widget.Toast.makeText(context, "No saved tabs yet", android.widget.Toast.LENGTH_SHORT).show()
+                    } else {
+                        tabs = saved.toMutableList()
+                    }
+                }
             }
             active = when (item.itemId) {
                 1 -> 0
