@@ -43,6 +43,8 @@ object Mod69Tools {
         ".nocache – thumbnails here are not kept",
     )
 
+    fun dotFileDialog(context: Context, currentDir: String?, refresh: () -> Unit) = dotFile(context, currentDir, refresh)
+
     private fun dotFile(context: Context, currentDir: String?, refresh: () -> Unit) {
         val dir = currentDir?.takeIf { it.startsWith("/") }?.let { File(it) }
         if (dir == null || !dir.isDirectory) {

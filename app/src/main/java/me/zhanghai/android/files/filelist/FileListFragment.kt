@@ -516,6 +516,8 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
                 },
                 { viewModel.currentPath.toString() },
                 { refresh() },
+                { showCreateDirectoryDialog() },
+                { showCreateFileDialog() },
             )
         ) {
             return true

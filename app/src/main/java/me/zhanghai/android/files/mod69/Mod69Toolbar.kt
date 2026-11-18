@@ -16,6 +16,7 @@ object Mod69Toolbar {
     const val ID_BIN = 0x69a2
     const val ID_HOME = 0x69a3
     const val ID_TOOLS = 0x69a4
+    const val ID_ADD = 0x69a5
 
     private class Action(val key: String, val id: Int, val name: String)
 
@@ -32,6 +33,7 @@ object Mod69Toolbar {
         Action("copy_path", R.id.action_copy_path, "Copy path"),
         Action("dual", ID_DUAL, "Two panels"),
         Action("bin", ID_BIN, "Recycle bin"),
+        Action("add", ID_ADD, "Add (new folder / file / dot file)"),
         Action("home", ID_HOME, "Internal storage"),
         Action("tools", ID_TOOLS, "Tools"),
     )
@@ -51,7 +53,8 @@ object Mod69Toolbar {
             menu.add(Menu.NONE, ID_DUAL, 200, "Two panels").setIcon(R.drawable.computer_icon_white_24dp)
             menu.add(Menu.NONE, ID_BIN, 201, "Recycle bin").setIcon(R.drawable.delete_icon_control_normal_24dp)
             menu.add(Menu.NONE, ID_HOME, 202, "Internal storage").setIcon(R.drawable.device_icon_white_24dp)
-            menu.add(Menu.NONE, ID_TOOLS, 203, "Tools")
+            menu.add(Menu.NONE, ID_TOOLS, 203, "Tools").setIcon(R.drawable.mod69_tools_icon_white_24dp)
+            menu.add(Menu.NONE, ID_ADD, 199, "Add").setIcon(R.drawable.add_icon_white_24dp)
             menu.add(Menu.NONE, 0x69a9, 204, "Toolbar buttons…")
         }
         val set = chosen()
@@ -67,8 +70,24 @@ object Mod69Toolbar {
     fun onItem(
         context: Context, item: MenuItem, navigate: (String) -> Unit, invalidate: () -> Unit,
         currentDir: () -> String? = { null }, refresh: () -> Unit = {},
+        newFolder: () -> Unit = {}, newFile: () -> Unit = {},
     ): Boolean =
         when (item.itemId) {
+            ID_ADD -> {
+                // MiXplorer "Add": folder, file or a dot file
+                androidx.appcompat.app.AlertDialog.Builder(context)
+                    .setTitle("Add")
+                    .setItems(arrayOf("Folder", "File", "Dot file (.nomedia…)")) { _, which ->
+                        when (which) {
+                            0 -> newFolder()
+                            1 -> newFile()
+                            2 -> Mod69Tools.dotFileDialog(context, currentDir(), refresh)
+                        }
+                    }
+                    .setNegativeButton(android.R.string.cancel, null)
+                    .show()
+                true
+            }
             ID_TOOLS -> {
                 Mod69Tools.show(context, currentDir(), refresh); true
             }
