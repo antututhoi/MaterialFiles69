@@ -518,6 +518,16 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
                 { refresh() },
                 { showCreateDirectoryDialog() },
                 { showCreateFileDialog() },
+                {
+                    me.zhanghai.android.files.mod69.Mod69Filter.dialog(requireContext(), mod69Filter) { t ->
+                        mod69Filter = t
+                        updateAdapterFileList()
+                        android.widget.Toast.makeText(
+                            requireContext(), if (t == null) "Showing everything" else "Showing only $t here (opening another folder clears it)",
+                            android.widget.Toast.LENGTH_SHORT,
+                        ).show()
+                    }
+                },
             )
         ) {
             return true
@@ -688,7 +698,14 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
         }
     }
 
+    // 69 mod: MiXplorer "Filter" (only one kind of file in this folder)
+    private var mod69Filter: String? = null
+
     private fun onCurrentPathChanged(path: Path) {
+        if (mod69Filter != null) {
+            mod69Filter = null
+            updateAdapterFileList()
+        }
         if (mod69GoingBack) {
             mod69GoingBack = false
         } else if (mod69History.lastOrNull() != path) {
@@ -866,6 +883,7 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
         if (!Settings.FILE_LIST_SHOW_HIDDEN_FILES.valueCompat) {
             files = files.filterNot { it.isHidden }
         }
+        mod69Filter?.let { type -> files = files.filter { me.zhanghai.android.files.mod69.Mod69Filter.matches(type, it) } }
         adapter.replaceListAndIsSearching(files, viewModel.searchState.isSearching)
     }
 
