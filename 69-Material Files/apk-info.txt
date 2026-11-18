@@ -1,0 +1,4 @@
+package: name='me.zhanghai.android.files.mod69' versionCode='1034' versionName='1.7.5-69' platformBuildVersionName='17' platformBuildVersionCode='37' compileSdkVersion='37' compileSdkVersionCodename='17'
+sdkVersion:'23'
+application-label:'69-Material Files'
+native-code: 'arm64-v8a'

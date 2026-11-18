@@ -1,0 +1,4974 @@
+## first_run
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+8:09
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+8:09
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_p1
+Internal shared storage
++ Tab
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:09
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Root
+67.14 MB free of 875 MB
+923.0
+5.34 GB free of 6.23 GB
+142.0
+Add storage…
+Downloads
+Screenshots
+Images
+Videos
+Audio
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+8:09
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item0_Root_p0
+Open navigation drawer
+Files
+Error
+Search
+View and sort
+More options
+Root
++ Tab
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+8:10
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item0_Root_p1
+Root
++ Tab
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+8:10
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item1_Add_storage__p0
+Add storage
+Android/data
+Android/obb
+External storage
+FTP server
+SFTP server
+SMB server
+WebDAV server
+8:10
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item2_Downloads_p0
+Open navigation drawer
+Files
+1 folder, 4 files
+Search
+View and sort
+More options
+Internal shared storage
+Download
++ Tab
+sub
+archive.zip
+8:07 AM    6.86 kB
+note.txt
+8:07 AM    32 B
+picture.png
+8:07 AM    14.40 kB
+song.mp3
+8:07 AM    161 kB
+8:10
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item2_Downloads_p1
+Internal shared storage
+Download
++ Tab
+sub
+archive.zip
+8:07 AM    6.86 kB
+note.txt
+8:07 AM    32 B
+picture.png
+8:07 AM    14.40 kB
+song.mp3
+8:07 AM    161 kB
+8:10
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item3_Screenshots_p0
+Open navigation drawer
+Files
+Error
+Search
+View and sort
+More options
+Internal shared storage
+Pictures
+Screenshots
++ Tab
+java8.nio.file.NoSuchFileException: /storage/emulated/0/Pictures/Screenshots: opendir: No such file or directory
+8:11
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item3_Screenshots_p1
+Internal shared storage
+Pictures
+Screenshots
++ Tab
+java8.nio.file.NoSuchFileException: /storage/emulated/0/Pictures/Screenshots: opendir: No such file or directory
+8:11
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item4_Images_p0
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+8:07 AM    14.40 kB
+Root
+67.14 MB free of 875 MB
+923.0
+5.19 GB free of 6.23 GB
+166.0
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+8:11
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item4_Images_p1
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+8:07 AM    14.40 kB
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+FTP server
+8:11
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item4_Images_p2
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+picture.png
+8:07 AM    14.40 kB
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+FTP server
+Settings
+About
+8:11
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item5_Videos_p0
+Open navigation drawer
+Files
+2 files
+Search
+More options
+Internal shared storage
++ Tab
+sample_h264.mp4
+8:06 AM    23.23 MB
+sample_subs.mkv
+8:07 AM    2.76 MB
+Root
+67.14 MB free of 875 MB
+923.0
+5.19 GB free of 6.23 GB
+166.0
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+8:11
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item5_Videos_p1
+Open navigation drawer
+Files
+2 files
+Search
+More options
+Internal shared storage
++ Tab
+sample_h264.mp4
+8:06 AM    23.23 MB
+sample_subs.mkv
+8:07 AM    2.76 MB
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+8:12
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item5_Videos_p2
+Open navigation drawer
+Files
+2 files
+Search
+More options
+Internal shared storage
++ Tab
+sample_h264.mp4
+8:06 AM    23.23 MB
+sample_subs.mkv
+8:07 AM    2.76 MB
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+FTP server
+Settings
+About
+8:12
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item6_Audio_p0
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+song.mp3
+8:07 AM    161 kB
+Root
+67.14 MB free of 875 MB
+923.0
+5.19 GB free of 6.23 GB
+166.0
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+8:12
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item6_Audio_p1
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+song.mp3
+8:07 AM    161 kB
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+8:12
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item6_Audio_p2
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+song.mp3
+8:07 AM    161 kB
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+FTP server
+Settings
+About
+8:12
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item7_Archives_p0
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+archive.zip
+8:07 AM    6.86 kB
+Root
+67.14 MB free of 875 MB
+923.0
+5.19 GB free of 6.23 GB
+166.0
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+8:12
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item7_Archives_p1
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+archive.zip
+8:07 AM    6.86 kB
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+FTP server
+8:12
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item7_Archives_p2
+Open navigation drawer
+Files
+1 file
+Search
+More options
+Internal shared storage
++ Tab
+archive.zip
+8:07 AM    6.86 kB
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+FTP server
+Settings
+About
+8:12
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item8_APKs_p0
+Open navigation drawer
+Files
+Empty
+Search
+More options
+Internal shared storage
++ Tab
+No files
+Root
+67.14 MB free of 875 MB
+923.0
+5.19 GB free of 6.23 GB
+166.0
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+8:13
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item8_APKs_p1
+Open navigation drawer
+Files
+Empty
+Search
+More options
+Internal shared storage
++ Tab
+No files
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+FTP server
+Settings
+8:13
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item8_APKs_p2
+Open navigation drawer
+Files
+Empty
+Search
+More options
+Internal shared storage
++ Tab
+No files
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+FTP server
+Settings
+About
+8:13
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item9_Big_files_100_MB__p0
+Open navigation drawer
+Files
+Empty
+Search
+More options
+Internal shared storage
++ Tab
+No files
+Root
+67.14 MB free of 875 MB
+923.0
+5.19 GB free of 6.23 GB
+166.0
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+8:13
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item9_Big_files_100_MB__p1
+Open navigation drawer
+Files
+Empty
+Search
+More options
+Internal shared storage
++ Tab
+No files
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+8:13
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item9_Big_files_100_MB__p2
+Open navigation drawer
+Files
+Empty
+Search
+More options
+Internal shared storage
++ Tab
+No files
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+FTP server
+Settings
+About
+8:13
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item10_Changed_in_7_days_p0
+Open navigation drawer
+Files
+14 files
+Search
+More options
+Internal shared storage
++ Tab
+sample_h264.mp4
+8:06 AM    23.23 MB
+sample_subs.mkv
+8:07 AM    2.76 MB
+sample_subs.srt
+8:06 AM    101 B
+note.txt
+8:07 AM    32 B
+archive.zip
+8:07 AM    6.86 kB
+picture.png
+8:07 AM    14.40 kB
+song.mp3
+8:07 AM    161 kB
+Root
+67.14 MB free of 875 MB
+923.0
+5.19 GB free of 6.23 GB
+166.0
+Add storage…
+DCIM
+Downloads
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+8:14
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item10_Changed_in_7_days_p1
+Open navigation drawer
+Files
+14 files
+Search
+More options
+Internal shared storage
++ Tab
+sample_h264.mp4
+8:06 AM    23.23 MB
+sample_subs.mkv
+8:07 AM    2.76 MB
+sample_subs.srt
+8:06 AM    101 B
+note.txt
+8:07 AM    32 B
+archive.zip
+8:07 AM    6.86 kB
+picture.png
+8:07 AM    14.40 kB
+song.mp3
+8:07 AM    161 kB
+Movies
+Music
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+8:14
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon0_Open_navigation_drawer_item10_Changed_in_7_days_p2
+Open navigation drawer
+Files
+14 files
+Search
+More options
+Internal shared storage
++ Tab
+sample_h264.mp4
+8:06 AM    23.23 MB
+sample_subs.mkv
+8:07 AM    2.76 MB
+sample_subs.srt
+8:06 AM    101 B
+note.txt
+8:07 AM    32 B
+archive.zip
+8:07 AM    6.86 kB
+picture.png
+8:07 AM    14.40 kB
+song.mp3
+8:07 AM    161 kB
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ Pictures
+/storage/emulated/0/Pictures
+⌚ Download
+/storage/emulated/0/Download
+⌚ /
+/
+Two panels
+FTP server
+Settings
+About
+8:14
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon1_Search
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+8:14
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon1_Search_item0_Space_p0
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+Open navigation drawer
+Clear query
+Internal shared storage
++ Tab
+Android
+Music
+Podcasts
+Ringtones
+Alarms
+8:14
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon1_Search_item0_Space_p1
+More features
+no
+see
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+Open navigation drawer
+by
+Clear query
+Internal shared storage
++ Tab
+Android
+Music
+Podcasts
+Ringtones
+Alarms
+8:14
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon1_Search_item0_Space_p2
+More features
+the
+too
+TT
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
++ Tab
+No files
+8:14
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon1_Search_item1_Search__p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+8:15
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon1_Search_item1_Search__p1
+Open navigation drawer
+by
+Clear query
+Internal shared storage
++ Tab
+No files
+More features
+see
+too
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+8:15
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon1_Search_item1_Search__p2
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
++ Tab
+No files
+More features
+too
+see
+the
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+8:15
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon2_View_and_sort
+List
+Grid
+Name
+Type
+Size
+Last modified
+Ascending
+Folders first
+Only for this folder
+8:15
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options
+New window
+Go up
+Go to
+Refresh
+Select all
+Show hidden files
+Share
+Copy path
+Open in terminal
+Add bookmark
+Create shortcut
+Filter
+Add
+Two panels
+Recycle bin
+Internal storage
+Tools
+Toolbar buttons…
+8:15
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item0_New_window_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+8:16
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item0_New_window_p1
+Internal shared storage
++ Tab
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:16
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item1_Go_up_p0
+Open navigation drawer
+Files
+Error
+Search
+View and sort
+More options
+Root
+storage
+emulated
+0
++ Tab
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+8:16
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item1_Go_up_p1
+Root
+storage
+emulated
+0
++ Tab
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+8:16
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item2_Go_to_p0
+Go to
+/storage/emulated/0
+Cancel
+OK
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+8:16
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item2_Go_to_p1
+Go to
+by
+Cancel
+OK
+More features
+see
+too
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+8:16
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item2_Go_to_p2
+Go to
+by by
+Cancel
+OK
+More features
+too
+see
+moo
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+8:16
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item3_Refresh_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+8:17
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item3_Refresh_p1
+Internal shared storage
++ Tab
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:17
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item4_Select_all_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+13
+Cut
+Copy
+Delete
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+8:17
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item4_Select_all_p1
+Internal shared storage
++ Tab
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:17
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item4_Select_all_p2
+Internal shared storage
++ Tab
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:17
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item7_Copy_path_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+8:18
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item7_Copy_path_p1
+Internal shared storage
++ Tab
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:18
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item8_Open_in_terminal_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+8:18
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item8_Open_in_terminal_p1
+Internal shared storage
++ Tab
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:18
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item9_Add_bookmark_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+8:18
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item9_Add_bookmark_p1
+Internal shared storage
++ Tab
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:18
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item9_Add_bookmark_p2
+Internal shared storage
++ Tab
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:19
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item10_Create_shortcut_left_app
+69-Material Files
+Touch & hold the widget to move it around the home screen
+0
+1 × 1
+Cancel
+Add to home screen
+8:19
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item11_Filter_p0
+Filter this folder
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Show everything
+Cancel
+8:19
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item12_Add_p0
+Add
+Folder
+File
+Dot file (.nomedia…)
+Cancel
+8:20
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item12_Add_p1
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+8:20
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item12_Add_p2
+Internal shared storage
++ Tab
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:20
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item13_Two_panels_p0
+Open navigation drawer
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Error
+Root
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+8:20
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_icon3_More_options_item13_Two_panels_p1
+Open navigation drawer
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Root
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+8:20
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon0_iconLayout
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+1
+Cut
+Copy
+Delete
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+8:20
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton
+Open with
+Cut
+Copy
+Delete
+Rename
+Compress
+Share
+Copy path
+Add bookmark
+Create shortcut
+Properties
+Open in new tab
+Copy name
+Hide
+8:21
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item0_Open_with_left_app
+69-Material Files
+Edit
+Open as…
+Files
+Save as
+8:21
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item4_Rename_p0
+Rename
+Pictures
+Cancel
+OK
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+8:21
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item4_Rename_p1
+Rename
+by
+Cancel
+OK
+More features
+too
+see
+no
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+8:21
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item4_Rename_p2
+Rename
+by by
+Cancel
+OK
+More features
+moo
+see
+too
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+8:21
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item5_Compress_p0
+Create archive
+Pictures
+.zip
+.tar.xz
+.7z
+Password (optional)
+Show password
+Cancel
+OK
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Next
+Back
+Switch input method
+8:21
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item5_Compress_p1
+Create archive
+by
+.zip
+.tar.xz
+.7z
+Password (optional)
+Show password
+Cancel
+OK
+More features
+no
+see
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Next
+Back
+Switch input method
+8:21
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item5_Compress_p2
+Create archive
+by by
+.zip
+.tar.xz
+.7z
+Password (optional)
+Show password
+Cancel
+OK
+More features
+see
+too
+moo
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Next
+Back
+Switch input method
+8:21
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item7_Copy_path_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+8:22
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item7_Copy_path_p1
+Internal shared storage
++ Tab
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:22
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item8_Add_bookmark_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
++ Tab
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+8:22
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item8_Add_bookmark_p1
+Internal shared storage
++ Tab
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:22
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item8_Add_bookmark_p2
+Internal shared storage
++ Tab
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:22
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item9_Create_shortcut_left_app
+69-Material Files
+Touch & hold the widget to move it around the home screen
+Pictures
+1 × 1
+Cancel
+Add to home screen
+8:23
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item10_Properties_p0
+“Pictures” properties
+Basic
+Permissions
+Pictures
+/storage/emulated/0
+Folder (vnd.android.document/directory)
+3 items, totaling 4.13 kB
+Nov 18, 2026 8:08:57 AM
+OK
+8:23
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item11_Open_in_new_tab_p0
+Open navigation drawer
+Files
+1 folder
+Search
+View and sort
+More options
+Internal shared storage
+Pictures
+0
++
+8:23
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item11_Open_in_new_tab_p1
+Internal shared storage
+Pictures
+0
++
+8:23
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item12_Copy_name_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Clipboard
+Dismiss copied text
+Share
+Send to nearby device
+8:24
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item12_Copy_name_p1
+Internal shared storage
+0
++
+Documents
+Download
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Recordings
+Ringtones
+8:24
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item13_Hide_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+8:24
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon1_menuButton_item13_Hide_p1
+Internal shared storage
+0
++
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Recordings
+Ringtones
+8:24
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon2_sd_main_fab
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+File
+Folder
+8:25
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_bottom_icon2_sd_main_fab_item0_Podcasts_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+8:25
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_bottom_icon2_sd_main_fab_item0_Podcasts_p1
+Internal shared storage
+0
++
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Recordings
+Ringtones
+8:25
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## main_bottom_icon2_sd_main_fab_item1_File_p0
+More features
+Paste item
+Pictures
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+New file
+Cancel
+OK
+8:25
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon2_sd_main_fab_item1_File_p1
+More features
+see
+too
+TT
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+New file
+by
+Cancel
+OK
+8:25
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon2_sd_main_fab_item1_File_p2
+More features
+see
+too
+moo
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+New file
+by by
+Cancel
+OK
+8:25
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon2_sd_main_fab_item2_Folder_p0
+New folder
+Cancel
+OK
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+8:26
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon2_sd_main_fab_item2_Folder_p1
+New folder
+by
+Cancel
+OK
+More features
+too
+see
+no
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+8:26
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## main_bottom_icon2_sd_main_fab_item2_Folder_p2
+New folder
+by by
+Cancel
+OK
+More features
+MI
+see
+too
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+8:26
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## drawer_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Root
+67.14 MB free of 875 MB
+923.0
+5.16 GB free of 6.23 GB
+170.0
+Add storage…
+Downloads
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Archives
+APKs
+8:26
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## drawer_p1
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ /
+/
+⌚ storage
+/storage
+⌚ emulated
+/storage/emulated
+8:26
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## drawer_p2
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Images
+Videos
+Audio
+Archives
+APKs
+Big files (>100 MB)
+Changed in 7 days
+⌚ 0
+/storage/emulated/0
+⌚ /
+/
+⌚ storage
+/storage
+⌚ emulated
+/storage/emulated
+⌚ Download
+/storage/emulated/0/Download
+Two panels
+FTP server
+Settings
+About
+8:26
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select0_Internal_shared_storage
+Copy path
+Open in new window
+8:26
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_Alarms
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+1
+Cut
+Copy
+Delete
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+8:26
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon0_Open_navigation_drawer
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+8:26
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon1_Search
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+8:27
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon1_Search_item0_Space_p0
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+Open navigation drawer
+Clear query
+Internal shared storage
++
+Android
+Music
+Podcasts
+Ringtones
+Alarms
+8:27
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon1_Search_item0_Space_p1
+More features
+MI
+see
+MO
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+Open navigation drawer
+by
+Clear query
+Internal shared storage
++
+No files
+8:27
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon1_Search_item0_Space_p2
+More features
+too
+see
+MI
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+Open navigation drawer
+by by
+Clear query
+Internal shared storage
++
+No files
+8:27
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon1_Search_item1_Search__p0
+Open navigation drawer
+Search…
+Clear query
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+8:27
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon1_Search_item1_Search__p1
+Open navigation drawer
+see
+Clear query
+Internal shared storage
+0
++
+No files
+More features
+too
+no
+emoji ..
+..
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+8:27
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon1_Search_item1_Search__p2
+Open navigation drawer
+see by
+Clear query
+Internal shared storage
+0
++
+No files
+More features
+moo
+see
+you
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Search
+Back
+Switch input method
+8:27
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon2_View_and_sort
+List
+Grid
+Name
+Type
+Size
+Last modified
+Ascending
+Folders first
+Only for this folder
+8:28
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options
+New window
+Go up
+Go to
+Refresh
+Select all
+Show hidden files
+Share
+Copy path
+Open in terminal
+Add bookmark
+Create shortcut
+Filter
+Add
+Two panels
+Recycle bin
+Internal storage
+Tools
+Toolbar buttons…
+8:28
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item0_New_window_p0
+8:28
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+
+## select1_icon3_More_options_item0_New_window_p1
+8:28
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+Internal shared storage
+0
++
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Recordings
+Ringtones
+
+## select1_icon3_More_options_item1_Go_up_p0
+Open navigation drawer
+Files
+Error
+Search
+View and sort
+More options
+Root
+storage
+emulated
+0
++
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+8:29
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item1_Go_up_p1
+Root
+storage
+emulated
+0
++
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+8:29
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item2_Go_to_p0
+Go to
+/storage/emulated/0
+Cancel
+OK
+More features
+Sticker Keyboard
+GIF Keyboard
+Clipboard
+Settings
+Theme settings
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+8:29
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item2_Go_to_p1
+Go to
+by
+Cancel
+OK
+More features
+no
+see
+too
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+8:29
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item2_Go_to_p2
+Go to
+by by
+Cancel
+OK
+More features
+too
+the
+see
+Voice input
+q
+1
+w
+2
+e
+3
+r
+4
+t
+5
+y
+6
+u
+7
+i
+8
+o
+9
+p
+0
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Shift
+z
+x
+c
+v
+b
+n
+m
+Delete
+Symbol keyboard
+,
+Emoji button
+Space
+.
+Done
+Back
+Switch input method
+8:29
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item3_Refresh_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+8:29
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item3_Refresh_p1
+Internal shared storage
+0
++
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Recordings
+Ringtones
+8:29
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item4_Select_all_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+12
+Cut
+Copy
+Delete
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+8:30
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item4_Select_all_p1
+Internal shared storage
+0
++
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Recordings
+Ringtones
+8:30
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item7_Copy_path_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+8:30
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item7_Copy_path_p1
+Internal shared storage
+0
++
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Recordings
+Ringtones
+8:30
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item8_Open_in_terminal_p0
+8:31
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+
+## select1_icon3_More_options_item8_Open_in_terminal_p1
+8:31
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+Internal shared storage
+0
++
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Recordings
+Ringtones
+
+## select1_icon3_More_options_item9_Add_bookmark_p0
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+8:31
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item9_Add_bookmark_p1
+Internal shared storage
+0
++
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Recordings
+Ringtones
+8:31
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item10_Create_shortcut_left_app
+69-Material Files
+Touch & hold the widget to move it around the home screen
+0
+1 × 1
+Cancel
+Add to home screen
+8:32
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item11_Filter_p0
+Filter this folder
+Images
+Videos
+Audio
+Documents
+Archives
+APKs
+Show everything
+Cancel
+8:32
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item12_Add_p0
+Add
+Folder
+File
+Dot file (.nomedia…)
+Cancel
+8:32
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item12_Add_p1
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+8:32
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item12_Add_p2
+Internal shared storage
+0
++
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Recordings
+Ringtones
+8:32
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item13_Two_panels_p0
+Open navigation drawer
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Error
+Root
+/
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+8:33
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon3_More_options_item13_Two_panels_p1
+Open navigation drawer
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Root
+/
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+8:33
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon4_icon_at_94_211
+Open navigation drawer
+Files
+13 folders
+Search
+View and sort
+More options
+Internal shared storage
+0
++
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+Movies
+Music
+Notifications
+Podcasts
+Root
+67.14 MB free of 875 MB
+923.0
+5.16 GB free of 6.23 GB
+170.0
+Add storage…
+Downloads
+Pictures
+Screenshots
+Images
+Videos
+Audio
+Archives
+8:33
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon4_icon_at_94_211_item0_Root_p0
+Open navigation drawer
+Files
+Error
+Search
+View and sort
+More options
+Root
+0
+/
++
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+8:33
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon4_icon_at_94_211_item0_Root_p1
+Root
+0
+/
++
+me.zhanghai.android.files.provider.remote.RemoteFileSystemException: Root isn't available
+8:33
+Android System notification:
+Wifi signal full.
+Phone three bars.
+Battery charging, 100 percent.
+
+## select1_icon4_icon_at_94_211_item1_Add_storage__p0
+Add storage
+Android/data
+Android/obb
+External storage
+FTP server
+SFTP server
+SMB server
+WebDAV server
+8:34
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon4_icon_at_94_211_item2_Downloads_p0
+Open navigation drawer
+Files
+1 folder, 4 files
+Search
+View and sort
+More options
+Internal shared storage
+Download
+0
++
+sub
+archive.zip
+8:07 AM    6.86 kB
+note.txt
+8:07 AM    32 B
+picture.png
+8:07 AM    14.40 kB
+song.mp3
+8:07 AM    161 kB
+8:34
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## select1_icon4_icon_at_94_211_item2_Downloads_p1
+Internal shared storage
+Download
+0
++
+sub
+archive.zip
+8:07 AM    6.86 kB
+note.txt
+8:07 AM    32 B
+picture.png
+8:07 AM    14.40 kB
+song.mp3
+8:07 AM    161 kB
+8:34
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## folder_Download_p0
+Open navigation drawer
+Files
+1 folder, 4 files
+Search
+View and sort
+More options
+Internal shared storage
+Download
+0
++
+sub
+archive.zip
+8:07 AM    6.86 kB
+note.txt
+8:07 AM    32 B
+picture.png
+8:07 AM    14.40 kB
+song.mp3
+8:07 AM    161 kB
+8:35
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## folder_Download_p1
+Internal shared storage
+Download
+0
++
+sub
+archive.zip
+8:07 AM    6.86 kB
+note.txt
+8:07 AM    32 B
+picture.png
+8:07 AM    14.40 kB
+song.mp3
+8:07 AM    161 kB
+8:35
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## settings_main_p0
+Navigate up
+Settings
+Interface
+Language
+System default
+Theme color
+Color that appears most frequently in the app
+Material Design 3
+Night mode
+Follow system
+Black night mode
+File list animation
+Display long file name
+Ellipsize the middle
+Behavior
+Default folder
+Internal shared storage
+Storage
+Root and Internal shared storage
+Standard folders
+DCIM, Downloads, Movies, Music, and Pictures
+Bookmark folders
+8:35
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## settings_main_p1
+Navigate up
+Settings
+Standard folders
+DCIM, Downloads, Movies, Music, and Pictures
+Bookmark folders
+Screenshots, 0, Pictures, and 0
+Root access mode
+Automatic
+Archive file name encoding
+UTF-8
+Open Android package
+Ask what to do
+Read remote files for thumbnail
+69 mod
+69- Accent colour (MiXplorer style)
+App's own colour
+69- Pure black (AMOLED)
+Black background, bars and menus in dark mode
+69- Monospace font (MiXplorer style)
+69- Show file extensions
+Off = names without .jpg / .mp4 …
+69- Show full long names
+8:35
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## settings_main_p2
+Navigate up
+Settings
+69- Monospace font (MiXplorer style)
+69- Show file extensions
+Off = names without .jpg / .mp4 …
+69- Show full long names
+Long names wrap to more lines instead of being cut
+69- Highlight visited folders
+Folders you opened show their name in the accent colour
+69- Storage usage bars
+A bar under each storage in the side bar shows how full it is (red when almost full)
+69- Side bar list from the bottom
+The side bar list starts at the bottom, easy to reach with the thumb (MiXplorer 'pin the list from bottom')
+69- Pinch to zoom
+In grid view, pinch to show bigger or smaller thumbnails
+69- Crop thumbnails
+Off = whole picture fits in the thumbnail
+69- No animations
+Lists and screens change at once, without sliding / fading
+69- Animated thumbnails
+GIF and animated WebP thumbnails move. Off = still pictures (restart the app)
+8:35
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## settings_main_p3
+Navigate up
+Settings
+Lists and screens change at once, without sliding / fading
+69- Animated thumbnails
+GIF and animated WebP thumbnails move. Off = still pictures (restart the app)
+69- Two panels layout
+Auto (side by side when the screen is wide)
+69- Solid navigation bar
+The phone's navigation bar gets the app's background colour (black with the black theme) instead of being see-through
+List rows
+Normal
+Files first
+When Folders first is ticked in the sort menu, show files above folders instead
+Shuffled order
+Files are listed in a random order (new each time the app starts). Folders first still applies
+Dot files first
+Names that start with a dot are listed before everything else
+Show details on folders
+Folders show their date and how many items are inside (date | 12 items), like MiXplorer
+Custom date format
+Empty = normal. Example: yyyy-MM-dd HH:mm  (yyyy year, MM month, dd day, HH hour, mm minute)
+8:35
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+
+## settings_main_p4
+Navigate up
+Settings
+Dot files first
+Names that start with a dot are listed before everything else
+Show details on folders
+Folders show their date and how many items are inside (date | 12 items), like MiXplorer
+Custom date format
+Empty = normal. Example: yyyy-MM-dd HH:mm  (yyyy year, MM month, dd day, HH hour, mm minute)
+Back goes to the previous folder
+The back button jumps to the folder you were in before, instead of going one folder up
+Startup lock
+Ask for the phone's PIN / pattern / fingerprint when the app starts
+Recycle bin
+Deleted files go to Internal/.69RecycleBin first (select them there to restore)
+Open recycle bin
+Empty recycle bin
+Export settings
+Import settings
+8:35
+Android System notification:
+Wifi signal full.
+Phone signal full.
+Battery charging, 100 percent.
+

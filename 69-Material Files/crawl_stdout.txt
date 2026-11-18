@@ -1,0 +1,122 @@
+start 69-Material Files files me.zhanghai.android.files.mod69 1080 2400
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.android.intentresolver ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+left the app ( com.google.android.apps.nexuslauncher ) - relaunching
+ PAGE settings
+   - Language | System default
+   - Theme color | Color that appears most frequently in the app
+   - [switch on] Material Design 3
+   - Night mode | Follow system
+   - [switch off] Black night mode
+   - [switch on] File list animation
+   - Display long file name | Ellipsize the middle
+   - Default folder | Internal shared storage
+   - Storage | Root and Internal shared storage
+   - Standard folders | DCIM, Downloads, Movies, Music, and Pictures
+   - Bookmark folders | Screenshots, 0, Pictures, and 0
+   - Root access mode | Automatic
+   - Archive file name encoding | UTF-8
+   - Open Android package | Ask what to do
+   - [switch on] Read remote files for thumbnail
+   - 69- Accent colour (MiXplorer style) | App's own colour
+   - [switch off] 69- Pure black (AMOLED) | Black background, bars and menus in dark mode
+   - [switch off] 69- Monospace font (MiXplorer style)
+   - [switch on] 69- Show file extensions | Off = names without .jpg / .mp4 …
+   - [switch on] Off = names without .jpg / .mp4 …
+   - [switch off] 69- Show full long names | Long names wrap to more lines instead of being cut
+   - [switch on] 69- Highlight visited folders | Folders you opened show their name in the accent colour
+   - [switch on] 69- Storage usage bars | A bar under each storage in the side bar shows how full it is (red when almost full)
+   - [switch off] 69- Side bar list from the bottom | The side bar list starts at the bottom, easy to reach with the thumb (MiXplorer 'pin the list from bottom')
+   - [switch on] 69- Pinch to zoom | In grid view, pinch to show bigger or smaller thumbnails
+   - [switch on] 69- Crop thumbnails | Off = whole picture fits in the thumbnail
+   - [switch off] 69- No animations | Lists and screens change at once, without sliding / fading
+   - [switch on] 69- Animated thumbnails | GIF and animated WebP thumbnails move. Off = still pictures (restart the app)
+   - 69- Two panels layout | Auto (side by side when the screen is wide)
+   - [switch on] 69- Solid navigation bar | The phone's navigation bar gets the app's background colour (black with the black theme) instead of being see-through
+   - List rows | Normal
+   - [switch off] Files first | When Folders first is ticked in the sort menu, show files above folders instead
+   - [switch off] Shuffled order | Files are listed in a random order (new each time the app starts). Folders first still applies
+   - [switch off] Dot files first | Names that start with a dot are listed before everything else
+   - [switch off] Show details on folders | Folders show their date and how many items are inside (date | 12 items), like MiXplorer
+   - Custom date format | Empty = normal. Example: yyyy-MM-dd HH:mm  (yyyy year, MM month, dd day, HH hour, mm minute)
+   - [switch off] Back goes to the previous folder | The back button jumps to the folder you were in before, instead of going one folder up
+   - [switch off] Startup lock | Ask for the phone's PIN / pattern / fingerprint when the app starts
+   - [switch on] Recycle bin | Deleted files go to Internal/.69RecycleBin first (select them there to restore)
+   - Open recycle bin
+   - Empty recycle bin
+   - Export settings
+   - Import settings
+done 150 screenshots 1591 s
