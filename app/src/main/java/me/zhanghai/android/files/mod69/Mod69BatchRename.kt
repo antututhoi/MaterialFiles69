@@ -84,7 +84,10 @@ object Mod69BatchRename {
                     return@setPositiveButton
                 }
                 sorted.forEachIndexed { i, p ->
-                    if (p.fileName.toString() != n[i]) FileJobService.rename(p, n[i], context)
+                    if (p.fileName.toString() != n[i]) {
+                        FileJobService.rename(p, n[i], context)
+                        Mod69Undo.rename(p, n[i])
+                    }
                 }
                 onDone()
             }

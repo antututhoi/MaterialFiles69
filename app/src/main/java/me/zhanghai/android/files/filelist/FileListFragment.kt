@@ -1360,6 +1360,7 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
             FileJobService.move(
                 makePathListForJob(pasteState.files), targetDirectory, requireContext()
             )
+            me.zhanghai.android.files.mod69.Mod69Undo.move(makePathListForJob(pasteState.files), targetDirectory)
         }
         viewModel.clearPasteState()
     }
@@ -1526,6 +1527,7 @@ class FileListFragment : Fragment(), BreadcrumbLayout.Listener, FileListAdapter.
 
     override fun renameFile(file: FileItem, newName: String) {
         FileJobService.rename(file.path, newName, requireContext())
+        me.zhanghai.android.files.mod69.Mod69Undo.rename(file.path, newName)
         viewModel.selectFile(file, false)
     }
 

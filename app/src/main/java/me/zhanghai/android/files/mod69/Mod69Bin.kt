@@ -34,6 +34,7 @@ object Mod69Bin {
         File(dir, INDEX).writeText(index.toString())
         File(root, ".nomedia").takeIf { !it.exists() }?.createNewFile()
         FileJobService.move(paths, Paths.get(dir.absolutePath), context)
+        Mod69Undo.bin(dir, paths)
         return true
     }
 

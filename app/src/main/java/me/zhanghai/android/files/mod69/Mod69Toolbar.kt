@@ -18,6 +18,7 @@ object Mod69Toolbar {
     const val ID_TOOLS = 0x69a4
     const val ID_ADD = 0x69a5
     const val ID_FILTER = 0x69a6
+    const val ID_UNDO = 0x69a7
 
     private class Action(val key: String, val id: Int, val name: String)
 
@@ -36,6 +37,7 @@ object Mod69Toolbar {
         Action("bin", ID_BIN, "Recycle bin"),
         Action("add", ID_ADD, "Add (new folder / file / dot file)"),
         Action("filter", ID_FILTER, "Filter (only images / videos / …)"),
+        Action("undo", ID_UNDO, "Undo (last rename / move / delete)"),
         Action("home", ID_HOME, "Internal storage"),
         Action("tools", ID_TOOLS, "Tools"),
     )
@@ -58,6 +60,7 @@ object Mod69Toolbar {
             menu.add(Menu.NONE, ID_TOOLS, 203, "Tools").setIcon(R.drawable.mod69_tools_icon_white_24dp)
             menu.add(Menu.NONE, ID_ADD, 199, "Add").setIcon(R.drawable.add_icon_white_24dp)
             menu.add(Menu.NONE, ID_FILTER, 198, "Filter").setIcon(R.drawable.filter_icon_control_normal_24dp)
+            menu.add(Menu.NONE, ID_UNDO, 197, "Undo").setIcon(R.drawable.mod69_undo_icon_white_24dp)
             menu.add(Menu.NONE, 0x69a9, 204, "Toolbar buttons…")
         }
         val set = chosen()
@@ -78,6 +81,9 @@ object Mod69Toolbar {
         when (item.itemId) {
             ID_FILTER -> {
                 filter(); true
+            }
+            ID_UNDO -> {
+                Mod69Undo.show(context, refresh); true
             }
             ID_ADD -> {
                 // MiXplorer "Add": folder, file or a dot file
