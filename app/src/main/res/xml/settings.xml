@@ -209,8 +209,8 @@
             android:defaultValue="false" />
         <SwitchPreferenceCompat
             android:key="mod69_folder_details"
-            android:title="Show the date on folders"
-            android:summary="Folders show their last changed date under the name, like files do"
+            android:title="Show details on folders"
+            android:summary="Folders show their date and how many items are inside (date | 12 items), like MiXplorer"
             android:defaultValue="false" />
         <EditTextPreference
             android:key="mod69_date_format"

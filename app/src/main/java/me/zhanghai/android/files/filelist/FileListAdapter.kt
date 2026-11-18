@@ -349,15 +349,19 @@ class FileListAdapter(
                 com.google.android.material.color.MaterialColors.getColor(holder.nameText, android.R.attr.textColorPrimary)
             }
         )
-        holder.descriptionText?.text = if (isDirectory) {
-            // 69 mod: folders can show their date too (MiXplorer "Detailed" look)
-            if (me.zhanghai.android.files.mod69.Mod69Look.folderDetails) {
+        holder.descriptionText?.tag = null
+        if (isDirectory && me.zhanghai.android.files.mod69.Mod69Look.folderDetails && holder.descriptionText != null) {
+            // 69 mod: folders show "date | 12 items" (MiXplorer "Detailed" look)
+            me.zhanghai.android.files.mod69.Mod69FolderInfo.bind(
+                holder.descriptionText!!, path.toString(),
                 me.zhanghai.android.files.mod69.Mod69Look.formatDate(
                     attributes.lastModifiedTime().toInstant(), holder.descriptionText!!.context
-                )
-            } else {
-                null
-            }
+                ),
+                attributes.lastModifiedTime().toMillis(),
+                me.zhanghai.android.files.settings.Settings.FILE_LIST_SHOW_HIDDEN_FILES.valueCompat,
+            )
+        } else holder.descriptionText?.text = if (isDirectory) {
+            null
         } else {
             val context = holder.descriptionText!!.context
             // 69 mod: custom date format
